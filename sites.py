@@ -6,8 +6,14 @@
 #   eightfold  - Eightfold JSON API
 #   phenom     - Phenom career sites (embedded JSON, falls back to links)
 #
-# `country`/`location`: global companies are limited to Kazakhstan.
-# Delete that line to receive every new job worldwide.
+#   cards      - vacancy cards picked by CSS selectors
+#
+# kz_only: True -> Kazakhstan vacancies, plus vacancies from any country that are
+#                  HSE/Safety, remote, entry level, or need 1 year of experience or less
+# global_keywords -> extra worldwide searches used to find those vacancies
+
+WORLDWIDE_SEARCHES = ["HSE", "HSSE", "EHS", "Safety", "Environmental", "Fire", "Occupational Health",
+                      "Remote", "Graduate", "Intern", "Entry Level", "Trainee", "Junior"]
 
 SITES = [
     {
@@ -63,6 +69,8 @@ SITES = [
         "base": "https://jobs.worley.com",
         "domain": "worley.com",
         "location": "Kazakhstan",
+        "kz_only": True,
+        "global_keywords": WORLDWIDE_SEARCHES,
     },
     {
         "name": "KPO",
@@ -88,12 +96,16 @@ SITES = [
         "card": "li.job-data",
         "title": ".xs-heading",
         "location_sel": ".icon.location + span",
+        "kz_only": True,
     },
     {
         "name": "SLB",
         "mode": "links",
         "render": True,
-        "url": "https://careers.slb.com/job-listing#q=Kazakhstan&cq=%40source%3D%3D%24%22ATS_Jobs_Source%20-%20Prod%22",
+        "pages": [
+            {"url": "https://careers.slb.com/job-listing#q=Kazakhstan", "kz": True},
+        ] + [f"https://careers.slb.com/job-listing#q={k}" for k in ["HSE", "Safety", "Remote", "Graduate", "Intern"]],
+        "kz_only": True,
         "pattern": r"(job-detail|jobdescription|jobaddetail|jobid=|career_job_req_id|/job/)",
         "exclude": r"job-categories|job-listing",
         "id_regex": r"(?:jobid|id)=([\w-]+)",
@@ -105,24 +117,34 @@ SITES = [
         "job_base": "https://jobs-cee.pwc.com/ea/en/job/",
     },
     {
-        "name": "KPMG Caucasus & Central Asia",
-        "mode": "links",
+        "name": "KPMG Kazakhstan",
+        "mode": "cards",
         "render": True,
         "click_more": r"Show more|Показать ещ|Load more",
         "url": "https://kpmgcca.global.huntflow.io/",
-        "pattern": r"kpmgcca\.global\.huntflow\.io/vacancy/[^/?#]+",
+        "card": "article",
+        "title": "h3",
+        "location_sel": "[class*='_info']",
+        "kz_only": True,
+        "keep_unknown_location": True,   # some KPMG cards show no city
     },
     {
         "name": "Baker Hughes",
-        "mode": "phenom",
-        "url": "https://careers.bakerhughes.com/global/en/search-results?keywords=Kazakhstan",
-        "job_base": "https://careers.bakerhughes.com/global/en/job/",
-        "location": "Kazakhstan",
+        "mode": "workday",
+        "host": "bakerhughes.wd5.myworkdayjobs.com",
+        "tenant": "bakerhughes",
+        "site": "BakerHughes",
+        "country": "Kazakhstan",
+        "kz_only": True,
+        "global_keywords": WORLDWIDE_SEARCHES,
     },
     {
-        "name": "Halliburton Kazakhstan",
+        "name": "Halliburton",
         "mode": "links",
-        "url": "https://careers.halliburton.com/location/kazakhstan-jobs/543/1522867/2",
+        "pages": [
+            {"url": "https://careers.halliburton.com/location/kazakhstan-jobs/543/1522867/2", "kz": True},
+        ] + [f"https://careers.halliburton.com/search-jobs/{k}/543/1" for k in WORLDWIDE_SEARCHES],
+        "kz_only": True,
         "pattern": r"careers\.halliburton\.com/job/.+/\d{6,}",
         "id_regex": r"/(\d{6,})/?$",
     },
@@ -133,6 +155,8 @@ SITES = [
         "tenant": "shell",
         "site": "shellcareers",
         "country": "Kazakhstan",
+        "kz_only": True,
+        "global_keywords": WORLDWIDE_SEARCHES,
     },
     {
         "name": "AtyrauTechInvest",

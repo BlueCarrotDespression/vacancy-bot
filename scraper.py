@@ -224,6 +224,69 @@ def experience_for(site, item):
         return None
 
 
+# ---------------------------------------------------------------- Kazakhstan / safety filter
+
+KZ_RX = re.compile(
+    r"kazakh|казах|қазақ|\bKZ\b|almaty|astana|nur-sultan|atyrau|aktau|aksa[iy]|uralsk|\boral\b|"
+    r"shymkent|karaganda|aktobe|tengiz|kashagan|karachaganak|kulsary|zhanaozen|pavlodar|oskemen|"
+    r"ust-kamenogorsk|kyzylorda|konyrkuduk|алматы|астана|атырау|актау|аксай|уральск|шымкент|"
+    r"караганд|актобе|тенгиз|кашаган|карачаганак|кульсары|жанаозен|павлодар|усть-каменогорск|кызылорда",
+    re.I)
+SAFETY_RX = re.compile(
+    r"\b(Q?HS?S?EQ?|SHEQ?|EHS|OHS|OSH|HSSE|H&S|PTW)\b|safety|health\s*(and|&)\s*safety|occupational health|"
+    r"industrial hygien|hygienist|ergonom|fire\s*(fighter|protection|prevention|watch|marshal)|firefighter|"
+    r"emergency (response|preparedness|management|coordinator)|environment|sustainab|ecolog|"
+    r"loss prevention|incident investigat|risk (assessment|engineer|advisor)|permit to work|"
+    r"\bmedic\b|paramedic|rig medic|first aid|scaffold inspector|lifting (inspector|supervisor)|"
+    r"охран\w* труда|охран\w* окружающ|промышленн\w* безопасн|промбезопас|пожарн|эколог|"
+    r"\bОТ\s*и\s*ТБ\b|\bТБ\b|\bООС\b|\bПБ\b|безопасност|еңбекті қорғау|қауіпсіздік|экология",
+    re.I)
+REMOTE_RX = re.compile(r"remote|work from home|\bWFH\b|home[- ]based|telework|удал[её]нн|дистанцион|қашықтан", re.I)
+ENTRY_RX = re.compile(
+    r"\b(intern|internship|graduate|grad|trainee|traineeship|entry[- ]level|junior|jr\.?|apprentice|"
+    r"apprenticeship|early careers?|student)\b|стаж[её]р|практикант|выпускник|младш|"
+    r"без опыта|тәжірибесіз", re.I)
+
+
+def is_safety(title):
+    return bool(SAFETY_RX.search(title or ""))
+
+
+def worldwide_reason(site, it):
+    """Why a vacancy passes the Kazakhstan-only rule. None = in Kazakhstan, False = needs experience check."""
+    title, loc = it.get("title", ""), it.get("location", "")
+    if it.get("kz") or KZ_RX.search(f"{loc} {title}"):
+        return None
+    if not loc and site.get("keep_unknown_location"):
+        return None
+    if is_safety(title):
+        return "HSE / Safety"
+    if REMOTE_RX.search(f"{title} {loc} {it.get('remote', '')}"):
+        return "Remote"
+    if ENTRY_RX.search(title):
+        return "Entry level"
+    return False
+
+
+def min_years(exp):
+    if not exp:
+        return None
+    if exp.startswith("No experience"):
+        return 0
+    m = re.match(r"(\d+)", exp)
+    return int(m.group(1)) if m else None
+
+
+def quick_pass(site, it):
+    return not site.get("kz_only") or worldwide_reason(site, it) is not False
+
+
+def page_list(site):
+    """pages may be plain URLs or {"url": ..., "kz": True} for pages already filtered to Kazakhstan."""
+    for p in site.get("pages") or [site["url"]]:
+        yield (p, False) if isinstance(p, str) else (p["url"], p.get("kz", False))
+
+
 # ---------------------------------------------------------------- scrapers
 
 GENERIC = re.compile(r"^(подробнее|подробности|читать далее|read more|learn more|more|details|view|"
@@ -251,7 +314,7 @@ def scrape_links(site):
     pat = re.compile(site["pattern"], re.I)
     exc = re.compile(site["exclude"], re.I) if site.get("exclude") else None
     found = {}
-    for n, url in enumerate(site.get("pages") or [site["url"]]):
+    for n, (url, kz) in enumerate(page_list(site)):
         h = get_html(url, site.get("render", False), site.get("click_more"))
         dump_debug(site, h, f"-p{n + 1}" if site.get("pages") else "")
         soup = BeautifulSoup(h, "html.parser")
@@ -264,7 +327,8 @@ def scrape_links(site):
             jid = make_id(site, href)
             title = anchor_title(a)
             if jid not in found or (title and not found[jid]["title"]):
-                found[jid] = {"id": jid, "title": title, "url": href}
+                found[jid] = {"id": jid, "title": title, "url": href,
+                              "kz": kz or found.get(jid, {}).get("kz", False)}
     items = list(found.values())
     if not items and site.get("fallback"):
         fb = dict(site, **site["fallback"])
@@ -316,7 +380,7 @@ def scrape_section(site):
 def scrape_cards(site):
     """Vacancy cards picked by CSS selectors (for sites whose cards carry no normal link)."""
     found = {}
-    for n, url in enumerate(site.get("pages") or [site["url"]]):
+    for n, (url, kz) in enumerate(page_list(site)):
         h = get_html(url, site.get("render", False), site.get("click_more"))
         dump_debug(site, h, f"-p{n + 1}" if site.get("pages") else "")
         soup = BeautifulSoup(h, "html.parser")
@@ -336,7 +400,7 @@ def scrape_cards(site):
             jid = make_id(site, href)
             if site.get("link_template"):
                 href = site["link_template"].format(id=jid)
-            it = {"id": jid, "title": clean(t.get_text(" ")), "url": href}
+            it = {"id": jid, "title": clean(t.get_text(" ")), "url": href, "kz": kz}
             if site.get("location_sel"):
                 loc = card.select_one(site["location_sel"])
                 it["location"] = clean(loc.get_text(" ")).strip(" ,") if loc else ""
@@ -389,51 +453,70 @@ def _find_facet(node, name, parent_param=None):
     return None
 
 
+def _wd_pages(api, hdr, body, limit):
+    posts = []
+    for off in range(0, limit, 20):
+        d = S.post(api, json=dict(body, offset=off, limit=20), headers=hdr, timeout=40).json()
+        batch = d.get("jobPostings", [])
+        posts += batch
+        if len(batch) < 20:
+            break
+    return posts
+
+
 def scrape_workday(site):
     host, tenant, wsite = site["host"], site["tenant"], site["site"]
     api = f"https://{host}/wday/cxs/{tenant}/{wsite}/jobs"
     hdr = {"Accept": "application/json", "Content-Type": "application/json"}
-    body = {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": ""}
-    if site.get("country"):
-        d = S.post(api, json=body, headers=hdr, timeout=40).json()
-        f = _find_facet(d.get("facets", []), site["country"])
-        if not f:
-            return []          # no open jobs in that country right now
-        body["appliedFacets"] = {f[0]: [f[1]]}
-    items = []
-    for off in range(0, 200, 20):
-        body["offset"] = off
-        d = S.post(api, json=body, headers=hdr, timeout=40).json()
-        posts = d.get("jobPostings", [])
+    base = {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": ""}
+    found = {}
+
+    def add(posts, kz):
         for p in posts:
             path = p["externalPath"]
-            items.append({"id": path, "title": p.get("title", ""),
-                          "location": p.get("locationsText", ""),
-                          "url": f"https://{host}/{wsite}{path}",
-                          "detail_api": f"https://{host}/wday/cxs/{tenant}/{wsite}{path}"})
-        if len(posts) < 20:
-            break
-    return items
+            if path in found:
+                continue
+            found[path] = {"id": path, "title": p.get("title", ""), "kz": kz,
+                           "location": p.get("locationsText", ""), "remote": p.get("remoteType", ""),
+                           "url": f"https://{host}/{wsite}{path}",
+                           "detail_api": f"https://{host}/wday/cxs/{tenant}/{wsite}{path}"}
+
+    if site.get("country"):
+        d = S.post(api, json=base, headers=hdr, timeout=40).json()
+        f = _find_facet(d.get("facets", []), site["country"])
+        if f:   # no facet = no open jobs in that country right now
+            add(_wd_pages(api, hdr, dict(base, appliedFacets={f[0]: [f[1]]}), 200), True)
+    else:
+        add(_wd_pages(api, hdr, base, 200), False)
+    for kw in site.get("global_keywords", []):
+        add(_wd_pages(api, hdr, dict(base, searchText=kw), 40), False)
+    return list(found.values())
 
 
 def scrape_eightfold(site):
     base = site["base"].rstrip("/")
-    params = {"domain": site["domain"], "start": 0, "num": 100, "sort_by": "timestamp"}
-    if site.get("location"):
-        params["location"] = site["location"]
-    d = S.get(f"{base}/api/apply/v2/jobs", params=params,
-              headers={"Accept": "application/json"}, timeout=40).json()
-    if "positions" not in d:
-        raise RuntimeError(f"unexpected Eightfold response: {str(d)[:150]}")
-    items = []
-    for p in d.get("positions", []):
-        locs = " ".join([p.get("location") or ""] + list(p.get("locations") or []))
-        if site.get("location") and site["location"].lower() not in locs.lower():
-            continue
-        items.append({"id": str(p["id"]), "title": p.get("name", ""), "location": p.get("location") or "",
-                      "url": p.get("canonicalPositionUrl") or f"{base}/careers?pid={p['id']}",
-                      "detail_api": f"{base}/api/apply/v2/jobs/{p['id']}?domain={site['domain']}"})
-    return items
+    found = {}
+
+    def fetch(extra):
+        params = {"domain": site["domain"], "start": 0, "num": 100, "sort_by": "timestamp", **extra}
+        d = S.get(f"{base}/api/apply/v2/jobs", params=params,
+                  headers={"Accept": "application/json"}, timeout=40).json()
+        if "positions" not in d:
+            raise RuntimeError(f"unexpected Eightfold response: {str(d)[:150]}")
+        for p in d["positions"]:
+            pid = str(p["id"])
+            if pid not in found:
+                locs = " ".join([p.get("location") or ""] + list(p.get("locations") or []))
+                found[pid] = {"id": pid, "title": p.get("name", ""), "location": p.get("location") or "",
+                              "kz": bool(KZ_RX.search(locs)),
+                              "remote": str(p.get("work_location_option") or p.get("location_flexibility") or ""),
+                              "url": p.get("canonicalPositionUrl") or f"{base}/careers?pid={pid}",
+                              "detail_api": f"{base}/api/apply/v2/jobs/{pid}?domain={site['domain']}"}
+
+    fetch({"location": site["location"]} if site.get("location") else {})
+    for kw in site.get("global_keywords", []):
+        fetch({"query": kw})
+    return list(found.values())
 
 
 def _walk_jobs(node):
@@ -544,6 +627,8 @@ def format_vacancy(site, item, exp):
     if item.get("location"):
         lines.append(f"📍 {esc(item['location'])}")
     lines.append(f"🧰 Experience: {esc(exp) if exp else 'not stated'}")
+    if item.get("why"):
+        lines.append(f"🌍 Outside Kazakhstan: {esc(item['why'])}")
     return "\n".join(lines)
 
 
@@ -552,6 +637,8 @@ def send_digest(site, items):
     lines = [f"🏢 <b>{esc(site['name'])}</b>: {len(items)} open vacancies\n"]
     for n, it in enumerate(items, 1):
         loc = f" · {esc(it['location'])}" if it.get("location") else ""
+        if it.get("why"):
+            loc += f" 🌍 {esc(it['why'])}"
         lines.append(f'{n}. <a href="{htmllib.escape(it["url"], quote=True)}">'
                      f'{esc(it["title"]) or "Untitled vacancy"}</a>{loc}')
     send_chunked(lines)
@@ -585,7 +672,7 @@ def doctor():
     for site in SITES:
         print(f"== {site['name']}")
         try:
-            items = run_site(site)
+            items = [i for i in run_site(site) if quick_pass(site, i)]
             for i in items:
                 print(f"   {i['title']} | {i.get('location', '')} | {i['url']}")
             (ok if items else empty).append(f"• {esc(site['name'])}: {len(items)}" if items
@@ -627,10 +714,15 @@ def main():
         seen = set(st["seen"])
         new = [i for i in items if i["id"] not in seen]
         print(f"   {len(items)} found, {len(new)} new")
+        for it in new:
+            if site.get("kz_only"):
+                it["why"] = worldwide_reason(site, it)
         if not st.get("initialized"):
-            # first run for this site: send the current list once, then only new ones
-            if new:
-                send_digest(site, new)
+            # first run: send the current list once (Kazakhstan, HSE, remote, entry level), then only new ones.
+            # Worldwide jobs that would need an experience check are skipped this once.
+            show = [i for i in new if i.get("why") is not False]
+            if show:
+                send_digest(site, show)
             else:
                 first_run_empty.append(esc(name))
             st["seen"].extend(i["id"] for i in new)
@@ -638,6 +730,13 @@ def main():
         else:
             for it in new[:MAX_NEW_PER_RUN]:
                 exp = experience_for(site, it)
+                it["exp"] = exp
+                if it.get("why") is False:
+                    # worldwide, not HSE / remote / entry level: keep only if 1 year or less is required
+                    if min_years(exp) is None or min_years(exp) > 1:
+                        st["seen"].append(it["id"])
+                        continue
+                    it["why"] = "little experience needed"
                 if tg_send(format_vacancy(site, it, exp), it["url"]):
                     st["seen"].append(it["id"])
                     seen.add(it["id"])
