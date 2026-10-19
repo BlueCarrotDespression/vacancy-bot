@@ -22,7 +22,6 @@ STATE_FILE = "seen.json"
 MAX_SEEN_PER_SITE = 3000
 MAX_NEW_PER_RUN = 40          # per site; the rest are sent on the next run
 FAIL_ALERT_AFTER = 12         # consecutive failed runs before a Telegram alert (~2-3 h)
-SEND_EXISTING = os.environ.get("SEND_EXISTING", "false").lower() == "true"
 
 DOCTOR = "--doctor" in sys.argv
 TG_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
@@ -82,7 +81,17 @@ def get_html(url, render=False, click_more=None):
                 except Exception:
                     break
         page.wait_for_timeout(2500)
-        return page.content()
+        content = page.content()
+        # links inside shadow DOM (e.g. SLB's search widget) are missing from page.content();
+        # Playwright locators can see them, so append them as plain links
+        try:
+            extra = page.locator("a[href]").evaluate_all(
+                "els => els.map(e => [e.href, (e.innerText || e.getAttribute('aria-label') || '').trim()])")
+            content += '<div id="pw-links">' + "".join(
+                f'<a href="{htmllib.escape(h, quote=True)}">{htmllib.escape(t)}</a>' for h, t in extra) + "</div>"
+        except Exception:
+            pass
+        return content
     finally:
         ctx.close()
 
@@ -227,11 +236,12 @@ def anchor_title(a):
     if first:
         return first[:200]
     node = a
+    name_cls = re.compile(r"name|title|head|position", re.I)
     for _ in range(5):
         node = node.parent
         if node is None:
             break
-        h = node.find(["h1", "h2", "h3", "h4", "h5", "strong", "b"])
+        h = node.find(class_=name_cls) or node.find(["h1", "h2", "h3", "h4", "h5", "strong", "b"])
         if h and len(clean(h.get_text(" "))) >= 4:
             return clean(h.get_text(" "))[:200]
     return clean(a.get("title") or a.get("aria-label") or "")[:200]
@@ -295,10 +305,48 @@ def scrape_section(site):
             continue
         block_end = idx[k + 1] - 1 if k + 1 < len(idx) else min(len(lines), i + 40)
         block = "\n".join(lines[i:block_end])
+        if any(x["title"] == title for x in items):
+            continue
         jid = hashlib.sha1((title + "|" + lines[i]).encode()).hexdigest()[:16]
         items.append({"id": jid, "title": title, "url": site["url"],
                       "exp": extract_experience(block)})
     return items
+
+
+def scrape_cards(site):
+    """Vacancy cards picked by CSS selectors (for sites whose cards carry no normal link)."""
+    found = {}
+    for n, url in enumerate(site.get("pages") or [site["url"]]):
+        h = get_html(url, site.get("render", False), site.get("click_more"))
+        dump_debug(site, h, f"-p{n + 1}" if site.get("pages") else "")
+        soup = BeautifulSoup(h, "html.parser")
+        for card in soup.select(site["card"]):
+            t = card.select_one(site["title"])
+            if not t:
+                continue
+            if site.get("link_attr"):
+                el = card.select_one(site.get("link_sel") or site["title"])
+                href = el.get(site["link_attr"]) if el else None
+            else:
+                el = card if card.name == "a" else card.select_one(site.get("link_sel", "a[href]"))
+                href = el.get("href") if el else None
+            if not href:
+                continue
+            href = urljoin(url, href)
+            jid = make_id(site, href)
+            if site.get("link_template"):
+                href = site["link_template"].format(id=jid)
+            it = {"id": jid, "title": clean(t.get_text(" ")), "url": href}
+            if site.get("location_sel"):
+                loc = card.select_one(site["location_sel"])
+                it["location"] = clean(loc.get_text(" ")).strip(" ,") if loc else ""
+            if site.get("exp_sel"):
+                e = card.select_one(site["exp_sel"])
+                exp = extract_experience("Опыт: " + e.get_text(" ")) if e else None
+                if exp:
+                    it["exp"] = exp
+            found[jid] = it
+    return list(found.values())
 
 
 def scrape_wordpress(site):
@@ -360,6 +408,7 @@ def scrape_workday(site):
         for p in posts:
             path = p["externalPath"]
             items.append({"id": path, "title": p.get("title", ""),
+                          "location": p.get("locationsText", ""),
                           "url": f"https://{host}/{wsite}{path}",
                           "detail_api": f"https://{host}/wday/cxs/{tenant}/{wsite}{path}"})
         if len(posts) < 20:
@@ -374,12 +423,14 @@ def scrape_eightfold(site):
         params["location"] = site["location"]
     d = S.get(f"{base}/api/apply/v2/jobs", params=params,
               headers={"Accept": "application/json"}, timeout=40).json()
+    if "positions" not in d:
+        raise RuntimeError(f"unexpected Eightfold response: {str(d)[:150]}")
     items = []
     for p in d.get("positions", []):
         locs = " ".join([p.get("location") or ""] + list(p.get("locations") or []))
         if site.get("location") and site["location"].lower() not in locs.lower():
             continue
-        items.append({"id": str(p["id"]), "title": p.get("name", ""),
+        items.append({"id": str(p["id"]), "title": p.get("name", ""), "location": p.get("location") or "",
                       "url": p.get("canonicalPositionUrl") or f"{base}/careers?pid={p['id']}",
                       "detail_api": f"{base}/api/apply/v2/jobs/{p['id']}?domain={site['domain']}"})
     return items
@@ -422,7 +473,18 @@ def scrape_phenom(site):
             if loc_need and loc_need not in loc.lower():
                 continue
             seq = jb.get("jobSeqNo") or jb.get("jobId") or jb.get("reqId")
-            items.append({"id": str(seq), "title": jb.get("title", ""), "url": site["job_base"] + str(seq)})
+            apply = jb.get("applyUrl") or ""
+            m = re.match(r"https://(([\w-]+)\.wd\d+\.myworkdayjobs\.com)/([\w-]+)(/job/.+?)(/apply)?/?$", apply)
+            it = {"id": str(seq), "title": jb.get("title", ""),
+                  "location": clean(str(jb.get("location") or jb.get("city") or ""))}
+            if m:   # job hosted on Workday: open the Workday page, read experience from its API
+                host, tenant, wsite, path = m.group(1), m.group(2), m.group(3), m.group(4)
+                it["url"] = f"https://{host}/{wsite}{path}"
+                it["detail_api"] = f"https://{host}/wday/cxs/{tenant}/{wsite}{path}"
+            else:
+                slug = re.sub(r"[^a-z0-9]+", "-", it["title"].lower()).strip("-")
+                it["url"] = f"{site['job_base']}{jb.get('jobId') or seq}/{slug}"
+            items.append(it)
         return items
     # fallback: render the page and read job links
     fb = dict(site, mode="links", render=True,
@@ -430,20 +492,25 @@ def scrape_phenom(site):
     return scrape_links(fb)
 
 
-SCRAPERS = {"links": scrape_links, "section": scrape_section, "wordpress": scrape_wordpress,
+SCRAPERS = {"links": scrape_links, "section": scrape_section, "wordpress": scrape_wordpress, "cards": scrape_cards,
             "workday": scrape_workday, "eightfold": scrape_eightfold, "phenom": scrape_phenom}
 
 
 # ---------------------------------------------------------------- telegram
 
-def tg_send(text):
+def esc(s):
+    return htmllib.escape(s or "", quote=False)
+
+
+def tg_send(text, button_url=None):
     if not (TG_TOKEN and TG_CHAT):
-        print("[telegram not configured]\n" + text + "\n")
+        print("[telegram not configured]\n" + text + (f"\n[button] {button_url}" if button_url else "") + "\n")
         return True
+    data = {"chat_id": TG_CHAT, "text": text, "parse_mode": "HTML", "disable_web_page_preview": "true"}
+    if button_url:
+        data["reply_markup"] = json.dumps({"inline_keyboard": [[{"text": "🔗 Open vacancy", "url": button_url}]]})
     for attempt in range(5):
-        r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-                          data={"chat_id": TG_CHAT, "text": text, "parse_mode": "HTML",
-                                "disable_web_page_preview": "true"}, timeout=30)
+        r = requests.post(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=data, timeout=30)
         if r.status_code == 200:
             time.sleep(1.1)
             return True
@@ -451,19 +518,43 @@ def tg_send(text):
             time.sleep(r.json().get("parameters", {}).get("retry_after", 5) + 1)
             continue
         print(f"Telegram error {r.status_code}: {r.text}")
+        if r.status_code == 400 and "reply_markup" in data:
+            # Telegram rejected the button URL: put the link in the text instead
+            data.pop("reply_markup")
+            data["text"] = text + f'\n\n<a href="{htmllib.escape(button_url, quote=True)}">🔗 Open vacancy</a>'
+            continue
         time.sleep(3)
     return False
 
 
-def esc(s):
-    return htmllib.escape(s or "", quote=False)
+def send_chunked(lines, sep="\n"):
+    msg = ""
+    for l in lines:
+        if msg and len(msg) + len(l) > 3800:
+            tg_send(msg)
+            msg = ""
+        msg += l + sep
+    if msg.strip():
+        tg_send(msg)
 
 
 def format_vacancy(site, item, exp):
-    return (f"<b>{esc(item['title']) or 'Untitled vacancy'}</b>\n"
-            f"{esc(site['name'])}\n"
-            f"Experience: {esc(exp) if exp else 'not stated'}\n"
-            f"{esc(item['url'])}")
+    lines = [f"🆕 <b>{esc(item['title']) or 'Untitled vacancy'}</b>",
+             f"🏢 {esc(site['name'])}"]
+    if item.get("location"):
+        lines.append(f"📍 {esc(item['location'])}")
+    lines.append(f"🧰 Experience: {esc(exp) if exp else 'not stated'}")
+    return "\n".join(lines)
+
+
+def send_digest(site, items):
+    """First run: one compact list per company, every title is a clickable link."""
+    lines = [f"🏢 <b>{esc(site['name'])}</b>: {len(items)} open vacancies\n"]
+    for n, it in enumerate(items, 1):
+        loc = f" · {esc(it['location'])}" if it.get("location") else ""
+        lines.append(f'{n}. <a href="{htmllib.escape(it["url"], quote=True)}">'
+                     f'{esc(it["title"]) or "Untitled vacancy"}</a>{loc}')
+    send_chunked(lines)
 
 
 # ---------------------------------------------------------------- main
@@ -485,39 +576,37 @@ def run_site(site):
     items = SCRAPERS[site["mode"]](site)
     for it in items:
         it["title"] = clean(it.get("title"))
+        it["location"] = clean(it.get("location"))
     return items
 
 
 def doctor():
-    lines = ["<b>Scraper check</b>"]
+    ok, empty, broken = [], [], []
     for site in SITES:
         print(f"== {site['name']}")
         try:
             items = run_site(site)
-            exp = experience_for(site, items[0]) if items else None
-            sample = "; ".join(esc(i["title"][:60]) for i in items[:3])
-            lines.append(f"{'✅' if items else '⚪'} {esc(site['name'])}: {len(items)}"
-                         + (f"\n   {sample}\n   exp of 1st: {esc(exp) or 'not stated'}" if items else ""))
             for i in items:
-                print(f"   {i['title']} | {i['url']}")
+                print(f"   {i['title']} | {i.get('location', '')} | {i['url']}")
+            (ok if items else empty).append(f"• {esc(site['name'])}: {len(items)}" if items
+                                            else f"• {esc(site['name'])}")
         except Exception as e:
             traceback.print_exc()
-            lines.append(f"❌ {esc(site['name'])}: {esc(type(e).__name__)} {esc(str(e)[:120])}")
-    msg, chunks = "", []
-    for l in lines:
-        if len(msg) + len(l) > 3800:
-            chunks.append(msg)
-            msg = ""
-        msg += l + "\n"
-    chunks.append(msg)
-    for c in chunks:
-        tg_send(c)
+            broken.append(f"• {esc(site['name'])} ({esc(type(e).__name__)})")
+    lines = ["🔎 <b>Site check</b>\n"]
+    if ok:
+        lines += ["✅ <b>Working</b> (number of vacancies):"] + ok + [""]
+    if empty:
+        lines += ["⚪ <b>No vacancies found</b> (site empty right now, or needs a fix):"] + empty + [""]
+    if broken:
+        lines += ["❌ <b>Not working</b>:"] + broken
+    send_chunked(lines)
 
 
 def main():
     state = load_state()
     sites_state = state.setdefault("sites", {})
-    seeded = []
+    first_run_empty = []
     for site in SITES:
         name = site["name"]
         st = sites_state.setdefault(name, {"seen": [], "fails": 0, "initialized": False})
@@ -528,33 +617,35 @@ def main():
             traceback.print_exc()
             st["fails"] = st.get("fails", 0) + 1
             if st["fails"] == FAIL_ALERT_AFTER:
-                tg_send(f"⚠️ {esc(name)}: scraping has failed {FAIL_ALERT_AFTER} runs in a row "
-                        f"({esc(type(e).__name__)}). The site may have changed.")
+                tg_send(f"⚠️ <b>{esc(name)}</b>: the bot could not read this site for the last "
+                        f"{FAIL_ALERT_AFTER} checks. The site may have changed.")
             save_state(state)
             continue
         if st.get("fails", 0) >= FAIL_ALERT_AFTER:
-            tg_send(f"✅ {esc(name)}: scraping works again.")
+            tg_send(f"✅ <b>{esc(name)}</b>: the site can be read again.")
         st["fails"] = 0
         seen = set(st["seen"])
         new = [i for i in items if i["id"] not in seen]
         print(f"   {len(items)} found, {len(new)} new")
-        if not st.get("initialized") and not SEND_EXISTING:
+        if not st.get("initialized"):
+            # first run for this site: send the current list once, then only new ones
+            if new:
+                send_digest(site, new)
+            else:
+                first_run_empty.append(esc(name))
             st["seen"].extend(i["id"] for i in new)
             st["initialized"] = True
-            print(f"   first run: {len(new)} existing vacancies marked as seen")
-            seeded.append(f"{esc(name)}: {len(new)}")
         else:
-            st["initialized"] = True
             for it in new[:MAX_NEW_PER_RUN]:
                 exp = experience_for(site, it)
-                if tg_send(format_vacancy(site, it, exp)):
+                if tg_send(format_vacancy(site, it, exp), it["url"]):
                     st["seen"].append(it["id"])
                     seen.add(it["id"])
         st["seen"] = st["seen"][-MAX_SEEN_PER_SITE:]
         save_state(state)
-    if seeded:
-        tg_send("🟢 Now tracking (current vacancies skipped, only new ones will be sent):\n"
-                + "\n".join(seeded))
+    if first_run_empty:
+        tg_send("ℹ️ No open vacancies right now at: " + ", ".join(first_run_empty)
+                + ".\n\nFrom now on every new vacancy arrives as a separate message.")
     if _browser:
         _browser.close()
         _pw.stop()
