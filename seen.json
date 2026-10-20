@@ -153,7 +153,47 @@
     "106893",
     "106149",
     "106352",
-    "105855"
+    "105855",
+    "106958",
+    "104083",
+    "89559",
+    "106957",
+    "106956",
+    "106955",
+    "106939",
+    "106940",
+    "104132",
+    "106886",
+    "106944",
+    "106954",
+    "106744",
+    "106953",
+    "106290",
+    "104924",
+    "106386",
+    "106950",
+    "106949",
+    "106948",
+    "106947",
+    "106946",
+    "105822",
+    "105922",
+    "106945",
+    "104536",
+    "106943",
+    "106942",
+    "90209",
+    "106941",
+    "106937",
+    "106938",
+    "106936",
+    "106931",
+    "106919",
+    "106935",
+    "106934",
+    "106933",
+    "106774",
+    "106932"
    ],
    "fails": 0,
    "initialized": true
@@ -161,7 +201,8 @@
   "Bolashak": {
    "seen": [
     "https://bolashak.gov.kz/ru/vakansii/menedzher-upravleniya-dogovornoj-i-pretenzionno-iskovoj-raboty-na-period-zameshcheniya-vremenno-otsutstvuyushchego-rabotnika-do-11012027-g",
-    "https://bolashak.gov.kz/ru/vakansii/2025-04-18-vnutrennij-auditor"
+    "https://bolashak.gov.kz/ru/vakansii/2025-04-18-vnutrennij-auditor",
+    "https://bolashak.gov.kz/ru/vakansii/operator-videozapisi-upravlenia-po-svyazyam-s-obshchestvennostyu"
    ],
    "fails": 0,
    "initialized": true
@@ -218,7 +259,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 6,
+   "fails": 7,
    "initialized": false
   },
   "KPO": {
@@ -349,7 +390,8 @@
     "https://www.nesfircroft.com/job/material-manager-32639",
     "https://www.nesfircroft.com/job/project-specialist-contractor",
     "https://www.nesfircroft.com/job/supply-chain-analyst-32361",
-    "https://www.nesfircroft.com/job/piping-isometric-drawing-checker"
+    "https://www.nesfircroft.com/job/piping-isometric-drawing-checker",
+    "https://www.nesfircroft.com/job/mechanical-technician-31072"
    ],
    "fails": 0,
    "initialized": true
@@ -780,7 +822,47 @@
     "/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Emerging-Talent--Engineering-Intern-2026-Opportunities--Warsaw-_R158192-1",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Sales-and-Operations-Planning-Intern-2026-Opportunities--Florence-_R162033",
     "/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Intern---Product-Management---2027_R170509",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Services-Intern-2026-Opportunities--Florence-_R158468"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Services-Intern-2026-Opportunities--Florence-_R158468",
+    "/job/US-TX-10575-Red-Bluff-Road/Cost-of-Quality-Improvement-Leader--FCSS_R170736",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Sales-and-Operations-Planning-Outages-Intern-2026-Opportunities--Florence---M-F-D-_R165549",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sales---Operation-Planning---2027--M-F-D-_R169782",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Finance---2027--M-F-D-_R170547",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Package-and-System-Engineer---Florence--Italy---2026--M-F-D-_R167909",
+    "/job/CA-AB-LEDUC-7018-45-STREET/Warehouse-and-Yard-Operator-II_R169748",
+    "/job/CA-AB-CALGARY-6820-36-STREET-SE/Intern---Chemistry-Intern---12-Month-2027-Opportunities_R169119",
+    "/job/VN-VUNG-TAU-CITY-65A-304-ROAD-WARD-9/Emerging-Talent---Engineering-Intern--Vietnam--2026-Opportunities_R166306",
+    "/job/US-OK-CLAREMORE-2210-E-L-ANDERSON-BLVD/Intern---Manufacturing---Summer-2027-Opportunities_R168909",
+    "/job/HU-PE-FOT-EAST-GATE-BUSINESS-PARK/Emerging-Talent--Enginering-Intern-2026-Opportunities--Ft---M-F-D-_R166163",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Sr-Internal-Auditor_R166489-1",
+    "/job/GB-LONDON-245-HAMMERSMITH-ROAD/Senior-Internal-Auditor_R170498-1",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Senior-Legal-Counsel--International-Trade-Compliance---Houston--TX_R151326-1",
+    "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Intern---Engineering---Technology---Spring--2027-Opportunities_R168906",
+    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Intern---Engineering---Technology---Summer-2027-Opportunities_R168900",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Material-Engineer---2027--M-F-D-_R169937",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Digital-Technology---2027--M-F-D-_R170542",
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Maschinenbau-und-Mechatronik-2026--Celle-_R158055",
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Werkstudent-fr-System--und-Datenanalyse-2026--Celle-_R158064",
+    "/job/KE-Nairobi-Nairobi-The-Address-Building-off-Waiyaki-Way/Mud-Engineer_R162446",
+    "/job/KE-OTHER-KENYA/Assistant-Wellsite-Drilling-Fluids-Engineer_R169109",
+    "/job/CA-AB-LEDUC-7018-45-STREET/Lead-Services-Specialist----Technical-Support_R169884",
+    "/job/US-LA-RAYNE-135-INDUSTRIAL-DRIVE/Customer-Service-Representative_R169970",
+    "/job/US-TX-HOUSTON---6760-Concord-Park/Sr-Primera-Project-Manager_R169265",
+    "/job/BR-RJ-MACAE-BELA-VISTA-AREA-19-1600/Especialista-de-Suporte-Tcnico-em-Servios-de-Workover-e-Abandono_R168728",
+    "/job/US-TX-TOMBALL-11340-FM-2920-ROAD-WHEC/Technical-Training-Instructor_R168140",
+    "/job/US-TX-TOMBALL-11340-FM-2920-ROAD-WHEC/Technical-Training-Instructor---CWI_R168866-1",
+    "/job/KE-Nairobi-Nairobi-The-Address-Building-off-Waiyaki-Way/Field-Operator---OFS-Drilling-and-Completions-Fluids_R162494",
+    "/job/CO-NEIVA-CALLE-40--7P-400-COND-INDUS/Aprendiz-SENA_R158835",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Reciprocating-Compressor-Engineer--Business-Development---Florence--Italy---2026--M-F-D-_R167053",
+    "/job/US-TX-HOUSTON-13717-WEST-HARDY-ROAD/Intern-Co-op---Manufacturing---Spring-2027-Opportunities_R168902",
+    "/job/US-WY-ROCK-SPRINGS-240-INDUSTRIAL-DRIVE/Intern-Co-op---Field-Engineer---Spring-2027-Opportunities_R168904",
+    "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Intern-Co-op---Sourcing---Spring-2027-Opportunities_R168910",
+    "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R168898",
+    "/job/US-LA-BROUSSARD-1064-BAKER-HUGHES-DR/Intern-Co-op---Project-Management---Spring-2027-Opportunities_R168903",
+    "/job/US-TX-MIDLAND-2105-MARKET-STREET/Intern-Co-op---Field-Engineer---Spring-2027-Opportunities_R168914",
+    "/job/US-LA-BROUSSARD-1064-BAKER-HUGHES-DR/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169112",
+    "/job/US-TX-10575-Red-Bluff-Road/Intern-Co-op---Manufacturing---Spring-2027-Opportunities_R169113",
+    "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Intern-Co-op---Engineering---Technology---Spring-2027-Opportunities_R169118-1",
+    "/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Intern-Co-op---Field-Engineering---Spring-2027-Opportunities_R169120"
    ],
    "fails": 0,
    "initialized": true
@@ -913,7 +995,9 @@
     "/job/Anjum/Senior-Operations-Technician--Dagdienst-_R211188",
     "/job/Shell-Centre-Kuala-Lumpur/FP-A-Manager_R210451",
     "/job/Indiana---Michigan-City-Catalyst-Plant/Production-Team-Lead_R213258",
-    "/job/Rotterdam---Weena/Marine-Technical-Advisor_R210202-1"
+    "/job/Rotterdam---Weena/Marine-Technical-Advisor_R210202-1",
+    "/job/Texas---Houston---Woodcreek/Production-Technologist_R211633",
+    "/job/Texas---Houston---Woodcreek/Retail-Development---Construction-Engr_R210354"
    ],
    "fails": 0,
    "initialized": true
@@ -1155,7 +1239,11 @@
     "95125330864",
     "100382062784",
     "100382062768",
-    "96467954768"
+    "96467954768",
+    "102195754448",
+    "102195754288",
+    "101320985664",
+    "101922475392"
    ],
    "fails": 0,
    "initialized": true
