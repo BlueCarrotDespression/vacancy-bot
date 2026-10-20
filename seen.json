@@ -221,7 +221,14 @@
     "104828",
     "105326",
     "105308",
-    "106959"
+    "106959",
+    "106986",
+    "106985",
+    "106984",
+    "106983",
+    "106982",
+    "106981",
+    "106980"
    ],
    "fails": 0,
    "initialized": true
@@ -287,7 +294,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 8,
+   "fails": 9,
    "initialized": false
   },
   "KPO": {
@@ -521,7 +528,11 @@
     "EF13179-en_US",
     "EF18133-en_US",
     "EF13181-en_US",
-    "EF14075-en_US"
+    "EF14075-en_US",
+    "EF15413-en_US",
+    "EF14081-en_US",
+    "EF13182-en_US",
+    "EF14074-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -926,7 +937,7 @@
     "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Senior-Mechanical-Customer-Order-Engineer_R165972",
     "/job/US-TX-HOUSTON-6500-BRITTMOORE-RD/ARMO-technicial_R157230"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -1060,7 +1071,8 @@
     "/job/Rotterdam---Weena/Marine-Technical-Advisor_R210202-1",
     "/job/Texas---Houston---Woodcreek/Production-Technologist_R211633",
     "/job/Texas---Houston---Woodcreek/Retail-Development---Construction-Engr_R210354",
-    "/job/Sarnia---Refinery/Turnaround-Maintenance-Scheduler_R205989-1"
+    "/job/Sarnia---Refinery/Turnaround-Maintenance-Scheduler_R205989-1",
+    "/job/Texas---Houston---One-Thousand-Main/Operations-Support-Analyst_R211085-1"
    ],
    "fails": 0,
    "initialized": true
@@ -1306,7 +1318,9 @@
     "102195754448",
     "102195754288",
     "101320985664",
-    "101922475392"
+    "101922475392",
+    "102159451168",
+    "100483232880"
    ],
    "fails": 0,
    "initialized": true
