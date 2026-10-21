@@ -348,7 +348,22 @@
     "107046",
     "106023",
     "105483",
-    "105779"
+    "105779",
+    "100462",
+    "107070",
+    "107068",
+    "107069",
+    "107043",
+    "107042",
+    "106072",
+    "107041",
+    "106724",
+    "106020",
+    "107040",
+    "105124",
+    "107039",
+    "105281",
+    "107038"
    ],
    "fails": 0,
    "initialized": true
@@ -414,7 +429,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 13,
+   "fails": 14,
    "initialized": false
   },
   "KPO": {
@@ -1091,7 +1106,11 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Project-Management-Senior-Specialist---Climate-Technology-Solutions--d-f-m-_R169248",
     "/job/US-AZ-OTHER-ARIZONA/Services-Specialist---On-Site-Services_R163202",
     "/job/US-TX-STAFFORD-13215-N-Promenade-Blvd/Project-Pursuit-Manager--LNG-Energy_R164895",
-    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/EOR-IOR-Operations-Specialist_R166411"
+    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/EOR-IOR-Operations-Specialist_R166411",
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Specialist-II---Tubera-Flexible_R170511",
+    "/job/US-MI-MOUNT-PLEASANT-2222-ENTERPRISE-DRIVE/Field-Operator-II_R164820",
+    "/job/US-TX-ODESSA-10912-W-HWY-80-E/Field-Engineer-I---CWI_R170114",
+    "/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942"
    ],
    "fails": 0,
    "initialized": true
@@ -1232,7 +1251,10 @@
     "/job/Pernis/Onderhoudstechnicus-Electrical---Instrumentation--E-I-_R205666",
     "/job/Supply-Chain-Strategy-and-Optimization_R213234",
     "/job/Pennsylvania---Monaca-Chemical-Plant/PEI-Inspector_R211740-1",
-    "/job/Louisiana---Norco/PEI-Inspector_R211953-1"
+    "/job/Louisiana---Norco/PEI-Inspector_R211953-1",
+    "/job/Indiana---Michigan-City-Catalyst-Plant/Project-and-Control-Systems-Engineer_R211246-1",
+    "/job/California---Carson--Mormon-Island-Terminal/Automation-Engineer_R209130-1",
+    "/job/Texas---Houston---Woodcreek/Americas-Regional-Security-Analyst_R213374"
    ],
    "fails": 0,
    "initialized": true
@@ -1484,7 +1506,9 @@
     "102238296048",
     "102039544416",
     "98196289648",
-    "102238287840"
+    "102238287840",
+    "100671696240",
+    "100002292112"
    ],
    "fails": 0,
    "initialized": true
