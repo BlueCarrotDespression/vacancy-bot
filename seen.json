@@ -308,7 +308,47 @@
     "107011",
     "107015",
     "104985",
-    "107012"
+    "107012",
+    "107059",
+    "106557",
+    "106657",
+    "106656",
+    "106659",
+    "106535",
+    "106475",
+    "107067",
+    "99654",
+    "107066",
+    "107065",
+    "107064",
+    "107063",
+    "101525",
+    "107062",
+    "104920",
+    "106507",
+    "106134",
+    "107060",
+    "107058",
+    "107057",
+    "107056",
+    "104232",
+    "104249",
+    "107055",
+    "107054",
+    "107053",
+    "107052",
+    "106561",
+    "107049",
+    "107051",
+    "107050",
+    "107048",
+    "106798",
+    "107047",
+    "107045",
+    "107046",
+    "106023",
+    "105483",
+    "105779"
    ],
    "fails": 0,
    "initialized": true
@@ -374,7 +414,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 12,
+   "fails": 13,
    "initialized": false
   },
   "KPO": {
@@ -1045,7 +1085,13 @@
     "/job/US-LA-BROUSSARD-1046-ALLIER-ROAD/AMO-Project-Manager_R170030-1",
     "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Senior-Fluid-Separation-Specialist_R168799",
     "/job/LY-OTHER-LIBYA/Sourcing-Specialist---Benghazi_R170387-1",
-    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Services-Manager---Customer-Service-Management_R168936"
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Services-Manager---Customer-Service-Management_R168936",
+    "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/Properties-Experienced-Professional---Facility-Management---Benghazi_R170388",
+    "/job/RO-OTHER-ROMANIA/AMO-Technician_R170941-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Project-Management-Senior-Specialist---Climate-Technology-Solutions--d-f-m-_R169248",
+    "/job/US-AZ-OTHER-ARIZONA/Services-Specialist---On-Site-Services_R163202",
+    "/job/US-TX-STAFFORD-13215-N-Promenade-Blvd/Project-Pursuit-Manager--LNG-Energy_R164895",
+    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/EOR-IOR-Operations-Specialist_R166411"
    ],
    "fails": 0,
    "initialized": true
@@ -1184,7 +1230,9 @@
     "/job/Sarnia---Refinery/Turnaround-Maintenance-Scheduler_R205989-1",
     "/job/Texas---Houston---One-Thousand-Main/Operations-Support-Analyst_R211085-1",
     "/job/Pernis/Onderhoudstechnicus-Electrical---Instrumentation--E-I-_R205666",
-    "/job/Supply-Chain-Strategy-and-Optimization_R213234"
+    "/job/Supply-Chain-Strategy-and-Optimization_R213234",
+    "/job/Pennsylvania---Monaca-Chemical-Plant/PEI-Inspector_R211740-1",
+    "/job/Louisiana---Norco/PEI-Inspector_R211953-1"
    ],
    "fails": 0,
    "initialized": true
@@ -1432,7 +1480,11 @@
     "101320985664",
     "101922475392",
     "102159451168",
-    "100483232880"
+    "100483232880",
+    "102238296048",
+    "102039544416",
+    "98196289648",
+    "102238287840"
    ],
    "fails": 0,
    "initialized": true
