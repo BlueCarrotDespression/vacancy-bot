@@ -294,7 +294,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 9,
+   "fails": 10,
    "initialized": false
   },
   "KPO": {
@@ -430,7 +430,12 @@
     "https://www.nesfircroft.com/job/automation-technician-32816",
     "https://www.nesfircroft.com/job/welder-b-pressure",
     "https://www.nesfircroft.com/job/process-safety-engineer---south-england",
-    "https://www.nesfircroft.com/job/category-analyst"
+    "https://www.nesfircroft.com/job/category-analyst",
+    "https://www.nesfircroft.com/job/sustainability-specialist-32809",
+    "https://www.nesfircroft.com/job/cost-controller-32637",
+    "https://www.nesfircroft.com/job/senior-safety-technician--inspection",
+    "https://www.nesfircroft.com/job/planning--senior-planner",
+    "https://www.nesfircroft.com/job/sap-asset-management--data-architect"
    ],
    "fails": 0,
    "initialized": true
@@ -935,9 +940,14 @@
     "/job/US-WV-BUCKHANNON-180-CHILDERS-RUN-CROSSING/Wireline-Field-Operator_R170704",
     "/job/MX-Tabasco-Villahermosa-1st-Floor-101-B-Torre-IST-Calle-Paseo-la-Choca/Application-Engineer_R170904",
     "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Senior-Mechanical-Customer-Order-Engineer_R165972",
-    "/job/US-TX-HOUSTON-6500-BRITTMOORE-RD/ARMO-technicial_R157230"
+    "/job/US-TX-HOUSTON-6500-BRITTMOORE-RD/ARMO-technicial_R157230",
+    "/job/MX-Tabasco-Paraiso-Terminal-Maritimo-Dos-Bocas/Field-Supervisor-I---FES-FLD-K_R170930",
+    "/job/MX-Tabasco-Paraiso-Terminal-Maritimo-Dos-Bocas/FIELD-OPER-IV---FLD_R170905",
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Specialist-LWD-DD_R166304",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/ASPIRE-Finance---2027_R169083",
+    "/job/MX-TAB-VILLAHERMOSA-PARQUE-INDUSTRIAL-DEIT-CARR-VILLAHERMOSA-CARDENAS-KM-55/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -1072,7 +1082,8 @@
     "/job/Texas---Houston---Woodcreek/Production-Technologist_R211633",
     "/job/Texas---Houston---Woodcreek/Retail-Development---Construction-Engr_R210354",
     "/job/Sarnia---Refinery/Turnaround-Maintenance-Scheduler_R205989-1",
-    "/job/Texas---Houston---One-Thousand-Main/Operations-Support-Analyst_R211085-1"
+    "/job/Texas---Houston---One-Thousand-Main/Operations-Support-Analyst_R211085-1",
+    "/job/Pernis/Onderhoudstechnicus-Electrical---Instrumentation--E-I-_R205666"
    ],
    "fails": 0,
    "initialized": true
