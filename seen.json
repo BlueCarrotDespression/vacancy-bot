@@ -268,7 +268,47 @@
     "106992",
     "105873",
     "106991",
-    "105112"
+    "105112",
+    "106562",
+    "106614",
+    "106789",
+    "107034",
+    "107035",
+    "105728",
+    "107033",
+    "107032",
+    "98761",
+    "107031",
+    "107030",
+    "107029",
+    "107028",
+    "68402",
+    "107027",
+    "104293",
+    "98472",
+    "107025",
+    "107026",
+    "107024",
+    "107023",
+    "107022",
+    "107021",
+    "105448",
+    "107017",
+    "107006",
+    "107019",
+    "107020",
+    "96391",
+    "93190",
+    "89463",
+    "107018",
+    "107016",
+    "107005",
+    "92221",
+    "107014",
+    "107011",
+    "107015",
+    "104985",
+    "107012"
    ],
    "fails": 0,
    "initialized": true
@@ -334,7 +374,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 11,
+   "fails": 12,
    "initialized": false
   },
   "KPO": {
@@ -354,7 +394,15 @@
     "14419",
     "14420",
     "14422",
-    "14415"
+    "14415",
+    "14152",
+    "14416",
+    "14449",
+    "14441",
+    "14448",
+    "14445",
+    "14446",
+    "14447"
    ],
    "fails": 0,
    "initialized": true
@@ -476,7 +524,8 @@
     "https://www.nesfircroft.com/job/senior-safety-technician--inspection",
     "https://www.nesfircroft.com/job/planning--senior-planner",
     "https://www.nesfircroft.com/job/sap-asset-management--data-architect",
-    "https://www.nesfircroft.com/job/senior-planner-32822"
+    "https://www.nesfircroft.com/job/senior-planner-32822",
+    "https://www.nesfircroft.com/job/instrument-engineer-32828"
    ],
    "fails": 0,
    "initialized": true
@@ -578,7 +627,10 @@
     "EF15413-en_US",
     "EF14081-en_US",
     "EF13182-en_US",
-    "EF14074-en_US"
+    "EF14074-en_US",
+    "EF18803-en_US",
+    "EF19118-en_US",
+    "EF16315-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -989,7 +1041,11 @@
     "/job/MX-TAB-VILLAHERMOSA-PARQUE-INDUSTRIAL-DEIT-CARR-VILLAHERMOSA-CARDENAS-KM-55/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Mechanical-Field-Service-Engineer---Heavy-Duty-Aero-Gas-Turbine-Specialist_R155975-1",
     "/job/BN-KUALA-BELAIT-JALAN-MUMONG-KUALA-BALAI-LOT-26/LEAD-Field-Engineer---2027-Opportunities_R170845",
-    "/job/PG-PORT-MORESBY-AES-FACILITY-2489-NAPANAPA-ROAD/LEAD-Field-Engineer---2027-Opportunities_R170849"
+    "/job/PG-PORT-MORESBY-AES-FACILITY-2489-NAPANAPA-ROAD/LEAD-Field-Engineer---2027-Opportunities_R170849",
+    "/job/US-LA-BROUSSARD-1046-ALLIER-ROAD/AMO-Project-Manager_R170030-1",
+    "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Senior-Fluid-Separation-Specialist_R168799",
+    "/job/LY-OTHER-LIBYA/Sourcing-Specialist---Benghazi_R170387-1",
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Services-Manager---Customer-Service-Management_R168936"
    ],
    "fails": 0,
    "initialized": true
@@ -1127,7 +1183,8 @@
     "/job/Texas---Houston---Woodcreek/Retail-Development---Construction-Engr_R210354",
     "/job/Sarnia---Refinery/Turnaround-Maintenance-Scheduler_R205989-1",
     "/job/Texas---Houston---One-Thousand-Main/Operations-Support-Analyst_R211085-1",
-    "/job/Pernis/Onderhoudstechnicus-Electrical---Instrumentation--E-I-_R205666"
+    "/job/Pernis/Onderhoudstechnicus-Electrical---Instrumentation--E-I-_R205666",
+    "/job/Supply-Chain-Strategy-and-Optimization_R213234"
    ],
    "fails": 0,
    "initialized": true
