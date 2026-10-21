@@ -228,7 +228,47 @@
     "106983",
     "106982",
     "106981",
-    "106980"
+    "106980",
+    "107002",
+    "103275",
+    "106836",
+    "107000",
+    "102187",
+    "106201",
+    "106999",
+    "104172",
+    "105759",
+    "104847",
+    "93298",
+    "105002",
+    "106871",
+    "98603",
+    "96940",
+    "96942",
+    "100207",
+    "105219",
+    "102327",
+    "103856",
+    "104428",
+    "104692",
+    "105411",
+    "106997",
+    "105410",
+    "106248",
+    "103178",
+    "105025",
+    "106996",
+    "106995",
+    "106994",
+    "106247",
+    "106527",
+    "91341",
+    "106341",
+    "106993",
+    "106992",
+    "105873",
+    "106991",
+    "105112"
    ],
    "fails": 0,
    "initialized": true
@@ -294,7 +334,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 10,
+   "fails": 11,
    "initialized": false
   },
   "KPO": {
@@ -435,7 +475,8 @@
     "https://www.nesfircroft.com/job/cost-controller-32637",
     "https://www.nesfircroft.com/job/senior-safety-technician--inspection",
     "https://www.nesfircroft.com/job/planning--senior-planner",
-    "https://www.nesfircroft.com/job/sap-asset-management--data-architect"
+    "https://www.nesfircroft.com/job/sap-asset-management--data-architect",
+    "https://www.nesfircroft.com/job/senior-planner-32822"
    ],
    "fails": 0,
    "initialized": true
@@ -945,7 +986,10 @@
     "/job/MX-Tabasco-Paraiso-Terminal-Maritimo-Dos-Bocas/FIELD-OPER-IV---FLD_R170905",
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Specialist-LWD-DD_R166304",
     "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/ASPIRE-Finance---2027_R169083",
-    "/job/MX-TAB-VILLAHERMOSA-PARQUE-INDUSTRIAL-DEIT-CARR-VILLAHERMOSA-CARDENAS-KM-55/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1"
+    "/job/MX-TAB-VILLAHERMOSA-PARQUE-INDUSTRIAL-DEIT-CARR-VILLAHERMOSA-CARDENAS-KM-55/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Mechanical-Field-Service-Engineer---Heavy-Duty-Aero-Gas-Turbine-Specialist_R155975-1",
+    "/job/BN-KUALA-BELAIT-JALAN-MUMONG-KUALA-BALAI-LOT-26/LEAD-Field-Engineer---2027-Opportunities_R170845",
+    "/job/PG-PORT-MORESBY-AES-FACILITY-2489-NAPANAPA-ROAD/LEAD-Field-Engineer---2027-Opportunities_R170849"
    ],
    "fails": 0,
    "initialized": true
