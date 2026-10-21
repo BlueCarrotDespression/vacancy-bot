@@ -429,7 +429,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 14,
+   "fails": 15,
    "initialized": false
   },
   "KPO": {
@@ -685,7 +685,10 @@
     "EF14074-en_US",
     "EF18803-en_US",
     "EF19118-en_US",
-    "EF16315-en_US"
+    "EF16315-en_US",
+    "EF17077-en_US",
+    "EF21976-en_US",
+    "EF20010-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1110,7 +1113,13 @@
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Specialist-II---Tubera-Flexible_R170511",
     "/job/US-MI-MOUNT-PLEASANT-2222-ENTERPRISE-DRIVE/Field-Operator-II_R164820",
     "/job/US-TX-ODESSA-10912-W-HWY-80-E/Field-Engineer-I---CWI_R170114",
-    "/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942"
+    "/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942",
+    "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Field-Operator-IV_R167274",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Engineering-Professional---Mechanical-Engineering_R165502",
+    "/job/CO-Villavicencio-Vereda-San-Luis-de-Ocoa-Kilometro-57-via-Acacias-margen-izquierda/LEAD-Field-Engineer---PP---Colombia---2027_R170051",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Training-Sales-Specialist_R167890-1",
+    "/job/US-MI-MOUNT-PLEASANT-2222-ENTERPRISE-DRIVE/Wireline-Field-Operator---Northeast--USA_R158499-1",
+    "/job/AR-Bueno-Aires-Bueno-Aires-Juana-Manso-Nro-205-Piso-4-Ciudad-Autonoma-De/Senior-Principal-Reservoir-Engineer_R169458-1"
    ],
    "fails": 0,
    "initialized": true
@@ -1508,7 +1517,10 @@
     "98196289648",
     "102238287840",
     "100671696240",
-    "100002292112"
+    "100002292112",
+    "102262371600",
+    "100483232864",
+    "102255008016"
    ],
    "fails": 0,
    "initialized": true
