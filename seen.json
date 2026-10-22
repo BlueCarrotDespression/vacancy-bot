@@ -363,7 +363,42 @@
     "105124",
     "107039",
     "105281",
-    "107038"
+    "107038",
+    "74745",
+    "103071",
+    "106335",
+    "104283",
+    "104267",
+    "99236",
+    "107079",
+    "107078",
+    "107077",
+    "107076",
+    "101790",
+    "104187",
+    "101867",
+    "102408",
+    "102478",
+    "104836",
+    "107075",
+    "105987",
+    "106616",
+    "98155",
+    "107074",
+    "107073",
+    "107072",
+    "106988",
+    "100276",
+    "103752",
+    "106742",
+    "80290",
+    "107044",
+    "106807",
+    "58825",
+    "102433",
+    "96262",
+    "102990",
+    "105619"
    ],
    "fails": 0,
    "initialized": true
@@ -429,7 +464,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 16,
+   "fails": 17,
    "initialized": false
   },
   "KPO": {
@@ -457,7 +492,8 @@
     "14448",
     "14445",
     "14446",
-    "14447"
+    "14447",
+    "14442"
    ],
    "fails": 0,
    "initialized": true
@@ -1124,7 +1160,8 @@
     "/job/CO-Villavicencio-Vereda-San-Luis-de-Ocoa-Kilometro-57-via-Acacias-margen-izquierda/LEAD-Field-Engineer---PP---Colombia---2027_R170051",
     "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Training-Sales-Specialist_R167890-1",
     "/job/US-MI-MOUNT-PLEASANT-2222-ENTERPRISE-DRIVE/Wireline-Field-Operator---Northeast--USA_R158499-1",
-    "/job/AR-Bueno-Aires-Bueno-Aires-Juana-Manso-Nro-205-Piso-4-Ciudad-Autonoma-De/Senior-Principal-Reservoir-Engineer_R169458-1"
+    "/job/AR-Bueno-Aires-Bueno-Aires-Juana-Manso-Nro-205-Piso-4-Ciudad-Autonoma-De/Senior-Principal-Reservoir-Engineer_R169458-1",
+    "/job/BR-RJ-MACAE-ESTR-SAO-JOSE-DO-MUTUM-200-VALE-ENCANTADO/Jovem-Aprendiz---Maca--2026_R170976"
    ],
    "fails": 0,
    "initialized": true
