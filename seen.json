@@ -429,7 +429,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 15,
+   "fails": 16,
    "initialized": false
   },
   "KPO": {
@@ -580,7 +580,12 @@
     "https://www.nesfircroft.com/job/planning--senior-planner",
     "https://www.nesfircroft.com/job/sap-asset-management--data-architect",
     "https://www.nesfircroft.com/job/senior-planner-32822",
-    "https://www.nesfircroft.com/job/instrument-engineer-32828"
+    "https://www.nesfircroft.com/job/instrument-engineer-32828",
+    "https://www.nesfircroft.com/job/document-controller-32712",
+    "https://www.nesfircroft.com/job/materials-coordinator-v",
+    "https://www.nesfircroft.com/job/senior-ic-engineer-32786",
+    "https://www.nesfircroft.com/job/coiled-tubing-equipment-operator---ct-eo",
+    "https://www.nesfircroft.com/job/contracting-and-procurement-sustainability-adviser"
    ],
    "fails": 0,
    "initialized": true
