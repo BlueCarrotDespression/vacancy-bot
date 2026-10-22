@@ -398,7 +398,47 @@
     "102433",
     "96262",
     "102990",
-    "105619"
+    "105619",
+    "107103",
+    "96617",
+    "106709",
+    "107102",
+    "107100",
+    "99884",
+    "107101",
+    "102937",
+    "103072",
+    "107099",
+    "106781",
+    "105132",
+    "105507",
+    "97401",
+    "99468",
+    "78137",
+    "103722",
+    "107098",
+    "107097",
+    "107096",
+    "103168",
+    "107095",
+    "107094",
+    "92989",
+    "103677",
+    "105223",
+    "106506",
+    "107093",
+    "100706",
+    "107013",
+    "106797",
+    "107092",
+    "107090",
+    "106688",
+    "107089",
+    "107088",
+    "107087",
+    "106363",
+    "105350",
+    "107081"
    ],
    "fails": 0,
    "initialized": true
@@ -464,7 +504,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 17,
+   "fails": 18,
    "initialized": false
   },
   "KPO": {
@@ -493,7 +533,10 @@
     "14445",
     "14446",
     "14447",
-    "14442"
+    "14442",
+    "14142",
+    "14443",
+    "14395"
    ],
    "fails": 0,
    "initialized": true
@@ -1161,7 +1204,13 @@
     "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Training-Sales-Specialist_R167890-1",
     "/job/US-MI-MOUNT-PLEASANT-2222-ENTERPRISE-DRIVE/Wireline-Field-Operator---Northeast--USA_R158499-1",
     "/job/AR-Bueno-Aires-Bueno-Aires-Juana-Manso-Nro-205-Piso-4-Ciudad-Autonoma-De/Senior-Principal-Reservoir-Engineer_R169458-1",
-    "/job/BR-RJ-MACAE-ESTR-SAO-JOSE-DO-MUTUM-200-VALE-ENCANTADO/Jovem-Aprendiz---Maca--2026_R170976"
+    "/job/BR-RJ-MACAE-ESTR-SAO-JOSE-DO-MUTUM-200-VALE-ENCANTADO/Jovem-Aprendiz---Maca--2026_R170976",
+    "/job/CA-AB-LEDUC-7016-45-STREET/ARMO-Technician---Assembly-I_R169305",
+    "/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Experienced-Professional---Quality-Assurance-Engineering_R170972",
+    "/job/TH-OTHER-THAILAND/LEAD-Field-Engineer---2027-Opportunities_R170978",
+    "/job/QA-DOHA-RAS-LAFFAN-INDUSTRIAL-CITY/Department-Administrator-Senior_R170866-1",
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Quality-Engineer-Apprentice-2026-Opportunities--Nailsea-_R166636",
+    "/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Professional---Software-Engineering_R168301-1"
    ],
    "fails": 0,
    "initialized": true
@@ -1305,7 +1354,8 @@
     "/job/Louisiana---Norco/PEI-Inspector_R211953-1",
     "/job/Indiana---Michigan-City-Catalyst-Plant/Project-and-Control-Systems-Engineer_R211246-1",
     "/job/California---Carson--Mormon-Island-Terminal/Automation-Engineer_R209130-1",
-    "/job/Texas---Houston---Woodcreek/Americas-Regional-Security-Analyst_R213374"
+    "/job/Texas---Houston---Woodcreek/Americas-Regional-Security-Analyst_R213374",
+    "/job/Dubai---Airport/DXB-Aviation-Site-Manager_R211957"
    ],
    "fails": 0,
    "initialized": true
@@ -1430,7 +1480,13 @@
     "https://kpmgcca.global.huntflow.io/vacancy/konsultant-starshii-konsultant-v-gruppu-tsifrovykh-finansov-finansovo-bankovskii-sektor",
     "https://kpmgcca.global.huntflow.io/vacancy/menedzher-starshii-menedzher-po-operatsionnoi-effektivnosti-it-protsessov-itsm",
     "https://kpmgcca.global.huntflow.io/vacancy/sonsumer-industrial-manager",
-    "https://kpmgcca.global.huntflow.io/vacancy/supervaizor-it-otdela"
+    "https://kpmgcca.global.huntflow.io/vacancy/supervaizor-it-otdela",
+    "https://kpmgcca.global.huntflow.io/vacancy/audit-manager-senior-manager-1",
+    "https://kpmgcca.global.huntflow.io/vacancy/audit-manager-senior-manager-astana",
+    "https://kpmgcca.global.huntflow.io/vacancy/audit-manager-senior-manager-fs-1",
+    "https://kpmgcca.global.huntflow.io/vacancy/audit-supervisor-1-4-almaty",
+    "https://kpmgcca.global.huntflow.io/vacancy/intern-c1-international-tax",
+    "https://kpmgcca.global.huntflow.io/vacancy/tax-compliance-intern"
    ],
    "fails": 0,
    "initialized": true
@@ -1562,7 +1618,8 @@
     "100002292112",
     "102262371600",
     "100483232864",
-    "102255008016"
+    "102255008016",
+    "102276301600"
    ],
    "fails": 0,
    "initialized": true
