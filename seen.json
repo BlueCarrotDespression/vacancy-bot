@@ -438,7 +438,46 @@
     "107087",
     "106363",
     "105350",
-    "107081"
+    "107081",
+    "107127",
+    "107125",
+    "107126",
+    "107124",
+    "107123",
+    "107122",
+    "107121",
+    "107120",
+    "107117",
+    "107119",
+    "107118",
+    "102431",
+    "101675",
+    "107116",
+    "107115",
+    "103417",
+    "107114",
+    "101079",
+    "100092",
+    "89176",
+    "106740",
+    "93923",
+    "107112",
+    "102854",
+    "106316",
+    "106313",
+    "107111",
+    "107109",
+    "95962",
+    "106809",
+    "106808",
+    "107108",
+    "107107",
+    "89205",
+    "106662",
+    "106488",
+    "107106",
+    "107105",
+    "107104"
    ],
    "fails": 0,
    "initialized": true
@@ -504,7 +543,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 18,
+   "fails": 19,
    "initialized": false
   },
   "KPO": {
@@ -1210,7 +1249,18 @@
     "/job/TH-OTHER-THAILAND/LEAD-Field-Engineer---2027-Opportunities_R170978",
     "/job/QA-DOHA-RAS-LAFFAN-INDUSTRIAL-CITY/Department-Administrator-Senior_R170866-1",
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Quality-Engineer-Apprentice-2026-Opportunities--Nailsea-_R166636",
-    "/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Professional---Software-Engineering_R168301-1"
+    "/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Professional---Software-Engineering_R168301-1",
+    "/job/IN-Maharashtra-Pune-Eco-Tower-Office-301-Third-Floor-Baner-Pashan-Link-Road/Sourcing-Specialist---Supplier-Quality-Assurance--Chemicals-and-Minerals-_R170758",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Assembler---Mechanical--d-f-m-_R168843",
+    "/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Intern---Electrical-Engineering---2027_R170981",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing---Supplier-Execution-Continuous-Improvement-Initiatives---2027-Opportunities--M-F-D-_R170984",
+    "/job/CZ-DOUDLEVCE-PILSEN-EDVARDA-BENESE-56439/Zkuebn-technik-Test-engineer--m--_R157081",
+    "/job/AR-Bueno-Aires-Bueno-Aires-Juana-Manso-Nro-205-Piso-4-Ciudad-Autonoma-De/R161361-Field-Specialist---Mechanical-Gas---Steam-Turbine---Compressors_R165540",
+    "/job/BR-RJ-MACAE-ESTRADA-DE-FAZENDA-SAO-JOSE-DO-MUTUM-200/Field-Specialist---Mechanical-Gas-Turbine---Compressors---Brazil_R161361",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Operator_R168838-1",
+    "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Sales-Manager---Account-Management_R169981",
+    "/job/HU-BU-BUDAPEST-VACI-UT-117-119/People---Culture-Professional_R170983",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R170901-1"
    ],
    "fails": 0,
    "initialized": true
@@ -1355,7 +1405,8 @@
     "/job/Indiana---Michigan-City-Catalyst-Plant/Project-and-Control-Systems-Engineer_R211246-1",
     "/job/California---Carson--Mormon-Island-Terminal/Automation-Engineer_R209130-1",
     "/job/Texas---Houston---Woodcreek/Americas-Regional-Security-Analyst_R213374",
-    "/job/Dubai---Airport/DXB-Aviation-Site-Manager_R211957"
+    "/job/Dubai---Airport/DXB-Aviation-Site-Manager_R211957",
+    "/job/Lagos/Principal-Riser-Mooring-Engineer_R207560"
    ],
    "fails": 0,
    "initialized": true
@@ -1619,7 +1670,11 @@
     "102262371600",
     "100483232864",
     "102255008016",
-    "102276301600"
+    "102276301600",
+    "102287024176",
+    "102287024144",
+    "102280754608",
+    "101881575968"
    ],
    "fails": 0,
    "initialized": true
