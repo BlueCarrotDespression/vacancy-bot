@@ -477,7 +477,8 @@
     "106488",
     "107106",
     "107105",
-    "107104"
+    "107104",
+    "100639"
    ],
    "fails": 0,
    "initialized": true
@@ -543,7 +544,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 20,
+   "fails": 21,
    "initialized": false
   },
   "KPO": {
@@ -1271,7 +1272,12 @@
     "/job/CA-AB-LEDUC-7018-45-STREET/ALS-Leduc-Master-Scheduler_R169304-1",
     "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Digital-Technology-Senior-Specialist----Application-Operations-Engineering_R170567",
     "/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Oracle-APEX-Operations-Technical-Leader_R170572",
-    "/job/HU-PE-FOT-EAST-GATE-BUSINESS-PARK/Manufacturing-Specialist---Training_R170876"
+    "/job/HU-PE-FOT-EAST-GATE-BUSINESS-PARK/Manufacturing-Specialist---Training_R170876",
+    "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Field-Operator-III---SPS_R167273",
+    "/job/US-CA-TAFT-19815-SOUTH-LAKE-ROAD/Chemicals-Material-Handler_R170852-2",
+    "/job/CZ-DOUDLEVCE-PILSEN-EDVARDA-BENESE-56439/ASPIRE---Supply-Chain---2027_R169537",
+    "/job/US-CO-Denver-4601-DTC-Blvd-Suite-900/Sales-Senior-Specialist_R170649",
+    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Test-Lab-Mechanic-III_R170398"
    ],
    "fails": 0,
    "initialized": true
@@ -1687,7 +1693,8 @@
     "102280754608",
     "101881575968",
     "102297198512",
-    "101703547024"
+    "101703547024",
+    "102304929680"
    ],
    "fails": 0,
    "initialized": true
