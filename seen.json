@@ -543,7 +543,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 19,
+   "fails": 20,
    "initialized": false
   },
   "KPO": {
@@ -575,7 +575,8 @@
     "14442",
     "14142",
     "14443",
-    "14395"
+    "14395",
+    "14389"
    ],
    "fails": 0,
    "initialized": true
@@ -811,7 +812,8 @@
     "EF16315-en_US",
     "EF17077-en_US",
     "EF21976-en_US",
-    "EF20010-en_US"
+    "EF20010-en_US",
+    "EF15561-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1260,7 +1262,16 @@
     "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Operator_R168838-1",
     "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Sales-Manager---Account-Management_R169981",
     "/job/HU-BU-BUDAPEST-VACI-UT-117-119/People---Culture-Professional_R170983",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R170901-1"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R170901-1",
+    "/job/US-TX-MIDLAND-2065-MARKET-STREET/AMO-Supervisor_R168777-1",
+    "/job/US-PA-Turtle-Creek-601-Braddock-Avenue/Engineer-1--Project-Engineering---Electrical_R169333",
+    "/job/US-TX-PASADENA-13200-BAY-PARK-ROAD/Shipping-and-Receiving-Clerk_R170853",
+    "/job/BR-RJ-NITEROI-PRACA-ALCIDES-PEREIRA/Emerging-Talent---Jovem-Aprendiz--Niteri-_R166439",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Operator--Swing-Shift--_R168839-1",
+    "/job/CA-AB-LEDUC-7018-45-STREET/ALS-Leduc-Master-Scheduler_R169304-1",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Digital-Technology-Senior-Specialist----Application-Operations-Engineering_R170567",
+    "/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Oracle-APEX-Operations-Technical-Leader_R170572",
+    "/job/HU-PE-FOT-EAST-GATE-BUSINESS-PARK/Manufacturing-Specialist---Training_R170876"
    ],
    "fails": 0,
    "initialized": true
@@ -1674,7 +1685,9 @@
     "102287024176",
     "102287024144",
     "102280754608",
-    "101881575968"
+    "101881575968",
+    "102297198512",
+    "101703547024"
    ],
    "fails": 0,
    "initialized": true
