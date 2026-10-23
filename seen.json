@@ -478,7 +478,11 @@
     "107106",
     "107105",
     "107104",
-    "100639"
+    "100639",
+    "103809",
+    "103875",
+    "107128",
+    "107129"
    ],
    "fails": 0,
    "initialized": true
@@ -544,7 +548,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 21,
+   "fails": 22,
    "initialized": false
   },
   "KPO": {
@@ -705,7 +709,9 @@
     "https://www.nesfircroft.com/job/materials-coordinator-v",
     "https://www.nesfircroft.com/job/senior-ic-engineer-32786",
     "https://www.nesfircroft.com/job/coiled-tubing-equipment-operator---ct-eo",
-    "https://www.nesfircroft.com/job/contracting-and-procurement-sustainability-adviser"
+    "https://www.nesfircroft.com/job/contracting-and-procurement-sustainability-adviser",
+    "https://www.nesfircroft.com/job/surf-structural-engineer",
+    "https://www.nesfircroft.com/job/senior-project-engineer-ex-32536"
    ],
    "fails": 0,
    "initialized": true
@@ -1277,7 +1283,9 @@
     "/job/US-CA-TAFT-19815-SOUTH-LAKE-ROAD/Chemicals-Material-Handler_R170852-2",
     "/job/CZ-DOUDLEVCE-PILSEN-EDVARDA-BENESE-56439/ASPIRE---Supply-Chain---2027_R169537",
     "/job/US-CO-Denver-4601-DTC-Blvd-Suite-900/Sales-Senior-Specialist_R170649",
-    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Test-Lab-Mechanic-III_R170398"
+    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Test-Lab-Mechanic-III_R170398",
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Well-Engineer_R171050-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Manufacturing-Intern-2026-Opportunities--Florence-_R158416"
    ],
    "fails": 0,
    "initialized": true
