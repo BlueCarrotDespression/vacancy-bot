@@ -652,7 +652,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 26,
+   "fails": 27,
    "initialized": false
   },
   "KPO": {
@@ -689,7 +689,7 @@
     "14440",
     "14452"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "NES Fircroft (oil & gas)": {
@@ -1410,7 +1410,13 @@
     "/job/CO-Distrito-Capital-de-Bogota-Bogota-Autopista-Medellin-Km-35-Via-Bogota-Siberia-Bodega-51/Aprendiz-SENA---Ingeniera---2026_R169616",
     "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Emerging-Talent--Engineering---Technology-Intern--India--2027-Opportunities_R164188",
     "/job/BR-RJ-MACAE-LAGOMAR-AV-ARAXA-240/Jovem-Aprendiz---Maca---2026_R168735",
-    "/job/CA-AB-LEDUC-7020-45-STREET/Warehouse-Operator_R169307"
+    "/job/CA-AB-LEDUC-7020-45-STREET/Warehouse-Operator_R169307",
+    "/job/MX-DF-MEXICO-CITY-AVENIDA-ANTONIO-DOVALI-JAIME-70/HSE-Applications-Support-DT-Technical-Manager_R136739",
+    "/job/US-TX-HEMPSTEAD-35372-BETKA-ROAD/PITC-MFG-Plant-Leader_R170837",
+    "/job/CA-AB-CALGARY-6820-36-STREET-SE/Intern---Field-Engineer---12-Month-2027-Opportunities_R168913-1",
+    "/job/CA-AB-CALGARY-6820-36-STREET-SE/Sr-Services-Applications-Specialist---Upstream-Chemical_R168091",
+    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Rheology-Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170661",
+    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170660"
    ],
    "fails": 0,
    "initialized": true
@@ -1558,7 +1564,8 @@
     "/job/Dubai---Airport/DXB-Aviation-Site-Manager_R211957",
     "/job/Lagos/Principal-Riser-Mooring-Engineer_R207560",
     "/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R206639",
-    "/job/Scotford---Refinery/Contact-Engineer---Hydroconversion_R213507"
+    "/job/Scotford---Refinery/Contact-Engineer---Hydroconversion_R213507",
+    "/job/Rio-De-Janeiro---Ventura-Office/Staff-Wells-Engineer_R213511"
    ],
    "fails": 0,
    "initialized": true
@@ -1830,7 +1837,9 @@
     "102297198512",
     "101703547024",
     "102304929680",
-    "102323955024"
+    "102323955024",
+    "102348992928",
+    "102348992416"
    ],
    "fails": 0,
    "initialized": true
