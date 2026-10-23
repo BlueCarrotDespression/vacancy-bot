@@ -584,7 +584,9 @@
     "107160",
     "107159",
     "107158",
-    "107155"
+    "107155",
+    "106148",
+    "106849"
    ],
    "fails": 0,
    "initialized": true
@@ -650,7 +652,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 25,
+   "fails": 26,
    "initialized": false
   },
   "KPO": {
@@ -815,7 +817,8 @@
     "https://www.nesfircroft.com/job/coiled-tubing-equipment-operator---ct-eo",
     "https://www.nesfircroft.com/job/contracting-and-procurement-sustainability-adviser",
     "https://www.nesfircroft.com/job/surf-structural-engineer",
-    "https://www.nesfircroft.com/job/senior-project-engineer-ex-32536"
+    "https://www.nesfircroft.com/job/senior-project-engineer-ex-32536",
+    "https://www.nesfircroft.com/job/regional-hseq-advisor"
    ],
    "fails": 0,
    "initialized": true
@@ -929,7 +932,11 @@
     "WDR00136989",
     "WDR00137231",
     "EF22047-en_US",
-    "EF22048-en_US"
+    "EF22048-en_US",
+    "EF21855-en_US",
+    "EF21856-en_US",
+    "EF21857-en_US",
+    "EF21858-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1400,7 +1407,10 @@
     "/job/SG-SINGAPORE-29-AYER-MERBAU-ROAD/Manufacturing-Professional---Warehouse---Internal-Logistics_R170855",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Control-Field-Service-Engineer_R155974",
     "/job/CA-Alberta-Leduc-104-3903-75-Avenue/Intern---Field-Engineer---12-Month-2027-Opportunities_R169122",
-    "/job/CO-Distrito-Capital-de-Bogota-Bogota-Autopista-Medellin-Km-35-Via-Bogota-Siberia-Bodega-51/Aprendiz-SENA---Ingeniera---2026_R169616"
+    "/job/CO-Distrito-Capital-de-Bogota-Bogota-Autopista-Medellin-Km-35-Via-Bogota-Siberia-Bodega-51/Aprendiz-SENA---Ingeniera---2026_R169616",
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Emerging-Talent--Engineering---Technology-Intern--India--2027-Opportunities_R164188",
+    "/job/BR-RJ-MACAE-LAGOMAR-AV-ARAXA-240/Jovem-Aprendiz---Maca---2026_R168735",
+    "/job/CA-AB-LEDUC-7020-45-STREET/Warehouse-Operator_R169307"
    ],
    "fails": 0,
    "initialized": true
@@ -1547,7 +1557,8 @@
     "/job/Texas---Houston---Woodcreek/Americas-Regional-Security-Analyst_R213374",
     "/job/Dubai---Airport/DXB-Aviation-Site-Manager_R211957",
     "/job/Lagos/Principal-Riser-Mooring-Engineer_R207560",
-    "/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R206639"
+    "/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R206639",
+    "/job/Scotford---Refinery/Contact-Engineer---Hydroconversion_R213507"
    ],
    "fails": 0,
    "initialized": true
