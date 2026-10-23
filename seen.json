@@ -504,7 +504,47 @@
     "103320",
     "105504",
     "106690",
-    "105595"
+    "105595",
+    "107154",
+    "105304",
+    "107153",
+    "106696",
+    "107152",
+    "107151",
+    "107150",
+    "107149",
+    "107148",
+    "107147",
+    "105589",
+    "107145",
+    "107146",
+    "94916",
+    "91873",
+    "100916",
+    "97700",
+    "104497",
+    "106888",
+    "107144",
+    "107143",
+    "106603",
+    "101348",
+    "107141",
+    "107091",
+    "105045",
+    "100103",
+    "103555",
+    "104589",
+    "106397",
+    "107140",
+    "107139",
+    "98442",
+    "106620",
+    "103725",
+    "104190",
+    "100563",
+    "101561",
+    "107138",
+    "103772"
    ],
    "fails": 0,
    "initialized": true
@@ -570,7 +610,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 23,
+   "fails": 24,
    "initialized": false
   },
   "KPO": {
@@ -603,7 +643,8 @@
     "14142",
     "14443",
     "14395",
-    "14389"
+    "14389",
+    "14440"
    ],
    "fails": 0,
    "initialized": true
@@ -1312,9 +1353,12 @@
     "/job/US-CO-Denver-4601-DTC-Blvd-Suite-900/Sales-Senior-Specialist_R170649",
     "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Test-Lab-Mechanic-III_R170398",
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Well-Engineer_R171050-1",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Manufacturing-Intern-2026-Opportunities--Florence-_R158416"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Manufacturing-Intern-2026-Opportunities--Florence-_R158416",
+    "/job/IN-Maharashtra-Pune-Eco-Tower-Office-301-Third-Floor-Baner-Pashan-Link-Road/Lead-Embedded-Software-Engineer_R170401",
+    "/job/VN-VUNG-TAU-CITY-65A-304-ROAD-WARD-9/LEAD-Field-Engineer---2027-Opportunities_R170977",
+    "/job/SG-SINGAPORE-29-AYER-MERBAU-ROAD/Manufacturing-Professional---Warehouse---Internal-Logistics_R170855"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
