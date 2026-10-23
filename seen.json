@@ -482,7 +482,29 @@
     "103809",
     "103875",
     "107128",
-    "107129"
+    "107129",
+    "106706",
+    "106989",
+    "106990",
+    "107134",
+    "107004",
+    "107132",
+    "107133",
+    "104703",
+    "90554",
+    "106832",
+    "105836",
+    "107131",
+    "106275",
+    "107130",
+    "105869",
+    "106887",
+    "106545",
+    "106056",
+    "103320",
+    "105504",
+    "106690",
+    "105595"
    ],
    "fails": 0,
    "initialized": true
@@ -548,7 +570,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 22,
+   "fails": 23,
    "initialized": false
   },
   "KPO": {
@@ -820,7 +842,12 @@
     "EF17077-en_US",
     "EF21976-en_US",
     "EF20010-en_US",
-    "EF15561-en_US"
+    "EF15561-en_US",
+    "EF22025-en_US",
+    "WDR00136989",
+    "WDR00137231",
+    "EF22047-en_US",
+    "EF22048-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1287,7 +1314,7 @@
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Well-Engineer_R171050-1",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Manufacturing-Intern-2026-Opportunities--Florence-_R158416"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
