@@ -544,7 +544,47 @@
     "100563",
     "101561",
     "107138",
-    "103772"
+    "103772",
+    "106142",
+    "106667",
+    "106141",
+    "107175",
+    "107174",
+    "105736",
+    "107173",
+    "107172",
+    "107171",
+    "107170",
+    "107169",
+    "107168",
+    "101792",
+    "101831",
+    "106518",
+    "101791",
+    "107167",
+    "101688",
+    "101708",
+    "107166",
+    "101676",
+    "106392",
+    "107165",
+    "107164",
+    "107162",
+    "107156",
+    "106034",
+    "106850",
+    "105444",
+    "103813",
+    "94873",
+    "85137",
+    "77905",
+    "70877",
+    "33803",
+    "107161",
+    "107160",
+    "107159",
+    "107158",
+    "107155"
    ],
    "fails": 0,
    "initialized": true
@@ -610,7 +650,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 24,
+   "fails": 25,
    "initialized": false
   },
   "KPO": {
@@ -644,7 +684,8 @@
     "14443",
     "14395",
     "14389",
-    "14440"
+    "14440",
+    "14452"
    ],
    "fails": 0,
    "initialized": true
@@ -1356,7 +1397,10 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Manufacturing-Intern-2026-Opportunities--Florence-_R158416",
     "/job/IN-Maharashtra-Pune-Eco-Tower-Office-301-Third-Floor-Baner-Pashan-Link-Road/Lead-Embedded-Software-Engineer_R170401",
     "/job/VN-VUNG-TAU-CITY-65A-304-ROAD-WARD-9/LEAD-Field-Engineer---2027-Opportunities_R170977",
-    "/job/SG-SINGAPORE-29-AYER-MERBAU-ROAD/Manufacturing-Professional---Warehouse---Internal-Logistics_R170855"
+    "/job/SG-SINGAPORE-29-AYER-MERBAU-ROAD/Manufacturing-Professional---Warehouse---Internal-Logistics_R170855",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Control-Field-Service-Engineer_R155974",
+    "/job/CA-Alberta-Leduc-104-3903-75-Avenue/Intern---Field-Engineer---12-Month-2027-Opportunities_R169122",
+    "/job/CO-Distrito-Capital-de-Bogota-Bogota-Autopista-Medellin-Km-35-Via-Bogota-Siberia-Bodega-51/Aprendiz-SENA---Ingeniera---2026_R169616"
    ],
    "fails": 0,
    "initialized": true
@@ -1502,7 +1546,8 @@
     "/job/California---Carson--Mormon-Island-Terminal/Automation-Engineer_R209130-1",
     "/job/Texas---Houston---Woodcreek/Americas-Regional-Security-Analyst_R213374",
     "/job/Dubai---Airport/DXB-Aviation-Site-Manager_R211957",
-    "/job/Lagos/Principal-Riser-Mooring-Engineer_R207560"
+    "/job/Lagos/Principal-Riser-Mooring-Engineer_R207560",
+    "/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R206639"
    ],
    "fails": 0,
    "initialized": true
@@ -1773,7 +1818,8 @@
     "101881575968",
     "102297198512",
     "101703547024",
-    "102304929680"
+    "102304929680",
+    "102323955024"
    ],
    "fails": 0,
    "initialized": true
