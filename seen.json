@@ -654,14 +654,14 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 32,
+   "fails": 33,
    "initialized": false
   },
   "KPO": {
    "seen": [
     "https://hr.kpo.kz/vacancy/931"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "FIR Caspian": {
@@ -940,7 +940,7 @@
     "EF21857-en_US",
     "EF21858-en_US"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "PwC Kazakhstan": {
