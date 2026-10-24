@@ -652,7 +652,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 27,
+   "fails": 28,
    "initialized": false
   },
   "KPO": {
@@ -689,7 +689,7 @@
     "14440",
     "14452"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "NES Fircroft (oil & gas)": {
@@ -1416,7 +1416,8 @@
     "/job/CA-AB-CALGARY-6820-36-STREET-SE/Intern---Field-Engineer---12-Month-2027-Opportunities_R168913-1",
     "/job/CA-AB-CALGARY-6820-36-STREET-SE/Sr-Services-Applications-Specialist---Upstream-Chemical_R168091",
     "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Rheology-Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170661",
-    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170660"
+    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170660",
+    "/job/DNU-MX-NLE-MONTERREY-BOULEVARD-DIAZ-ORDAZ-KM-333/Technician-Mechanic-I_R171149"
    ],
    "fails": 0,
    "initialized": true
@@ -1565,7 +1566,8 @@
     "/job/Lagos/Principal-Riser-Mooring-Engineer_R207560",
     "/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R206639",
     "/job/Scotford---Refinery/Contact-Engineer---Hydroconversion_R213507",
-    "/job/Rio-De-Janeiro---Ventura-Office/Staff-Wells-Engineer_R213511"
+    "/job/Rio-De-Janeiro---Ventura-Office/Staff-Wells-Engineer_R213511",
+    "/job/London-York-Road/Senior-London-Trade-Finance-Manager_R205591-1"
    ],
    "fails": 0,
    "initialized": true
