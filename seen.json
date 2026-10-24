@@ -654,14 +654,14 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 31,
+   "fails": 32,
    "initialized": false
   },
   "KPO": {
    "seen": [
     "https://hr.kpo.kz/vacancy/931"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "FIR Caspian": {
