@@ -654,7 +654,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 33,
+   "fails": 34,
    "initialized": false
   },
   "KPO": {
@@ -940,7 +940,7 @@
     "EF21857-en_US",
     "EF21858-en_US"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "PwC Kazakhstan": {
