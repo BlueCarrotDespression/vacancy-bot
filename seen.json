@@ -656,7 +656,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 38,
+   "fails": 39,
    "initialized": false
   },
   "KPO": {
@@ -1423,7 +1423,8 @@
     "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170660",
     "/job/DNU-MX-NLE-MONTERREY-BOULEVARD-DIAZ-ORDAZ-KM-333/Technician-Mechanic-I_R171149",
     "/job/KW-AL-AHMADI-SABRYIA-OIL-FIELD-KOC-GATE/Services-Professional---ARMO-Supervisor_R169411-1",
-    "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/Pressure-Pumping-Assembly--Maintenance---Overhaul-Manager_R141243"
+    "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/Pressure-Pumping-Assembly--Maintenance---Overhaul-Manager_R141243",
+    "/job/SA-DAMMAM-2nd-Industrial-City-Modon-facility-Plot-No-005TS00036-PO-Box-31952/Environmental-Health---Safety-Specialist---Fixed-Facilities_R164810-1"
    ],
    "fails": 0,
    "initialized": true
