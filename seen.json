@@ -589,7 +589,8 @@
     "106849",
     "107178",
     "103845",
-    "105475"
+    "105475",
+    "107179"
    ],
    "fails": 0,
    "initialized": true
@@ -655,7 +656,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 37,
+   "fails": 38,
    "initialized": false
   },
   "KPO": {
@@ -1420,7 +1421,9 @@
     "/job/CA-AB-CALGARY-6820-36-STREET-SE/Sr-Services-Applications-Specialist---Upstream-Chemical_R168091",
     "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Rheology-Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170661",
     "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Laboratory-Specialist---Drilling-and-Completion-Fluids--DCF-_R170660",
-    "/job/DNU-MX-NLE-MONTERREY-BOULEVARD-DIAZ-ORDAZ-KM-333/Technician-Mechanic-I_R171149"
+    "/job/DNU-MX-NLE-MONTERREY-BOULEVARD-DIAZ-ORDAZ-KM-333/Technician-Mechanic-I_R171149",
+    "/job/KW-AL-AHMADI-SABRYIA-OIL-FIELD-KOC-GATE/Services-Professional---ARMO-Supervisor_R169411-1",
+    "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/Pressure-Pumping-Assembly--Maintenance---Overhaul-Manager_R141243"
    ],
    "fails": 0,
    "initialized": true
