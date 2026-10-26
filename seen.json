@@ -590,7 +590,15 @@
     "107178",
     "103845",
     "105475",
-    "107179"
+    "107179",
+    "105833",
+    "107183",
+    "107182",
+    "101392",
+    "102867",
+    "107181",
+    "107180",
+    "106783"
    ],
    "fails": 0,
    "initialized": true
@@ -656,7 +664,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 43,
+   "fails": 44,
    "initialized": false
   },
   "KPO": {
@@ -831,7 +839,8 @@
     "https://www.nesfircroft.com/job/instrumentation-planner-32856",
     "https://www.nesfircroft.com/job/senior-contracts-adviser--corporate-services-32835",
     "https://www.nesfircroft.com/job/gws-inventory-lead-32769",
-    "https://www.nesfircroft.com/job/freedom-of-information-officer-32553"
+    "https://www.nesfircroft.com/job/freedom-of-information-officer-32553",
+    "https://www.nesfircroft.com/job/senior-contracts-advisor-32858"
    ],
    "fails": 0,
    "initialized": true
@@ -1433,7 +1442,12 @@
     "/job/DNU-MX-NLE-MONTERREY-BOULEVARD-DIAZ-ORDAZ-KM-333/Technician-Mechanic-I_R171149",
     "/job/KW-AL-AHMADI-SABRYIA-OIL-FIELD-KOC-GATE/Services-Professional---ARMO-Supervisor_R169411-1",
     "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/Pressure-Pumping-Assembly--Maintenance---Overhaul-Manager_R141243",
-    "/job/SA-DAMMAM-2nd-Industrial-City-Modon-facility-Plot-No-005TS00036-PO-Box-31952/Environmental-Health---Safety-Specialist---Fixed-Facilities_R164810-1"
+    "/job/SA-DAMMAM-2nd-Industrial-City-Modon-facility-Plot-No-005TS00036-PO-Box-31952/Environmental-Health---Safety-Specialist---Fixed-Facilities_R164810-1",
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Sourcing-Specialist---Supplier-Quality-Assurance--Chemicals-and-Minerals-_R170758",
+    "/job/SG-SINGAPORE-29-AYER-MERBAU-ROAD/Production-Technician_R170854",
+    "/job/BR-RJ-MACAE-LAGOMAR-AV-ARAXA-240/LEAD-Field-Engineer---2027_R170445",
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Experienced-Professional---Statutory_R170970",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-Mechanical-Field-Service-Engineer---Centrifugal-Compressors_R160617"
    ],
    "fails": 0,
    "initialized": true
