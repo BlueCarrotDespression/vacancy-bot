@@ -598,7 +598,9 @@
     "102867",
     "107181",
     "107180",
-    "106783"
+    "106783",
+    "107185",
+    "107184"
    ],
    "fails": 0,
    "initialized": true
@@ -664,7 +666,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 44,
+   "fails": 45,
    "initialized": false
   },
   "KPO": {
@@ -840,7 +842,9 @@
     "https://www.nesfircroft.com/job/senior-contracts-adviser--corporate-services-32835",
     "https://www.nesfircroft.com/job/gws-inventory-lead-32769",
     "https://www.nesfircroft.com/job/freedom-of-information-officer-32553",
-    "https://www.nesfircroft.com/job/senior-contracts-advisor-32858"
+    "https://www.nesfircroft.com/job/senior-contracts-advisor-32858",
+    "https://www.nesfircroft.com/job/regional-hseq-advisor-32865",
+    "https://www.nesfircroft.com/job/contract-business-solutions-analyst"
    ],
    "fails": 0,
    "initialized": true
@@ -958,7 +962,21 @@
     "EF21855-en_US",
     "EF21856-en_US",
     "EF21857-en_US",
-    "EF21858-en_US"
+    "EF21858-en_US",
+    "INT-Petro",
+    "Petrophysicist",
+    "MAINT-Tech",
+    "73230",
+    "FieldSpec",
+    "MAINT-Eng",
+    "INT-FieldEng",
+    "FieldEng",
+    "Geophysicist",
+    "Geologist",
+    "SupplyChainIntern",
+    "ReservoirEng",
+    "EF16132-en_US",
+    "EF22107-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1447,7 +1465,9 @@
     "/job/SG-SINGAPORE-29-AYER-MERBAU-ROAD/Production-Technician_R170854",
     "/job/BR-RJ-MACAE-LAGOMAR-AV-ARAXA-240/LEAD-Field-Engineer---2027_R170445",
     "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Experienced-Professional---Statutory_R170970",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-Mechanical-Field-Service-Engineer---Centrifugal-Compressors_R160617"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-Mechanical-Field-Service-Engineer---Centrifugal-Compressors_R160617",
+    "/job/GB-AN-MONTROSE-CHARLETON-ROAD/Lead-Mechanical-Engineer_R169115",
+    "/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/LEAD-Field-Engineer---2027-Opportunities_R171159"
    ],
    "fails": 0,
    "initialized": true
@@ -1597,7 +1617,10 @@
     "/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R206639",
     "/job/Scotford---Refinery/Contact-Engineer---Hydroconversion_R213507",
     "/job/Rio-De-Janeiro---Ventura-Office/Staff-Wells-Engineer_R213511",
-    "/job/London-York-Road/Senior-London-Trade-Finance-Manager_R205591-1"
+    "/job/London-York-Road/Senior-London-Trade-Finance-Manager_R205591-1",
+    "/job/SHELL-CENTRE--CHENNAI/SmartPlant-Instrumentation--SPI--Admin_R211539",
+    "/job/SHELL-CENTRE--CHENNAI/Subsidiary-Governance-Analyst_R213010-1",
+    "/job/SHELL-CENTRE--CHENNAI/Trading-Settlements-Analyst_R211501"
    ],
    "fails": 0,
    "initialized": true
