@@ -601,7 +601,12 @@
     "106783",
     "107185",
     "107184",
-    "107186"
+    "107186",
+    "103731",
+    "107189",
+    "107188",
+    "107071",
+    "107187"
    ],
    "fails": 0,
    "initialized": true
@@ -668,7 +673,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 46,
+   "fails": 47,
    "initialized": false
   },
   "KPO": {
@@ -1476,7 +1481,9 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Procurement---Commodity-Specialist--2027--M-F-D-_R171165",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Initiative-Coordinator---Regions-Commodity-Initiatives--2027--M-F-D-_R171162",
     "/job/US-TX-MIDLAND-2309-EAST-INTERSTATE-20/Account-Manager_R161650",
-    "/job/SA-DHAHRAN-ABQAIQ-HIGHWAY/Drilling-Services-Applications-Engineer--Saudi-Nationals-Only-_R164960"
+    "/job/SA-DHAHRAN-ABQAIQ-HIGHWAY/Drilling-Services-Applications-Engineer--Saudi-Nationals-Only-_R164960",
+    "/job/US-TX-THE-WOODLANDS-9110-GROGANS-MILL-ROAD/Americas-Networtk-Engineer_R164191-1",
+    "/job/US-CO-Boulder-3052SterlingCircle/Engineer-I--Metallurgical-and-Materials_R170921"
    ],
    "fails": 0,
    "initialized": true
@@ -1904,7 +1911,9 @@
     "102304929680",
     "102323955024",
     "102348992928",
-    "102348992416"
+    "102348992416",
+    "102481573120",
+    "102481573072"
    ],
    "fails": 0,
    "initialized": true
