@@ -600,7 +600,8 @@
     "107180",
     "106783",
     "107185",
-    "107184"
+    "107184",
+    "107186"
    ],
    "fails": 0,
    "initialized": true
@@ -659,14 +660,15 @@
     "3031",
     "2577",
     "2572",
-    "2144"
+    "2144",
+    "3184"
    ],
    "fails": 0,
    "initialized": true
   },
   "Worley": {
    "seen": [],
-   "fails": 45,
+   "fails": 46,
    "initialized": false
   },
   "KPO": {
@@ -1467,7 +1469,14 @@
     "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Experienced-Professional---Statutory_R170970",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-Mechanical-Field-Service-Engineer---Centrifugal-Compressors_R160617",
     "/job/GB-AN-MONTROSE-CHARLETON-ROAD/Lead-Mechanical-Engineer_R169115",
-    "/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/LEAD-Field-Engineer---2027-Opportunities_R171159"
+    "/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/LEAD-Field-Engineer---2027-Opportunities_R171159",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Operations-Leader--d-f-m-_R169820-1",
+    "/job/BR-RJ-MACAE-LAGOMAR-AV-ARAXA-240/Service-Delivery-Coordinator_R169805-1",
+    "/job/US-OK-TULSA-1818-W-21ST-STREET/Field-Operator-IV_R170795",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Procurement---Commodity-Specialist--2027--M-F-D-_R171165",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Initiative-Coordinator---Regions-Commodity-Initiatives--2027--M-F-D-_R171162",
+    "/job/US-TX-MIDLAND-2309-EAST-INTERSTATE-20/Account-Manager_R161650",
+    "/job/SA-DHAHRAN-ABQAIQ-HIGHWAY/Drilling-Services-Applications-Engineer--Saudi-Nationals-Only-_R164960"
    ],
    "fails": 0,
    "initialized": true
@@ -1620,7 +1629,8 @@
     "/job/London-York-Road/Senior-London-Trade-Finance-Manager_R205591-1",
     "/job/SHELL-CENTRE--CHENNAI/SmartPlant-Instrumentation--SPI--Admin_R211539",
     "/job/SHELL-CENTRE--CHENNAI/Subsidiary-Governance-Analyst_R213010-1",
-    "/job/SHELL-CENTRE--CHENNAI/Trading-Settlements-Analyst_R211501"
+    "/job/SHELL-CENTRE--CHENNAI/Trading-Settlements-Analyst_R211501",
+    "/job/Texas---Houston---One-Thousand-Main/Sr-Business-Analysis-Lead_R208592"
    ],
    "fails": 0,
    "initialized": true
