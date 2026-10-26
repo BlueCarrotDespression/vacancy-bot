@@ -656,7 +656,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 42,
+   "fails": 43,
    "initialized": false
   },
   "KPO": {
@@ -822,7 +822,16 @@
     "https://www.nesfircroft.com/job/contracting-and-procurement-sustainability-adviser",
     "https://www.nesfircroft.com/job/surf-structural-engineer",
     "https://www.nesfircroft.com/job/senior-project-engineer-ex-32536",
-    "https://www.nesfircroft.com/job/regional-hseq-advisor"
+    "https://www.nesfircroft.com/job/regional-hseq-advisor",
+    "https://www.nesfircroft.com/job/system-integration-lead",
+    "https://www.nesfircroft.com/job/midstream-operator-32607",
+    "https://www.nesfircroft.com/job/well-management-engineer-32614",
+    "https://www.nesfircroft.com/job/full-stack-developer-31274",
+    "https://www.nesfircroft.com/job/digital-project-lead",
+    "https://www.nesfircroft.com/job/instrumentation-planner-32856",
+    "https://www.nesfircroft.com/job/senior-contracts-adviser--corporate-services-32835",
+    "https://www.nesfircroft.com/job/gws-inventory-lead-32769",
+    "https://www.nesfircroft.com/job/freedom-of-information-officer-32553"
    ],
    "fails": 0,
    "initialized": true
