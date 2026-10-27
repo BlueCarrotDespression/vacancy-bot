@@ -683,7 +683,16 @@
     "98620",
     "106092",
     "107243",
-    "106183"
+    "106183",
+    "98199",
+    "107086",
+    "107084",
+    "106998",
+    "102531",
+    "107257",
+    "107256",
+    "101651",
+    "107230"
    ],
    "fails": 0,
    "initialized": true
@@ -751,7 +760,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 49,
+   "fails": 50,
    "initialized": false
   },
   "KPO": {
@@ -940,7 +949,8 @@
     "https://www.nesfircroft.com/job/senior-planning-engineer-32898",
     "https://www.nesfircroft.com/job/mechanical--mechanical-package-engineer",
     "https://www.nesfircroft.com/job/business-administrator--project-accounting-assistant",
-    "https://www.nesfircroft.com/job/pvv-supervisor"
+    "https://www.nesfircroft.com/job/pvv-supervisor",
+    "https://www.nesfircroft.com/job/ic-designer"
    ],
    "fails": 0,
    "initialized": true
@@ -1583,7 +1593,10 @@
     "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Project-Senior-engineer_R167365",
     "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/People---Culture-Professional---Enterprise-Services--Korean-Speaker-_R171042",
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Lead-Project-Planner_R169701",
-    "/job/IQ-BASRA-NORTH-RUMAILA-OIL-FIELD/ESP-Application-Engineer_R169812"
+    "/job/IQ-BASRA-NORTH-RUMAILA-OIL-FIELD/ESP-Application-Engineer_R169812",
+    "/job/US-TX-MIDLAND-2101-MARKET-STREET/Services-Team-leader---Product-Line-Scheduling---Competency_R166987-1",
+    "/job/US-OK-CLAREMORE-2210-E-L-ANDERSON-BLVD/Assembly-Technician---Electro-Mechanical-I_R170713",
+    "/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Services-Specialist---Service-24_R171071"
    ],
    "fails": 0,
    "initialized": true
@@ -2016,7 +2029,10 @@
     "102481573120",
     "102481573072",
     "102500623008",
-    "102500622912"
+    "102500622912",
+    "102513608752",
+    "100964103760",
+    "102513608880"
    ],
    "fails": 0,
    "initialized": true
