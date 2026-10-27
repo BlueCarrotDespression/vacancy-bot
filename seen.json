@@ -606,7 +606,46 @@
     "107189",
     "107188",
     "107071",
-    "107187"
+    "107187",
+    "107227",
+    "103164",
+    "107226",
+    "107225",
+    "99799",
+    "104313",
+    "106914",
+    "106913",
+    "100829",
+    "107224",
+    "98181",
+    "107223",
+    "102968",
+    "107222",
+    "100741",
+    "106987",
+    "107221",
+    "105796",
+    "103373",
+    "101283",
+    "100640",
+    "101284",
+    "105843",
+    "73571",
+    "107220",
+    "106066",
+    "97678",
+    "101883",
+    "92331",
+    "104195",
+    "96271",
+    "106357",
+    "107218",
+    "107217",
+    "106525",
+    "89810",
+    "107216",
+    "107215",
+    "105020"
    ],
    "fails": 0,
    "initialized": true
@@ -666,14 +705,15 @@
     "2577",
     "2572",
     "2144",
-    "3184"
+    "3184",
+    "5708"
    ],
    "fails": 0,
    "initialized": true
   },
   "Worley": {
    "seen": [],
-   "fails": 47,
+   "fails": 48,
    "initialized": false
   },
   "KPO": {
@@ -851,7 +891,10 @@
     "https://www.nesfircroft.com/job/freedom-of-information-officer-32553",
     "https://www.nesfircroft.com/job/senior-contracts-advisor-32858",
     "https://www.nesfircroft.com/job/regional-hseq-advisor-32865",
-    "https://www.nesfircroft.com/job/contract-business-solutions-analyst"
+    "https://www.nesfircroft.com/job/contract-business-solutions-analyst",
+    "https://www.nesfircroft.com/job/maintenance-technician-32892",
+    "https://www.nesfircroft.com/job/instrument--senior-instrument-engineer",
+    "https://www.nesfircroft.com/job/fire-safety-and-emergency-response-officer"
    ],
    "fails": 0,
    "initialized": true
@@ -983,7 +1026,8 @@
     "SupplyChainIntern",
     "ReservoirEng",
     "EF16132-en_US",
-    "EF22107-en_US"
+    "EF22107-en_US",
+    "EF21338-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1483,7 +1527,11 @@
     "/job/US-TX-MIDLAND-2309-EAST-INTERSTATE-20/Account-Manager_R161650",
     "/job/SA-DHAHRAN-ABQAIQ-HIGHWAY/Drilling-Services-Applications-Engineer--Saudi-Nationals-Only-_R164960",
     "/job/US-TX-THE-WOODLANDS-9110-GROGANS-MILL-ROAD/Americas-Networtk-Engineer_R164191-1",
-    "/job/US-CO-Boulder-3052SterlingCircle/Engineer-I--Metallurgical-and-Materials_R170921"
+    "/job/US-CO-Boulder-3052SterlingCircle/Engineer-I--Metallurgical-and-Materials_R170921",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Coating-Engineer---2027--M-F-D-_R169938",
+    "/job/LY-OTHER-LIBYA/Cable-Repair-operator--Benghazi_R171199",
+    "/job/MY-OTHER-MALAYSIA/LEAD-Field-Engineer---2027-Opportunities_R171160",
+    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Intern-Co-op---Engineering---Technology---Summer-2027-Opportunities_R168918"
    ],
    "fails": 0,
    "initialized": true
