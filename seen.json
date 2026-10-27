@@ -645,7 +645,45 @@
     "89810",
     "107216",
     "107215",
-    "105020"
+    "105020",
+    "101964",
+    "101965",
+    "101966",
+    "101967",
+    "101969",
+    "103706",
+    "105030",
+    "105029",
+    "105161",
+    "105158",
+    "105155",
+    "106608",
+    "107255",
+    "105979",
+    "105961",
+    "106453",
+    "103378",
+    "99238",
+    "107254",
+    "104612",
+    "107253",
+    "107252",
+    "107251",
+    "107250",
+    "107249",
+    "106356",
+    "103614",
+    "107248",
+    "107247",
+    "107246",
+    "107245",
+    "107244",
+    "105038",
+    "105505",
+    "98620",
+    "106092",
+    "107243",
+    "106183"
    ],
    "fails": 0,
    "initialized": true
@@ -713,7 +751,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 48,
+   "fails": 49,
    "initialized": false
   },
   "KPO": {
@@ -748,7 +786,8 @@
     "14395",
     "14389",
     "14440",
-    "14452"
+    "14452",
+    "14455"
    ],
    "fails": 0,
    "initialized": true
@@ -894,7 +933,14 @@
     "https://www.nesfircroft.com/job/contract-business-solutions-analyst",
     "https://www.nesfircroft.com/job/maintenance-technician-32892",
     "https://www.nesfircroft.com/job/instrument--senior-instrument-engineer",
-    "https://www.nesfircroft.com/job/fire-safety-and-emergency-response-officer"
+    "https://www.nesfircroft.com/job/fire-safety-and-emergency-response-officer",
+    "https://www.nesfircroft.com/job/electrical-designer-32908",
+    "https://www.nesfircroft.com/job/data-analyst-geotechnician",
+    "https://www.nesfircroft.com/job/sourcing-specialist-32902",
+    "https://www.nesfircroft.com/job/senior-planning-engineer-32898",
+    "https://www.nesfircroft.com/job/mechanical--mechanical-package-engineer",
+    "https://www.nesfircroft.com/job/business-administrator--project-accounting-assistant",
+    "https://www.nesfircroft.com/job/pvv-supervisor"
    ],
    "fails": 0,
    "initialized": true
@@ -1027,7 +1073,8 @@
     "ReservoirEng",
     "EF16132-en_US",
     "EF22107-en_US",
-    "EF21338-en_US"
+    "EF21338-en_US",
+    "EF20295-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1531,7 +1578,12 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Coating-Engineer---2027--M-F-D-_R169938",
     "/job/LY-OTHER-LIBYA/Cable-Repair-operator--Benghazi_R171199",
     "/job/MY-OTHER-MALAYSIA/LEAD-Field-Engineer---2027-Opportunities_R171160",
-    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Intern-Co-op---Engineering---Technology---Summer-2027-Opportunities_R168918"
+    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Intern-Co-op---Engineering---Technology---Summer-2027-Opportunities_R168918",
+    "/job/IN-HARYANA-GURUGRAM-10th-Floor-Tower-10B-DLF-Cyber-City-DLF-Phase-2-Sec-24/Field-Service-Engineer---Reciprocating-Compressor_R108019",
+    "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Project-Senior-engineer_R167365",
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/People---Culture-Professional---Enterprise-Services--Korean-Speaker-_R171042",
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Lead-Project-Planner_R169701",
+    "/job/IQ-BASRA-NORTH-RUMAILA-OIL-FIELD/ESP-Application-Engineer_R169812"
    ],
    "fails": 0,
    "initialized": true
@@ -1685,7 +1737,8 @@
     "/job/SHELL-CENTRE--CHENNAI/SmartPlant-Instrumentation--SPI--Admin_R211539",
     "/job/SHELL-CENTRE--CHENNAI/Subsidiary-Governance-Analyst_R213010-1",
     "/job/SHELL-CENTRE--CHENNAI/Trading-Settlements-Analyst_R211501",
-    "/job/Texas---Houston---One-Thousand-Main/Sr-Business-Analysis-Lead_R208592"
+    "/job/Texas---Houston---One-Thousand-Main/Sr-Business-Analysis-Lead_R208592",
+    "/job/Singapore---Metropolis/LNG-Senior-Originator_R209443"
    ],
    "fails": 0,
    "initialized": true
@@ -1961,7 +2014,9 @@
     "102348992928",
     "102348992416",
     "102481573120",
-    "102481573072"
+    "102481573072",
+    "102500623008",
+    "102500622912"
    ],
    "fails": 0,
    "initialized": true
