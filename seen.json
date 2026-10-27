@@ -760,7 +760,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 50,
+   "fails": 51,
    "initialized": false
   },
   "KPO": {
@@ -1596,7 +1596,9 @@
     "/job/IQ-BASRA-NORTH-RUMAILA-OIL-FIELD/ESP-Application-Engineer_R169812",
     "/job/US-TX-MIDLAND-2101-MARKET-STREET/Services-Team-leader---Product-Line-Scheduling---Competency_R166987-1",
     "/job/US-OK-CLAREMORE-2210-E-L-ANDERSON-BLVD/Assembly-Technician---Electro-Mechanical-I_R170713",
-    "/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Services-Specialist---Service-24_R171071"
+    "/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Services-Specialist---Service-24_R171071",
+    "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Warehouse-III_R171127",
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Operations-Experienced-Professional---Remote-Operations_R170915"
    ],
    "fails": 0,
    "initialized": true
@@ -2032,7 +2034,9 @@
     "102500622912",
     "102513608752",
     "100964103760",
-    "102513608880"
+    "102513608880",
+    "102525136016",
+    "102525136096"
    ],
    "fails": 0,
    "initialized": true
