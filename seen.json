@@ -792,7 +792,10 @@
     "107339",
     "96181",
     "107337",
-    "87568"
+    "87568",
+    "106231",
+    "106126",
+    "106055"
    ],
    "fails": 0,
    "initialized": true
@@ -860,7 +863,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 55,
+   "fails": 56,
    "initialized": false
   },
   "KPO": {
@@ -1062,7 +1065,10 @@
     "https://www.nesfircroft.com/job/services-manager-1---srvcs-project-management_mb30",
     "https://www.nesfircroft.com/job/mechanical-pre-32943",
     "https://www.nesfircroft.com/job/data-science-manager",
-    "https://www.nesfircroft.com/job/operations-field-advisor-32951"
+    "https://www.nesfircroft.com/job/operations-field-advisor-32951",
+    "https://www.nesfircroft.com/job/compressor-mechanic-32953",
+    "https://www.nesfircroft.com/job/operations-field-advisor-i--ii",
+    "https://www.nesfircroft.com/job/terminal-operator-30037"
    ],
    "fails": 0,
    "initialized": true
@@ -1198,7 +1204,7 @@
     "EF21338-en_US",
     "EF20295-en_US"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "PwC Kazakhstan": {
@@ -1730,7 +1736,7 @@
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Warehouse-Operative_R170725-1",
     "/job/CO-COTA-BODEGA-35-KM-3-VIA-BOGOTA/Scheduling-and-Competence-Leader_R169221-1"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -1887,7 +1893,8 @@
     "/job/Shanghai---The-Hub/PCMO-Indirect-Channel-Account-Manager_R213692",
     "/job/London-York-Road/Energy-Analyst_R201954",
     "/job/Denmark---Holsted/Chauffr-til-Shell-Holsted-Biogas_R213724",
-    "/job/Texas---Houston---Shell-Technology-Center/Electrical---Automation-Specialist_R211738-1"
+    "/job/Texas---Houston---Shell-Technology-Center/Electrical---Automation-Specialist_R211738-1",
+    "/job/Pennsylvania---Monaca-Chemical-Plant/Process-Control-Engineer-_R211261"
    ],
    "fails": 0,
    "initialized": true
@@ -2181,7 +2188,8 @@
     "102549538976",
     "102543188640",
     "102543188624",
-    "102559861200"
+    "102559861200",
+    "102567685152"
    ],
    "fails": 0,
    "initialized": true
