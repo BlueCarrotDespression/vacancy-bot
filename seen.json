@@ -695,7 +695,47 @@
     "107230",
     "99283",
     "104515",
-    "104363"
+    "104363",
+    "107287",
+    "105983",
+    "107286",
+    "101824",
+    "107283",
+    "99666",
+    "75693",
+    "107285",
+    "107284",
+    "106110",
+    "106669",
+    "99199",
+    "96216",
+    "107282",
+    "104608",
+    "100787",
+    "104983",
+    "104982",
+    "105230",
+    "107280",
+    "105868",
+    "103721",
+    "103049",
+    "107278",
+    "107279",
+    "94165",
+    "107007",
+    "98057",
+    "107277",
+    "106396",
+    "107276",
+    "107275",
+    "107274",
+    "103063",
+    "103062",
+    "107273",
+    "107272",
+    "106824",
+    "107271",
+    "106917"
    ],
    "fails": 0,
    "initialized": true
@@ -763,7 +803,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 52,
+   "fails": 53,
    "initialized": false
   },
   "KPO": {
@@ -799,7 +839,9 @@
     "14389",
     "14440",
     "14452",
-    "14455"
+    "14455",
+    "14460",
+    "14458"
    ],
    "fails": 0,
    "initialized": true
@@ -953,7 +995,8 @@
     "https://www.nesfircroft.com/job/mechanical--mechanical-package-engineer",
     "https://www.nesfircroft.com/job/business-administrator--project-accounting-assistant",
     "https://www.nesfircroft.com/job/pvv-supervisor",
-    "https://www.nesfircroft.com/job/ic-designer"
+    "https://www.nesfircroft.com/job/ic-designer",
+    "https://www.nesfircroft.com/job/operations-team-leader-i-32917"
    ],
    "fails": 0,
    "initialized": true
@@ -1602,7 +1645,8 @@
     "/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Services-Specialist---Service-24_R171071",
     "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Warehouse-III_R171127",
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Operations-Experienced-Professional---Remote-Operations_R170915",
-    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1"
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1",
+    "/job/ID-SM-BATAM-JALAN-KERAPU-NO-1415/Quality-Control-Inspector-Operator-Expert_R168812"
    ],
    "fails": 0,
    "initialized": true
@@ -1757,7 +1801,8 @@
     "/job/SHELL-CENTRE--CHENNAI/Subsidiary-Governance-Analyst_R213010-1",
     "/job/SHELL-CENTRE--CHENNAI/Trading-Settlements-Analyst_R211501",
     "/job/Texas---Houston---One-Thousand-Main/Sr-Business-Analysis-Lead_R208592",
-    "/job/Singapore---Metropolis/LNG-Senior-Originator_R209443"
+    "/job/Singapore---Metropolis/LNG-Senior-Originator_R209443",
+    "/job/Shanghai---The-Hub/PCMO-Indirect-Channel-Account-Manager_R213692"
    ],
    "fails": 0,
    "initialized": true
