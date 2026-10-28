@@ -735,7 +735,47 @@
     "107272",
     "106824",
     "107271",
-    "106917"
+    "106917",
+    "100381",
+    "106229",
+    "106230",
+    "104525",
+    "74484",
+    "67075",
+    "107314",
+    "107336",
+    "107335",
+    "105050",
+    "105051",
+    "107334",
+    "107333",
+    "107332",
+    "107331",
+    "107330",
+    "93508",
+    "99219",
+    "107328",
+    "99745",
+    "107327",
+    "107326",
+    "107325",
+    "105632",
+    "107324",
+    "107323",
+    "107322",
+    "107321",
+    "98986",
+    "106415",
+    "102634",
+    "107319",
+    "107318",
+    "107317",
+    "107316",
+    "107315",
+    "107312",
+    "107313",
+    "107311",
+    "107310"
    ],
    "fails": 0,
    "initialized": true
@@ -803,7 +843,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 53,
+   "fails": 54,
    "initialized": false
   },
   "KPO": {
@@ -841,7 +881,9 @@
     "14452",
     "14455",
     "14460",
-    "14458"
+    "14458",
+    "14462",
+    "14459"
    ],
    "fails": 0,
    "initialized": true
@@ -996,7 +1038,11 @@
     "https://www.nesfircroft.com/job/business-administrator--project-accounting-assistant",
     "https://www.nesfircroft.com/job/pvv-supervisor",
     "https://www.nesfircroft.com/job/ic-designer",
-    "https://www.nesfircroft.com/job/operations-team-leader-i-32917"
+    "https://www.nesfircroft.com/job/operations-team-leader-i-32917",
+    "https://www.nesfircroft.com/job/ic-lead-32928",
+    "https://www.nesfircroft.com/job/coiled-tubing-personnel---offshore-netherlands",
+    "https://www.nesfircroft.com/job/project-hsse-manager",
+    "https://www.nesfircroft.com/job/services-manager-1---srvcs-project-management_mb30"
    ],
    "fails": 0,
    "initialized": true
@@ -1646,7 +1692,17 @@
     "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Warehouse-III_R171127",
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Operations-Experienced-Professional---Remote-Operations_R170915",
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1",
-    "/job/ID-SM-BATAM-JALAN-KERAPU-NO-1415/Quality-Control-Inspector-Operator-Expert_R168812"
+    "/job/ID-SM-BATAM-JALAN-KERAPU-NO-1415/Quality-Control-Inspector-Operator-Expert_R168812",
+    "/job/LY-OTHER-LIBYA/Field-Supervisor---Pressure-Pumping_R171223",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---HR-Team--2026--M-F-D-_R169276",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Technology-Marketing-Specialist--Product-Marketing---Competitive-Intelligence-_R163369",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Senior-Valve-and-Actuator-Engineer---Subsea-Structures--M-F-D--_R166216",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/CCUS-Solution-Architect--M-F-D-_R166525-1",
+    "/job/US-IL-OTHER-ILLINOIS/Technical-Sales-Specialist--Midwest-_R171111-1",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Embedded-Software-Engineer_R171142",
+    "/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Quality-Assurance-Engineering-Specilait_R171094",
+    "/job/LY-OTHER-LIBYA/Field-Operator---Pressure-Pumping_R171225",
+    "/job/LY-OTHER-LIBYA/Service-Delivery-Coordinator--Cementing-_R171226"
    ],
    "fails": 0,
    "initialized": true
@@ -1802,7 +1858,9 @@
     "/job/SHELL-CENTRE--CHENNAI/Trading-Settlements-Analyst_R211501",
     "/job/Texas---Houston---One-Thousand-Main/Sr-Business-Analysis-Lead_R208592",
     "/job/Singapore---Metropolis/LNG-Senior-Originator_R209443",
-    "/job/Shanghai---The-Hub/PCMO-Indirect-Channel-Account-Manager_R213692"
+    "/job/Shanghai---The-Hub/PCMO-Indirect-Channel-Account-Manager_R213692",
+    "/job/London-York-Road/Energy-Analyst_R201954",
+    "/job/Denmark---Holsted/Chauffr-til-Shell-Holsted-Biogas_R213724"
    ],
    "fails": 0,
    "initialized": true
@@ -1933,7 +1991,13 @@
     "https://kpmgcca.global.huntflow.io/vacancy/audit-manager-senior-manager-fs-1",
     "https://kpmgcca.global.huntflow.io/vacancy/audit-supervisor-1-4-almaty",
     "https://kpmgcca.global.huntflow.io/vacancy/intern-c1-international-tax",
-    "https://kpmgcca.global.huntflow.io/vacancy/tax-compliance-intern"
+    "https://kpmgcca.global.huntflow.io/vacancy/tax-compliance-intern",
+    "https://kpmgcca.global.huntflow.io/vacancy/audit-associate",
+    "https://kpmgcca.global.huntflow.io/vacancy/audit-director",
+    "https://kpmgcca.global.huntflow.io/vacancy/china-desk-intern",
+    "https://kpmgcca.global.huntflow.io/vacancy/senior-consultant-in-digital-cfo",
+    "https://kpmgcca.global.huntflow.io/vacancy/senior-data-analyst-in-technology-group",
+    "https://kpmgcca.global.huntflow.io/vacancy/senior-esg-consultant-2"
    ],
    "fails": 0,
    "initialized": true
@@ -2085,7 +2149,11 @@
     "100964103760",
     "102513608880",
     "102525136016",
-    "102525136096"
+    "102525136096",
+    "102549538992",
+    "102549538976",
+    "102543188640",
+    "102543188624"
    ],
    "fails": 0,
    "initialized": true
