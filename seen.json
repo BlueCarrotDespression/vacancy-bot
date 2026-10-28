@@ -775,7 +775,24 @@
     "107312",
     "107313",
     "107311",
-    "107310"
+    "107310",
+    "105980",
+    "105840",
+    "105461",
+    "101772",
+    "104910",
+    "104201",
+    "102329",
+    "100250",
+    "76281",
+    "97981",
+    "107338",
+    "107341",
+    "107340",
+    "107339",
+    "96181",
+    "107337",
+    "87568"
    ],
    "fails": 0,
    "initialized": true
@@ -843,7 +860,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 54,
+   "fails": 55,
    "initialized": false
   },
   "KPO": {
@@ -1042,7 +1059,10 @@
     "https://www.nesfircroft.com/job/ic-lead-32928",
     "https://www.nesfircroft.com/job/coiled-tubing-personnel---offshore-netherlands",
     "https://www.nesfircroft.com/job/project-hsse-manager",
-    "https://www.nesfircroft.com/job/services-manager-1---srvcs-project-management_mb30"
+    "https://www.nesfircroft.com/job/services-manager-1---srvcs-project-management_mb30",
+    "https://www.nesfircroft.com/job/mechanical-pre-32943",
+    "https://www.nesfircroft.com/job/data-science-manager",
+    "https://www.nesfircroft.com/job/operations-field-advisor-32951"
    ],
    "fails": 0,
    "initialized": true
@@ -1178,7 +1198,7 @@
     "EF21338-en_US",
     "EF20295-en_US"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "PwC Kazakhstan": {
@@ -1702,7 +1722,13 @@
     "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Embedded-Software-Engineer_R171142",
     "/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Quality-Assurance-Engineering-Specilait_R171094",
     "/job/LY-OTHER-LIBYA/Field-Operator---Pressure-Pumping_R171225",
-    "/job/LY-OTHER-LIBYA/Service-Delivery-Coordinator--Cementing-_R171226"
+    "/job/LY-OTHER-LIBYA/Service-Delivery-Coordinator--Cementing-_R171226",
+    "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Sourcing-Experienced-Professional---Buying-Procurement_R169668-1",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Securities-Counsel_R170865",
+    "/job/GB-AN-MONTROSE-CHARLETON-ROAD/Product-Manufacturing-Engineer_R166213",
+    "/job/CA-QC-OTHER-QUEBEC/LEAD---Field-Engineer--Quebec-City--QB--2026-Opportunities_R156266",
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Warehouse-Operative_R170725-1",
+    "/job/CO-COTA-BODEGA-35-KM-3-VIA-BOGOTA/Scheduling-and-Competence-Leader_R169221-1"
    ],
    "fails": 0,
    "initialized": true
@@ -1860,7 +1886,8 @@
     "/job/Singapore---Metropolis/LNG-Senior-Originator_R209443",
     "/job/Shanghai---The-Hub/PCMO-Indirect-Channel-Account-Manager_R213692",
     "/job/London-York-Road/Energy-Analyst_R201954",
-    "/job/Denmark---Holsted/Chauffr-til-Shell-Holsted-Biogas_R213724"
+    "/job/Denmark---Holsted/Chauffr-til-Shell-Holsted-Biogas_R213724",
+    "/job/Texas---Houston---Shell-Technology-Center/Electrical---Automation-Specialist_R211738-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2153,7 +2180,8 @@
     "102549538992",
     "102549538976",
     "102543188640",
-    "102543188624"
+    "102543188624",
+    "102559861200"
    ],
    "fails": 0,
    "initialized": true
