@@ -692,7 +692,10 @@
     "107257",
     "107256",
     "101651",
-    "107230"
+    "107230",
+    "99283",
+    "104515",
+    "104363"
    ],
    "fails": 0,
    "initialized": true
@@ -760,7 +763,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 51,
+   "fails": 52,
    "initialized": false
   },
   "KPO": {
@@ -1598,7 +1601,8 @@
     "/job/US-OK-CLAREMORE-2210-E-L-ANDERSON-BLVD/Assembly-Technician---Electro-Mechanical-I_R170713",
     "/job/GB-Ashby-de-la-Zouch-Power-House-Excelsior-Road/Services-Specialist---Service-24_R171071",
     "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Warehouse-III_R171127",
-    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Operations-Experienced-Professional---Remote-Operations_R170915"
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Field-Operations-Experienced-Professional---Remote-Operations_R170915",
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/Project-Manager---Wellhead---Casing-Solutions---Mexico---Caribbean_R170334-1"
    ],
    "fails": 0,
    "initialized": true
