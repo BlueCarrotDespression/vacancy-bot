@@ -835,7 +835,47 @@
     "107358",
     "107357",
     "102332",
-    "102454"
+    "102454",
+    "107414",
+    "107413",
+    "99477",
+    "107412",
+    "107411",
+    "107410",
+    "97346",
+    "107409",
+    "102836",
+    "102804",
+    "106563",
+    "107407",
+    "107408",
+    "107365",
+    "107406",
+    "107405",
+    "107404",
+    "107403",
+    "107402",
+    "107401",
+    "107400",
+    "107399",
+    "107398",
+    "105982",
+    "105903",
+    "107397",
+    "107396",
+    "106504",
+    "107395",
+    "107394",
+    "106691",
+    "107392",
+    "107393",
+    "107391",
+    "107390",
+    "107389",
+    "107388",
+    "83641",
+    "107387",
+    "83144"
    ],
    "fails": 0,
    "initialized": true
@@ -903,7 +943,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 58,
+   "fails": 59,
    "initialized": false
   },
   "KPO": {
@@ -1114,7 +1154,16 @@
     "https://www.nesfircroft.com/job/compressor-mechanic-32953",
     "https://www.nesfircroft.com/job/operations-field-advisor-i--ii",
     "https://www.nesfircroft.com/job/terminal-operator-30037",
-    "https://www.nesfircroft.com/job/senior-tender-and-proposal-specialist"
+    "https://www.nesfircroft.com/job/senior-tender-and-proposal-specialist",
+    "https://www.nesfircroft.com/job/eposloyalty-data-engineer",
+    "https://www.nesfircroft.com/job/electrical-and-instrument-supervisor",
+    "https://www.nesfircroft.com/job/data-scientist-32985",
+    "https://www.nesfircroft.com/job/piping-test-pack-coordinator",
+    "https://www.nesfircroft.com/job/senior-operation-critical-technology-engineer",
+    "https://www.nesfircroft.com/job/sps-qaqc-lead-32972",
+    "https://www.nesfircroft.com/job/plc--hmi-programmer",
+    "https://www.nesfircroft.com/job/sr-data-scientistengineer",
+    "https://www.nesfircroft.com/job/customer-loyalty-transaction-lead-data-scientist"
    ],
    "fails": 0,
    "initialized": true
@@ -1249,7 +1298,8 @@
     "EF22107-en_US",
     "EF21338-en_US",
     "EF20295-en_US",
-    "WDR00137224"
+    "WDR00137224",
+    "EF13444-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1266,7 +1316,9 @@
     "PWCECE763623WDEXTERNALENEA",
     "PWCECE765997WDEXTERNALENEA",
     "PWCECE766023WDEXTERNALENEA",
-    "PWCECE767906WDEXTERNALENEA"
+    "PWCECE767906WDEXTERNALENEA",
+    "PWCECE768197WDEXTERNALENEA",
+    "PWCECE729032WDEXTERNALENEA"
    ],
    "fails": 0,
    "initialized": true
@@ -1784,7 +1836,17 @@
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Warehouse-Operative_R170725-1",
     "/job/CO-COTA-BODEGA-35-KM-3-VIA-BOGOTA/Scheduling-and-Competence-Leader_R169221-1",
     "/job/US-TX-OTHER-TEXAS/Field-Specialist---Global-Rotator--AccessESP----Global-Remote_R161702",
-    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Engineer-1--Research-and-Technology-Development---Electrical_R168063"
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Engineer-1--Research-and-Technology-Development---Electrical_R168063",
+    "/job/SA-DAMMAM-2ND-INDUSTRIAL-CITY/Health--Safety-and-Environment-Specialist_R171502",
+    "/job/US-TX-MIDLAND-2065-MARKET-STREET/AMO-TECH-I_R171154",
+    "/job/SA-DHAHRAN-ABQAIQ-HIGHWAY/Coiled-Tubing-Drilling-Field-Specialist_R158961",
+    "/job/LY-OTHER-LIBYA/Electromechanical-Technician---Pressure-Pumping---Benghazi_R171481",
+    "/job/GH-TAKORADI-TAKORADI-OIL-AND-GAS-FREE-ZONE/Service-Delivery-Manager---Subsea-Projects---Services_R171039",
+    "/job/ZA-GT-MIDRAND-86-TSESSEBE-CRESCENT-CORPORATE-PARK-SOUTH/Driver_R170881",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Materials-Planning-and-Execution-Specialist---2027--M-F-D-_R171500",
+    "/job/LY-OTHER-LIBYA/Field-Operator-II--Cementing_R171499",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Institutional-Affairs-Specialist--d-f-m-_R171113",
+    "/job/LY-OTHER-LIBYA/Field-Operator---Coiled-Tubing_R171497"
    ],
    "fails": 0,
    "initialized": true
@@ -1946,7 +2008,10 @@
     "/job/Texas---Houston---Shell-Technology-Center/Electrical---Automation-Specialist_R211738-1",
     "/job/Pennsylvania---Monaca-Chemical-Plant/Process-Control-Engineer-_R211261",
     "/job/Floersheim/Senior-Commercial-Procurement-Lead-for-Fuel-Terminals_R213803",
-    "/job/SHELL-CENTRE--CHENNAI/Business-Economics-Senior-Advisor_R213793"
+    "/job/SHELL-CENTRE--CHENNAI/Business-Economics-Senior-Advisor_R213793",
+    "/job/Aberdeen---Silver-Fin-Building/UK-DCC-Operator_R209254",
+    "/job/SHELL-CENTRE--CHENNAI/Tech-Specialist---Maintenance_R213809",
+    "/job/Denmark---Kong/Chauffr-til-Shell-Kng-Biogas_R213808"
    ],
    "fails": 0,
    "initialized": true
@@ -2083,7 +2148,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/china-desk-intern",
     "https://kpmgcca.global.huntflow.io/vacancy/senior-consultant-in-digital-cfo",
     "https://kpmgcca.global.huntflow.io/vacancy/senior-data-analyst-in-technology-group",
-    "https://kpmgcca.global.huntflow.io/vacancy/senior-esg-consultant-2"
+    "https://kpmgcca.global.huntflow.io/vacancy/senior-esg-consultant-2",
+    "https://kpmgcca.global.huntflow.io/vacancy/risk-management-specialist-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2241,7 +2307,9 @@
     "102543188640",
     "102543188624",
     "102559861200",
-    "102567685152"
+    "102567685152",
+    "102586376432",
+    "102586376416"
    ],
    "fails": 0,
    "initialized": true
