@@ -863,7 +863,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 56,
+   "fails": 57,
    "initialized": false
   },
   "KPO": {
@@ -1734,9 +1734,10 @@
     "/job/GB-AN-MONTROSE-CHARLETON-ROAD/Product-Manufacturing-Engineer_R166213",
     "/job/CA-QC-OTHER-QUEBEC/LEAD---Field-Engineer--Quebec-City--QB--2026-Opportunities_R156266",
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Warehouse-Operative_R170725-1",
-    "/job/CO-COTA-BODEGA-35-KM-3-VIA-BOGOTA/Scheduling-and-Competence-Leader_R169221-1"
+    "/job/CO-COTA-BODEGA-35-KM-3-VIA-BOGOTA/Scheduling-and-Competence-Leader_R169221-1",
+    "/job/US-TX-OTHER-TEXAS/Field-Specialist---Global-Rotator--AccessESP----Global-Remote_R161702"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
