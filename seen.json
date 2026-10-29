@@ -875,7 +875,22 @@
     "107388",
     "83641",
     "107387",
-    "83144"
+    "83144",
+    "107349",
+    "107205",
+    "107206",
+    "107208",
+    "107209",
+    "107198",
+    "107197",
+    "107196",
+    "107421",
+    "107420",
+    "107419",
+    "107418",
+    "107417",
+    "107416",
+    "107342"
    ],
    "fails": 0,
    "initialized": true
@@ -943,7 +958,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 59,
+   "fails": 60,
    "initialized": false
   },
   "KPO": {
@@ -1163,7 +1178,9 @@
     "https://www.nesfircroft.com/job/sps-qaqc-lead-32972",
     "https://www.nesfircroft.com/job/plc--hmi-programmer",
     "https://www.nesfircroft.com/job/sr-data-scientistengineer",
-    "https://www.nesfircroft.com/job/customer-loyalty-transaction-lead-data-scientist"
+    "https://www.nesfircroft.com/job/customer-loyalty-transaction-lead-data-scientist",
+    "https://www.nesfircroft.com/job/trainer-33005",
+    "https://www.nesfircroft.com/job/hvac-project-engineer-33000"
    ],
    "fails": 0,
    "initialized": true
@@ -1318,7 +1335,8 @@
     "PWCECE766023WDEXTERNALENEA",
     "PWCECE767906WDEXTERNALENEA",
     "PWCECE768197WDEXTERNALENEA",
-    "PWCECE729032WDEXTERNALENEA"
+    "PWCECE729032WDEXTERNALENEA",
+    "PWCECE720904WDEXTERNALENEA"
    ],
    "fails": 0,
    "initialized": true
@@ -1846,7 +1864,10 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Materials-Planning-and-Execution-Specialist---2027--M-F-D-_R171500",
     "/job/LY-OTHER-LIBYA/Field-Operator-II--Cementing_R171499",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Institutional-Affairs-Specialist--d-f-m-_R171113",
-    "/job/LY-OTHER-LIBYA/Field-Operator---Coiled-Tubing_R171497"
+    "/job/LY-OTHER-LIBYA/Field-Operator---Coiled-Tubing_R171497",
+    "/job/KE-Nairobi-Nairobi-The-Address-Building-off-Waiyaki-Way/Intern---Field-Engineering---2027_R171501",
+    "/job/US-CO-Boulder-3052SterlingCircle/Engineering-Specialist---Customer-Application-Engineering_R171044",
+    "/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R171503"
    ],
    "fails": 0,
    "initialized": true
@@ -2011,7 +2032,10 @@
     "/job/SHELL-CENTRE--CHENNAI/Business-Economics-Senior-Advisor_R213793",
     "/job/Aberdeen---Silver-Fin-Building/UK-DCC-Operator_R209254",
     "/job/SHELL-CENTRE--CHENNAI/Tech-Specialist---Maintenance_R213809",
-    "/job/Denmark---Kong/Chauffr-til-Shell-Kng-Biogas_R213808"
+    "/job/Denmark---Kong/Chauffr-til-Shell-Kng-Biogas_R213808",
+    "/job/Louisiana---Norco/Senior-Control-Systems-Engineer_R213843",
+    "/job/Scotford---Refinery/Asset-Inspector---Upgrader_R213835",
+    "/job/Louisiana---Norco/Senior-APC-Engineer_R213846"
    ],
    "fails": 0,
    "initialized": true
