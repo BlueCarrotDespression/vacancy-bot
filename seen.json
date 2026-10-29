@@ -795,7 +795,47 @@
     "87568",
     "106231",
     "106126",
-    "106055"
+    "106055",
+    "107381",
+    "107380",
+    "107379",
+    "107363",
+    "107378",
+    "107377",
+    "107376",
+    "107375",
+    "104290",
+    "105916",
+    "105539",
+    "99212",
+    "107374",
+    "107373",
+    "107372",
+    "107371",
+    "107356",
+    "107194",
+    "105951",
+    "107370",
+    "107369",
+    "107368",
+    "103214",
+    "99668",
+    "105904",
+    "105090",
+    "106145",
+    "107367",
+    "107366",
+    "107364",
+    "106952",
+    "107362",
+    "106337",
+    "107360",
+    "107361",
+    "107359",
+    "107358",
+    "107357",
+    "102332",
+    "102454"
    ],
    "fails": 0,
    "initialized": true
@@ -863,12 +903,14 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 57,
+   "fails": 58,
    "initialized": false
   },
   "KPO": {
    "seen": [
-    "https://hr.kpo.kz/vacancy/931"
+    "https://hr.kpo.kz/vacancy/931",
+    "https://hr.kpo.kz/vacancy/932",
+    "https://hr.kpo.kz/vacancy/933"
    ],
    "fails": 0,
    "initialized": true
@@ -903,7 +945,10 @@
     "14460",
     "14458",
     "14462",
-    "14459"
+    "14459",
+    "14476",
+    "14454",
+    "14478"
    ],
    "fails": 0,
    "initialized": true
@@ -1068,7 +1113,8 @@
     "https://www.nesfircroft.com/job/operations-field-advisor-32951",
     "https://www.nesfircroft.com/job/compressor-mechanic-32953",
     "https://www.nesfircroft.com/job/operations-field-advisor-i--ii",
-    "https://www.nesfircroft.com/job/terminal-operator-30037"
+    "https://www.nesfircroft.com/job/terminal-operator-30037",
+    "https://www.nesfircroft.com/job/senior-tender-and-proposal-specialist"
    ],
    "fails": 0,
    "initialized": true
@@ -1202,7 +1248,8 @@
     "EF16132-en_US",
     "EF22107-en_US",
     "EF21338-en_US",
-    "EF20295-en_US"
+    "EF20295-en_US",
+    "WDR00137224"
    ],
    "fails": 0,
    "initialized": true
@@ -1218,7 +1265,8 @@
     "PWCECE500274WDEXTERNALENEA",
     "PWCECE763623WDEXTERNALENEA",
     "PWCECE765997WDEXTERNALENEA",
-    "PWCECE766023WDEXTERNALENEA"
+    "PWCECE766023WDEXTERNALENEA",
+    "PWCECE767906WDEXTERNALENEA"
    ],
    "fails": 0,
    "initialized": true
@@ -1735,7 +1783,8 @@
     "/job/CA-QC-OTHER-QUEBEC/LEAD---Field-Engineer--Quebec-City--QB--2026-Opportunities_R156266",
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Warehouse-Operative_R170725-1",
     "/job/CO-COTA-BODEGA-35-KM-3-VIA-BOGOTA/Scheduling-and-Competence-Leader_R169221-1",
-    "/job/US-TX-OTHER-TEXAS/Field-Specialist---Global-Rotator--AccessESP----Global-Remote_R161702"
+    "/job/US-TX-OTHER-TEXAS/Field-Specialist---Global-Rotator--AccessESP----Global-Remote_R161702",
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Engineer-1--Research-and-Technology-Development---Electrical_R168063"
    ],
    "fails": 0,
    "initialized": true
@@ -1895,7 +1944,9 @@
     "/job/London-York-Road/Energy-Analyst_R201954",
     "/job/Denmark---Holsted/Chauffr-til-Shell-Holsted-Biogas_R213724",
     "/job/Texas---Houston---Shell-Technology-Center/Electrical---Automation-Specialist_R211738-1",
-    "/job/Pennsylvania---Monaca-Chemical-Plant/Process-Control-Engineer-_R211261"
+    "/job/Pennsylvania---Monaca-Chemical-Plant/Process-Control-Engineer-_R211261",
+    "/job/Floersheim/Senior-Commercial-Procurement-Lead-for-Fuel-Terminals_R213803",
+    "/job/SHELL-CENTRE--CHENNAI/Business-Economics-Senior-Advisor_R213793"
    ],
    "fails": 0,
    "initialized": true
