@@ -925,7 +925,47 @@
     "107296",
     "105972",
     "107422",
-    "103442"
+    "103442",
+    "107478",
+    "107477",
+    "107476",
+    "104257",
+    "98717",
+    "107471",
+    "107475",
+    "107474",
+    "104758",
+    "105727",
+    "104680",
+    "107473",
+    "107472",
+    "106267",
+    "101659",
+    "103876",
+    "106182",
+    "104967",
+    "107470",
+    "107469",
+    "107468",
+    "107467",
+    "107466",
+    "107465",
+    "107464",
+    "106099",
+    "106412",
+    "106410",
+    "104679",
+    "107463",
+    "106409",
+    "106413",
+    "101562",
+    "105542",
+    "107302",
+    "107303",
+    "98604",
+    "107462",
+    "107461",
+    "107460"
    ],
    "fails": 0,
    "initialized": true
@@ -994,7 +1034,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 62,
+   "fails": 63,
    "initialized": false
   },
   "KPO": {
@@ -1040,7 +1080,8 @@
     "14476",
     "14454",
     "14478",
-    "14486"
+    "14486",
+    "14485"
    ],
    "fails": 0,
    "initialized": true
@@ -1219,7 +1260,9 @@
     "https://www.nesfircroft.com/job/trainer-33005",
     "https://www.nesfircroft.com/job/hvac-project-engineer-33000",
     "https://www.nesfircroft.com/job/plant-operator-iv-33007",
-    "https://www.nesfircroft.com/job/field-engineer-33006"
+    "https://www.nesfircroft.com/job/field-engineer-33006",
+    "https://www.nesfircroft.com/job/project-completion-engineer-33013",
+    "https://www.nesfircroft.com/job/senior-project-manager-33016"
    ],
    "fails": 0,
    "initialized": true
@@ -1379,7 +1422,8 @@
     "PWCECE767906WDEXTERNALENEA",
     "PWCECE768197WDEXTERNALENEA",
     "PWCECE729032WDEXTERNALENEA",
-    "PWCECE720904WDEXTERNALENEA"
+    "PWCECE720904WDEXTERNALENEA",
+    "PWCECE771436WDEXTERNALENEA"
    ],
    "fails": 0,
    "initialized": true
@@ -1911,7 +1955,18 @@
     "/job/KE-Nairobi-Nairobi-The-Address-Building-off-Waiyaki-Way/Intern---Field-Engineering---2027_R171501",
     "/job/US-CO-Boulder-3052SterlingCircle/Engineering-Specialist---Customer-Application-Engineering_R171044",
     "/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R171503",
-    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Embedded-Software-Engineer--Embedded-Systems---Industrial-IoT-_R171144-1"
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Embedded-Software-Engineer--Embedded-Systems---Industrial-IoT-_R171144-1",
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Field-Specialist-IV_R170717",
+    "/job/DO-NOT-USE-SA-DHAHRAN-ABQAIQ-HIGHWAY/Coiled-Tubing-Drilling-Field-Specialist_R158961",
+    "/job/QA-DOHA-QATAR-BRANCH-CR-33498/General-Field-Engineer--Wireline-Services_R148417",
+    "/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Advisor---Application-Operations-Engineering_R171051",
+    "/job/DO-NOT-USE-SA-DHAHRAN-ABQAIQ-HIGHWAY/Sales-Senior-Specialist---Sales_R170755",
+    "/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Digital-HR-Systems-Lead--Cornerstone-LMS-LXP-_R171202",
+    "/job/AU-QLD-BRISBANE-69-ANN-STREET/Field-Specialist-III---LWD-DD_R165824",
+    "/job/DO-NOT-USE-SA-DHAHRAN-ABQAIQ-HIGHWAY/Drilling-Services-Applications-Engineer--Saudi-Nationals-Only-_R164960",
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Maschinenbau-und-Mechatronik-2026--Celle-_R158055",
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Werkstudent-fr-System--und-Datenanalyse-2026--Celle-_R158064",
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Geology--Geosciences-or-Geophysics-2026-Opportunities--Celle-_R158056"
    ],
    "fails": 0,
    "initialized": true
@@ -2081,7 +2136,9 @@
     "/job/Scotford---Refinery/Asset-Inspector---Upgrader_R213835",
     "/job/Louisiana---Norco/Senior-APC-Engineer_R213846",
     "/job/Bintulu/Technical-and-Process-Safety-Engineer_R213550",
-    "/job/Curtis-Island/Mechanical-Technician_R213854"
+    "/job/Curtis-Island/Mechanical-Technician_R213854",
+    "/job/Gurgaon---Two-Horizon-center/Key-Account-Manager---Agri---Const-OEMs_R211750",
+    "/job/Pennsylvania---Monaca-Chemical-Plant/Asset-Engineer_R210660"
    ],
    "fails": 0,
    "initialized": true
@@ -2381,7 +2438,9 @@
     "102567685152",
     "102586376432",
     "102586376416",
-    "102616078048"
+    "102616078048",
+    "102629633344",
+    "102629624144"
    ],
    "fails": 0,
    "initialized": true
