@@ -970,7 +970,8 @@
     "107203",
     "107204",
     "107480",
-    "107479"
+    "107479",
+    "107481"
    ],
    "fails": 0,
    "initialized": true
@@ -1039,7 +1040,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 64,
+   "fails": 65,
    "initialized": false
   },
   "KPO": {
@@ -1977,7 +1978,10 @@
     "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Geology--Geosciences-or-Geophysics-2026-Opportunities--Celle-_R158056",
     "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Tolling-Leader_R170945",
     "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Manufacturing-Senior-Team-leader---Production-Supervision_R170712-1",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sales---Commercial---2027_R169993"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sales---Commercial---2027_R169993",
+    "/job/TT-San-Fernando-La-Romain-2-14-Mile-Mark-South-Trunk-Road/LEAD-Field-Engineer---2027_R170457",
+    "/job/CA-AB-OTHER-ALBERTA/LEAD-Field-Engineer---2027_R171612",
+    "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/LEAD-Field-Engineer---2027_R169558"
    ],
    "fails": 0,
    "initialized": true
@@ -2154,7 +2158,8 @@
     "/job/SHELL-CENTRE--CHENNAI/FP-A-Advisor_R210810-1",
     "/job/London-York-Road/Complex-Deal-Management-Analyst_R211177-1",
     "/job/Bangalore-RMZ-ECO-WORLD/Sr-Functional-Analyst---Tax_R204098-1",
-    "/job/Pernis/Process-Operator---Pernis_R205675"
+    "/job/Pernis/Process-Operator---Pernis_R205675",
+    "/job/Scotford---Refinery/Project-Engineer_R211010"
    ],
    "fails": 0,
    "initialized": true
@@ -2456,7 +2461,8 @@
     "102586376416",
     "102616078048",
     "102629633344",
-    "102629624144"
+    "102629624144",
+    "102654206448"
    ],
    "fails": 0,
    "initialized": true
