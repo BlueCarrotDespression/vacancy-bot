@@ -890,7 +890,8 @@
     "107418",
     "107417",
     "107416",
-    "107342"
+    "107342",
+    "104807"
    ],
    "fails": 0,
    "initialized": true
@@ -958,7 +959,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 60,
+   "fails": 61,
    "initialized": false
   },
   "KPO": {
@@ -1180,7 +1181,9 @@
     "https://www.nesfircroft.com/job/sr-data-scientistengineer",
     "https://www.nesfircroft.com/job/customer-loyalty-transaction-lead-data-scientist",
     "https://www.nesfircroft.com/job/trainer-33005",
-    "https://www.nesfircroft.com/job/hvac-project-engineer-33000"
+    "https://www.nesfircroft.com/job/hvac-project-engineer-33000",
+    "https://www.nesfircroft.com/job/plant-operator-iv-33007",
+    "https://www.nesfircroft.com/job/field-engineer-33006"
    ],
    "fails": 0,
    "initialized": true
