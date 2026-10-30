@@ -965,7 +965,12 @@
     "98604",
     "107462",
     "107461",
-    "107460"
+    "107460",
+    "106107",
+    "107203",
+    "107204",
+    "107480",
+    "107479"
    ],
    "fails": 0,
    "initialized": true
@@ -1034,7 +1039,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 63,
+   "fails": 64,
    "initialized": false
   },
   "KPO": {
@@ -1402,7 +1407,10 @@
     "EF16479-en_US",
     "EF19673-en_US",
     "87532",
-    "87553"
+    "87553",
+    "EF20378-en_US",
+    "EF20735-en_US",
+    "EF20953-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -1966,7 +1974,10 @@
     "/job/DO-NOT-USE-SA-DHAHRAN-ABQAIQ-HIGHWAY/Drilling-Services-Applications-Engineer--Saudi-Nationals-Only-_R164960",
     "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Maschinenbau-und-Mechatronik-2026--Celle-_R158055",
     "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Werkstudent-fr-System--und-Datenanalyse-2026--Celle-_R158064",
-    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Geology--Geosciences-or-Geophysics-2026-Opportunities--Celle-_R158056"
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Geology--Geosciences-or-Geophysics-2026-Opportunities--Celle-_R158056",
+    "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Tolling-Leader_R170945",
+    "/job/US-OK-CLAREMORE-200-W-STUART-ROOSA-DR/Manufacturing-Senior-Team-leader---Production-Supervision_R170712-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sales---Commercial---2027_R169993"
    ],
    "fails": 0,
    "initialized": true
@@ -2138,7 +2149,12 @@
     "/job/Bintulu/Technical-and-Process-Safety-Engineer_R213550",
     "/job/Curtis-Island/Mechanical-Technician_R213854",
     "/job/Gurgaon---Two-Horizon-center/Key-Account-Manager---Agri---Const-OEMs_R211750",
-    "/job/Pennsylvania---Monaca-Chemical-Plant/Asset-Engineer_R210660"
+    "/job/Pennsylvania---Monaca-Chemical-Plant/Asset-Engineer_R210660",
+    "/job/Rio-De-Janeiro---Ventura-Office/Cost-Performance---Value-Lead_R213898",
+    "/job/SHELL-CENTRE--CHENNAI/FP-A-Advisor_R210810-1",
+    "/job/London-York-Road/Complex-Deal-Management-Analyst_R211177-1",
+    "/job/Bangalore-RMZ-ECO-WORLD/Sr-Functional-Analyst---Tax_R204098-1",
+    "/job/Pernis/Process-Operator---Pernis_R205675"
    ],
    "fails": 0,
    "initialized": true
