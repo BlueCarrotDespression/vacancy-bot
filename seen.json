@@ -983,7 +983,12 @@
     "107482",
     "97629",
     "97627",
-    "97626"
+    "97626",
+    "107495",
+    "107494",
+    "107493",
+    "107492",
+    "107491"
    ],
    "fails": 0,
    "initialized": true
@@ -1052,7 +1057,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 68,
+   "fails": 69,
    "initialized": false
   },
   "KPO": {
@@ -2177,7 +2182,8 @@
     "/job/Pernis/Process-Operator---Pernis_R205675",
     "/job/Scotford---Refinery/Project-Engineer_R211010",
     "/job/SHELL-CENTRE--CHENNAI/Data-Science-Engagement-Lead_R202317-1",
-    "/job/Sarnia---Refinery/Refinery-Products-Blend-Scheduler_R212180"
+    "/job/Sarnia---Refinery/Refinery-Products-Blend-Scheduler_R212180",
+    "/job/Bangalore-RMZ-ECO-WORLD/IDT-Assurance-Advisor_R208550"
    ],
    "fails": 0,
    "initialized": true
