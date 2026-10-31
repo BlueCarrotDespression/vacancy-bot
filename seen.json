@@ -980,7 +980,10 @@
     "107485",
     "107484",
     "107483",
-    "107482"
+    "107482",
+    "97629",
+    "97627",
+    "97626"
    ],
    "fails": 0,
    "initialized": true
@@ -1049,7 +1052,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 67,
+   "fails": 68,
    "initialized": false
   },
   "KPO": {
@@ -1420,7 +1423,10 @@
     "87553",
     "EF20378-en_US",
     "EF20735-en_US",
-    "EF20953-en_US"
+    "EF20953-en_US",
+    "WDR00137309",
+    "EF21232-en_US",
+    "85897"
    ],
    "fails": 0,
    "initialized": true
@@ -2170,7 +2176,8 @@
     "/job/Bangalore-RMZ-ECO-WORLD/Sr-Functional-Analyst---Tax_R204098-1",
     "/job/Pernis/Process-Operator---Pernis_R205675",
     "/job/Scotford---Refinery/Project-Engineer_R211010",
-    "/job/SHELL-CENTRE--CHENNAI/Data-Science-Engagement-Lead_R202317-1"
+    "/job/SHELL-CENTRE--CHENNAI/Data-Science-Engagement-Lead_R202317-1",
+    "/job/Sarnia---Refinery/Refinery-Products-Blend-Scheduler_R212180"
    ],
    "fails": 0,
    "initialized": true
@@ -2473,7 +2480,8 @@
     "102616078048",
     "102629633344",
     "102629624144",
-    "102654206448"
+    "102654206448",
+    "100362841264"
    ],
    "fails": 0,
    "initialized": true
