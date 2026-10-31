@@ -1040,7 +1040,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 65,
+   "fails": 66,
    "initialized": false
   },
   "KPO": {
@@ -1981,7 +1981,8 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sales---Commercial---2027_R169993",
     "/job/TT-San-Fernando-La-Romain-2-14-Mile-Mark-South-Trunk-Road/LEAD-Field-Engineer---2027_R170457",
     "/job/CA-AB-OTHER-ALBERTA/LEAD-Field-Engineer---2027_R171612",
-    "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/LEAD-Field-Engineer---2027_R169558"
+    "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/LEAD-Field-Engineer---2027_R169558",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/HSE-Specialist---FPI-prevention-Program--d-f-m-_R170894-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2159,7 +2160,8 @@
     "/job/London-York-Road/Complex-Deal-Management-Analyst_R211177-1",
     "/job/Bangalore-RMZ-ECO-WORLD/Sr-Functional-Analyst---Tax_R204098-1",
     "/job/Pernis/Process-Operator---Pernis_R205675",
-    "/job/Scotford---Refinery/Project-Engineer_R211010"
+    "/job/Scotford---Refinery/Project-Engineer_R211010",
+    "/job/SHELL-CENTRE--CHENNAI/Data-Science-Engagement-Lead_R202317-1"
    ],
    "fails": 0,
    "initialized": true
