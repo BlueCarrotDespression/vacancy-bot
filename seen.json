@@ -1057,7 +1057,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 70,
+   "fails": 71,
    "initialized": false
   },
   "KPO": {
@@ -2186,7 +2186,8 @@
     "/job/Scotford---Refinery/Project-Engineer_R211010",
     "/job/SHELL-CENTRE--CHENNAI/Data-Science-Engagement-Lead_R202317-1",
     "/job/Sarnia---Refinery/Refinery-Products-Blend-Scheduler_R212180",
-    "/job/Bangalore-RMZ-ECO-WORLD/IDT-Assurance-Advisor_R208550"
+    "/job/Bangalore-RMZ-ECO-WORLD/IDT-Assurance-Advisor_R208550",
+    "/job/Dela-Rosa---Street-office/Senior-FP-A-Manager--Executive-Level-_R212580"
    ],
    "fails": 0,
    "initialized": true
