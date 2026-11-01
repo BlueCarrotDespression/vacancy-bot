@@ -1022,7 +1022,7 @@
     "1675",
     "1672"
    ],
-   "fails": 2,
+   "fails": 3,
    "initialized": true
   },
   "KazTransOil": {
@@ -1068,7 +1068,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 73,
+   "fails": 74,
    "initialized": false
   },
   "KPO": {
@@ -2203,7 +2203,9 @@
     "/job/Dela-Rosa---Street-office/Senior-FP-A-Manager--Executive-Level-_R212580",
     "/job/Scotford---Refinery/Refinery-Products-Blend-Scheduler_R211722",
     "/job/London---Shell-Centre/Consultant---Technology--Data---AI-Strategy_R213635",
-    "/job/London---Shell-Centre/Senior-Consultant---Technology--Data---AI-Strategy_R213647"
+    "/job/London---Shell-Centre/Senior-Consultant---Technology--Data---AI-Strategy_R213647",
+    "/job/Curtis-Island/Mechanical-Planner_R213852",
+    "/job/Curtis-Island/E-I-Technician_R213866"
    ],
    "fails": 0,
    "initialized": true
