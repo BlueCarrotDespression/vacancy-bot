@@ -999,7 +999,9 @@
     "105943",
     "100497",
     "103811",
-    "97523"
+    "97523",
+    "107498",
+    "107497"
    ],
    "fails": 0,
    "initialized": true
@@ -1022,7 +1024,7 @@
     "1675",
     "1672"
    ],
-   "fails": 3,
+   "fails": 4,
    "initialized": true
   },
   "KazTransOil": {
@@ -1068,7 +1070,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 74,
+   "fails": 75,
    "initialized": false
   },
   "KPO": {
@@ -1446,7 +1448,8 @@
     "EF22371-en_US",
     "EF22211-en_US",
     "EF21149-en_US",
-    "EF21010-en_US"
+    "EF21010-en_US",
+    "EF19965-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2205,7 +2208,8 @@
     "/job/London---Shell-Centre/Consultant---Technology--Data---AI-Strategy_R213635",
     "/job/London---Shell-Centre/Senior-Consultant---Technology--Data---AI-Strategy_R213647",
     "/job/Curtis-Island/Mechanical-Planner_R213852",
-    "/job/Curtis-Island/E-I-Technician_R213866"
+    "/job/Curtis-Island/E-I-Technician_R213866",
+    "/job/Qatar---Ras-Laffan/Shell-Graduate-Programme-2027---Qatar_R205060"
    ],
    "fails": 0,
    "initialized": true
