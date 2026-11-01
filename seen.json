@@ -995,7 +995,11 @@
     "104170",
     "105918",
     "104168",
-    "106820"
+    "106820",
+    "105943",
+    "100497",
+    "103811",
+    "97523"
    ],
    "fails": 0,
    "initialized": true
@@ -1018,7 +1022,7 @@
     "1675",
     "1672"
    ],
-   "fails": 1,
+   "fails": 2,
    "initialized": true
   },
   "KazTransOil": {
@@ -1064,7 +1068,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 72,
+   "fails": 73,
    "initialized": false
   },
   "KPO": {
@@ -1441,7 +1445,8 @@
     "85897",
     "EF22371-en_US",
     "EF22211-en_US",
-    "EF21149-en_US"
+    "EF21149-en_US",
+    "EF21010-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2012,7 +2017,8 @@
     "/job/TT-San-Fernando-La-Romain-2-14-Mile-Mark-South-Trunk-Road/LEAD-Field-Engineer---2027_R170457",
     "/job/CA-AB-OTHER-ALBERTA/LEAD-Field-Engineer---2027_R171612",
     "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/LEAD-Field-Engineer---2027_R169558",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/HSE-Specialist---FPI-prevention-Program--d-f-m-_R170894-1"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/HSE-Specialist---FPI-prevention-Program--d-f-m-_R170894-1",
+    "/job/LY-OTHER-LIBYA/Technical-Support-Engineer---Field-Engineer--SDT-_R171624"
    ],
    "fails": 0,
    "initialized": true
@@ -2196,7 +2202,8 @@
     "/job/Bangalore-RMZ-ECO-WORLD/IDT-Assurance-Advisor_R208550",
     "/job/Dela-Rosa---Street-office/Senior-FP-A-Manager--Executive-Level-_R212580",
     "/job/Scotford---Refinery/Refinery-Products-Blend-Scheduler_R211722",
-    "/job/London---Shell-Centre/Consultant---Technology--Data---AI-Strategy_R213635"
+    "/job/London---Shell-Centre/Consultant---Technology--Data---AI-Strategy_R213635",
+    "/job/London---Shell-Centre/Senior-Consultant---Technology--Data---AI-Strategy_R213647"
    ],
    "fails": 0,
    "initialized": true
@@ -2500,7 +2507,8 @@
     "102629633344",
     "102629624144",
     "102654206448",
-    "100362841264"
+    "100362841264",
+    "97278102400"
    ],
    "fails": 0,
    "initialized": true
