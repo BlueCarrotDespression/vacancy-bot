@@ -988,7 +988,14 @@
     "107494",
     "107493",
     "107492",
-    "107491"
+    "107491",
+    "104471",
+    "82912",
+    "92736",
+    "104170",
+    "105918",
+    "104168",
+    "106820"
    ],
    "fails": 0,
    "initialized": true
@@ -1011,7 +1018,7 @@
     "1675",
     "1672"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "KazTransOil": {
@@ -1057,7 +1064,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 71,
+   "fails": 72,
    "initialized": false
   },
   "KPO": {
@@ -2187,7 +2194,9 @@
     "/job/SHELL-CENTRE--CHENNAI/Data-Science-Engagement-Lead_R202317-1",
     "/job/Sarnia---Refinery/Refinery-Products-Blend-Scheduler_R212180",
     "/job/Bangalore-RMZ-ECO-WORLD/IDT-Assurance-Advisor_R208550",
-    "/job/Dela-Rosa---Street-office/Senior-FP-A-Manager--Executive-Level-_R212580"
+    "/job/Dela-Rosa---Street-office/Senior-FP-A-Manager--Executive-Level-_R212580",
+    "/job/Scotford---Refinery/Refinery-Products-Blend-Scheduler_R211722",
+    "/job/London---Shell-Centre/Consultant---Technology--Data---AI-Strategy_R213635"
    ],
    "fails": 0,
    "initialized": true
