@@ -1033,7 +1033,47 @@
     "102489",
     "102938",
     "105183",
-    "106617"
+    "106617",
+    "107631",
+    "107630",
+    "107629",
+    "107628",
+    "107627",
+    "107621",
+    "107626",
+    "107625",
+    "107624",
+    "107622",
+    "107623",
+    "103632",
+    "106837",
+    "103703",
+    "107620",
+    "107619",
+    "107618",
+    "106612",
+    "107617",
+    "107583",
+    "107613",
+    "107612",
+    "107611",
+    "107610",
+    "107609",
+    "103478",
+    "103482",
+    "103470",
+    "103468",
+    "103165",
+    "107607",
+    "107606",
+    "107605",
+    "107604",
+    "107603",
+    "107602",
+    "107601",
+    "107600",
+    "107599",
+    "107598"
    ],
    "fails": 0,
    "initialized": true
@@ -1056,7 +1096,7 @@
     "1675",
     "1672"
    ],
-   "fails": 6,
+   "fails": 7,
    "initialized": true
   },
   "KazTransOil": {
@@ -1102,7 +1142,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 77,
+   "fails": 78,
    "initialized": false
   },
   "KPO": {
@@ -1331,7 +1371,13 @@
     "https://www.nesfircroft.com/job/plant-operator-iv-33007",
     "https://www.nesfircroft.com/job/field-engineer-33006",
     "https://www.nesfircroft.com/job/project-completion-engineer-33013",
-    "https://www.nesfircroft.com/job/senior-project-manager-33016"
+    "https://www.nesfircroft.com/job/senior-project-manager-33016",
+    "https://www.nesfircroft.com/job/process-engineering-specialist-33052",
+    "https://www.nesfircroft.com/job/electrical---senior-engineer-33066",
+    "https://www.nesfircroft.com/job/decommissioning-coordinator",
+    "https://www.nesfircroft.com/job/hsse-specialist",
+    "https://www.nesfircroft.com/job/sps-project-engineer",
+    "https://www.nesfircroft.com/job/senior-stress--pipe-support-engineer"
    ],
    "fails": 0,
    "initialized": true
@@ -1503,7 +1549,8 @@
     "PWCECE768197WDEXTERNALENEA",
     "PWCECE729032WDEXTERNALENEA",
     "PWCECE720904WDEXTERNALENEA",
-    "PWCECE771436WDEXTERNALENEA"
+    "PWCECE771436WDEXTERNALENEA",
+    "PWCECE771823WDEXTERNALENEA"
    ],
    "fails": 0,
    "initialized": true
@@ -2056,7 +2103,11 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/HSE-Specialist---FPI-prevention-Program--d-f-m-_R170894-1",
     "/job/LY-OTHER-LIBYA/Technical-Support-Engineer---Field-Engineer--SDT-_R171624",
     "/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Mechanical-Engineer--d-f-m-_R170926",
-    "/job/ID-SM-BATAM-JALAN-KERAPU-NO-1415/Manufacturing-Professional---Equipment-Maintenance_R166671-1"
+    "/job/ID-SM-BATAM-JALAN-KERAPU-NO-1415/Manufacturing-Professional---Equipment-Maintenance_R166671-1",
+    "/job/GB-Scotland-Portlethen-Sites-2-3--4-Badentoy-Crescent-Badentoy-Industrial-Estate/Slickline-Operator_R162894",
+    "/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Build---Release-Engineer_R171139",
+    "/job/IT-SO-TALAMONA-VIA-ROMA-32/Maintenance-Senior-Operator--d-f-m-_R171473",
+    "/job/IQ-Baghdad-Baghdad-13630820/Early-Talent-Trainee-2027-Opportunity_R171210"
    ],
    "fails": 0,
    "initialized": true
@@ -2384,7 +2435,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/senior-consultant-in-digital-cfo",
     "https://kpmgcca.global.huntflow.io/vacancy/senior-data-analyst-in-technology-group",
     "https://kpmgcca.global.huntflow.io/vacancy/senior-esg-consultant-2",
-    "https://kpmgcca.global.huntflow.io/vacancy/risk-management-specialist-1"
+    "https://kpmgcca.global.huntflow.io/vacancy/risk-management-specialist-1",
+    "https://kpmgcca.global.huntflow.io/vacancy/intern-executive-1-fixed-assets"
    ],
    "fails": 0,
    "initialized": true
@@ -2550,7 +2602,15 @@
     "102629624144",
     "102654206448",
     "100362841264",
-    "97278102400"
+    "97278102400",
+    "102771299680",
+    "102771299648",
+    "102756357824",
+    "102756358016",
+    "102756358000",
+    "102756358032",
+    "102756357968",
+    "102771299616"
    ],
    "fails": 0,
    "initialized": true
