@@ -1024,7 +1024,7 @@
     "1675",
     "1672"
    ],
-   "fails": 4,
+   "fails": 5,
    "initialized": true
   },
   "KazTransOil": {
@@ -1070,7 +1070,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 75,
+   "fails": 76,
    "initialized": false
   },
   "KPO": {
@@ -1079,7 +1079,7 @@
     "https://hr.kpo.kz/vacancy/932",
     "https://hr.kpo.kz/vacancy/933"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "FIR Caspian": {
@@ -2021,7 +2021,8 @@
     "/job/CA-AB-OTHER-ALBERTA/LEAD-Field-Engineer---2027_R171612",
     "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/LEAD-Field-Engineer---2027_R169558",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/HSE-Specialist---FPI-prevention-Program--d-f-m-_R170894-1",
-    "/job/LY-OTHER-LIBYA/Technical-Support-Engineer---Field-Engineer--SDT-_R171624"
+    "/job/LY-OTHER-LIBYA/Technical-Support-Engineer---Field-Engineer--SDT-_R171624",
+    "/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Mechanical-Engineer--d-f-m-_R170926"
    ],
    "fails": 0,
    "initialized": true
