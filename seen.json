@@ -1001,7 +1001,39 @@
     "103811",
     "97523",
     "107498",
-    "107497"
+    "107497",
+    "107320",
+    "105586",
+    "93128",
+    "106531",
+    "106136",
+    "106680",
+    "107554",
+    "107553",
+    "105091",
+    "107552",
+    "104366",
+    "104994",
+    "107348",
+    "104220",
+    "102510",
+    "107551",
+    "107353",
+    "107550",
+    "107548",
+    "106404",
+    "107547",
+    "105742",
+    "107546",
+    "105047",
+    "102472",
+    "107545",
+    "107544",
+    "107543",
+    "102489",
+    "102938",
+    "105183",
+    "106617"
    ],
    "fails": 0,
    "initialized": true
@@ -1024,7 +1056,7 @@
     "1675",
     "1672"
    ],
-   "fails": 5,
+   "fails": 6,
    "initialized": true
   },
   "KazTransOil": {
@@ -1070,7 +1102,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 76,
+   "fails": 77,
    "initialized": false
   },
   "KPO": {
@@ -1079,7 +1111,7 @@
     "https://hr.kpo.kz/vacancy/932",
     "https://hr.kpo.kz/vacancy/933"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "FIR Caspian": {
@@ -1117,7 +1149,8 @@
     "14454",
     "14478",
     "14486",
-    "14485"
+    "14485",
+    "14488"
    ],
    "fails": 0,
    "initialized": true
@@ -2022,7 +2055,8 @@
     "/job/US-TX-HOUSTON-2001-RANKIN-ROAD/LEAD-Field-Engineer---2027_R169558",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/HSE-Specialist---FPI-prevention-Program--d-f-m-_R170894-1",
     "/job/LY-OTHER-LIBYA/Technical-Support-Engineer---Field-Engineer--SDT-_R171624",
-    "/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Mechanical-Engineer--d-f-m-_R170926"
+    "/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Mechanical-Engineer--d-f-m-_R170926",
+    "/job/ID-SM-BATAM-JALAN-KERAPU-NO-1415/Manufacturing-Professional---Equipment-Maintenance_R166671-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2210,7 +2244,8 @@
     "/job/London---Shell-Centre/Senior-Consultant---Technology--Data---AI-Strategy_R213647",
     "/job/Curtis-Island/Mechanical-Planner_R213852",
     "/job/Curtis-Island/E-I-Technician_R213866",
-    "/job/Qatar---Ras-Laffan/Shell-Graduate-Programme-2027---Qatar_R205060"
+    "/job/Qatar---Ras-Laffan/Shell-Graduate-Programme-2027---Qatar_R205060",
+    "/job/Kuala-Lumpur---Menara-Shell/Business-Operations-Intern_R213925"
    ],
    "fails": 0,
    "initialized": true
