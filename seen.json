@@ -1082,7 +1082,47 @@
     "107591",
     "107590",
     "106604",
-    "107589"
+    "107589",
+    "106211",
+    "104358",
+    "106581",
+    "105859",
+    "107658",
+    "89839",
+    "106468",
+    "107656",
+    "107651",
+    "107655",
+    "107652",
+    "107653",
+    "107648",
+    "106802",
+    "105701",
+    "106054",
+    "105022",
+    "101288",
+    "105018",
+    "105017",
+    "104427",
+    "106666",
+    "104873",
+    "107650",
+    "107649",
+    "104760",
+    "104923",
+    "101141",
+    "105815",
+    "105816",
+    "105813",
+    "105819",
+    "106843",
+    "103416",
+    "92689",
+    "92688",
+    "86420",
+    "80891",
+    "107647",
+    "107646"
    ],
    "fails": 0,
    "initialized": true
@@ -1105,7 +1145,7 @@
     "1675",
     "1672"
    ],
-   "fails": 8,
+   "fails": 9,
    "initialized": true
   },
   "KazTransOil": {
@@ -1151,7 +1191,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 79,
+   "fails": 80,
    "initialized": false
   },
   "KPO": {
@@ -1199,7 +1239,8 @@
     "14478",
     "14486",
     "14485",
-    "14488"
+    "14488",
+    "14489"
    ],
    "fails": 0,
    "initialized": true
@@ -1390,7 +1431,9 @@
     "https://www.nesfircroft.com/job/planning-lead-33087",
     "https://www.nesfircroft.com/job/sr-purchasing-specialist-----major-process-equipment",
     "https://www.nesfircroft.com/job/head-of-engineering-brownfield",
-    "https://www.nesfircroft.com/job/land-project-lead-iv"
+    "https://www.nesfircroft.com/job/land-project-lead-iv",
+    "https://www.nesfircroft.com/job/quantity-surveyor-33105",
+    "https://www.nesfircroft.com/job/ptw-coordinator-33106"
    ],
    "fails": 0,
    "initialized": true
@@ -2120,7 +2163,11 @@
     "/job/GB-Scotland-Portlethen-Sites-2-3--4-Badentoy-Crescent-Badentoy-Industrial-Estate/Slickline-Operator_R162894",
     "/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Build---Release-Engineer_R171139",
     "/job/IT-SO-TALAMONA-VIA-ROMA-32/Maintenance-Senior-Operator--d-f-m-_R171473",
-    "/job/IQ-Baghdad-Baghdad-13630820/Early-Talent-Trainee-2027-Opportunity_R171210"
+    "/job/IQ-Baghdad-Baghdad-13630820/Early-Talent-Trainee-2027-Opportunity_R171210",
+    "/job/AO-LA-LUANDA-PORT-DE-LUANDA/ARMO-Engineer_R170022",
+    "/job/US-DC-Washington-1401-I-Street-NW-Suite-1010-10th-Floor/Senior-Manager--Government-Affairs_R167179",
+    "/job/ID-JW-JAKARTA-JI-RA-KARTINI-KAV-8-CILANDAK-BARAT/Applications-Engineering---Drill-Bits_R170980-1",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272"
    ],
    "fails": 0,
    "initialized": true
@@ -2309,7 +2356,9 @@
     "/job/Curtis-Island/Mechanical-Planner_R213852",
     "/job/Curtis-Island/E-I-Technician_R213866",
     "/job/Qatar---Ras-Laffan/Shell-Graduate-Programme-2027---Qatar_R205060",
-    "/job/Kuala-Lumpur---Menara-Shell/Business-Operations-Intern_R213925"
+    "/job/Kuala-Lumpur---Menara-Shell/Business-Operations-Intern_R213925",
+    "/job/Bangalore-RMZ-ECO-WORLD/Software-Engineer---AI---Automation_R207898",
+    "/job/Dela-Rosa---Street-office/Deputy-Controller-US--Executive-Level-_R210417"
    ],
    "fails": 0,
    "initialized": true
