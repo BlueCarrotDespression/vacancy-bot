@@ -1160,7 +1160,9 @@
     "107666",
     "104859",
     "107665",
-    "107661"
+    "107661",
+    "107695",
+    "107694"
    ],
    "fails": 0,
    "initialized": true
@@ -1229,7 +1231,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 81,
+   "fails": 82,
    "initialized": false
   },
   "KPO": {
@@ -1473,7 +1475,10 @@
     "https://www.nesfircroft.com/job/quantity-surveyor-33105",
     "https://www.nesfircroft.com/job/ptw-coordinator-33106",
     "https://www.nesfircroft.com/job/piping-engineering---seniorprincipal-engineer-33123",
-    "https://www.nesfircroft.com/job/mechanical-commissioning-engineer-33110"
+    "https://www.nesfircroft.com/job/mechanical-commissioning-engineer-33110",
+    "https://www.nesfircroft.com/job/facilities-coordinator-33136",
+    "https://www.nesfircroft.com/job/senior-contract-engineer-33133",
+    "https://www.nesfircroft.com/job/operator-33137"
    ],
    "fails": 0,
    "initialized": true
@@ -1624,7 +1629,8 @@
     "EF22211-en_US",
     "EF21149-en_US",
     "EF21010-en_US",
-    "EF19965-en_US"
+    "EF19965-en_US",
+    "WDR00136769"
    ],
    "fails": 0,
    "initialized": true
@@ -2213,7 +2219,7 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027--M-F-D-_R171660-1",
     "/job/NG-PORT-HARCOURT-125-TRANS-AMADI/Field-Operator---Coiled-Tubing_R166232"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -2411,7 +2417,11 @@
     "/job/The-Hague/Sr-ERP-Risk---Control-Advisor_R214015",
     "/job/Brisbane---George-Street/Completions-Coordinator_R214028",
     "/job/Pernis/Laboratory-analyst_R213462-1",
-    "/job/Dela-Rosa---Street-office/Controller-Local-Reporting--Executive-Level-_R210416"
+    "/job/Dela-Rosa---Street-office/Controller-Local-Reporting--Executive-Level-_R210416",
+    "/job/Denmark---Trige/Chauffr-til-Shell-Aarhus-Biogas_R214047",
+    "/job/Louisiana---Norco/Process-Safety-Engineer_R214046",
+    "/job/Texas---Houston-Lubricants-Plant/Maintenance-Mechanic_R213251-1",
+    "/job/Indiana---Michigan-City-Catalyst-Plant/Maintenance---Engineering-Manager_R214033"
    ],
    "fails": 0,
    "initialized": true
@@ -2727,7 +2737,8 @@
     "102756358032",
     "102756357968",
     "102771299616",
-    "102774886864"
+    "102774886864",
+    "101072660944"
    ],
    "fails": 0,
    "initialized": true
