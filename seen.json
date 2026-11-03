@@ -1073,7 +1073,16 @@
     "107601",
     "107600",
     "107599",
-    "107598"
+    "107598",
+    "107597",
+    "107596",
+    "107595",
+    "107594",
+    "107593",
+    "107591",
+    "107590",
+    "106604",
+    "107589"
    ],
    "fails": 0,
    "initialized": true
@@ -1096,7 +1105,7 @@
     "1675",
     "1672"
    ],
-   "fails": 7,
+   "fails": 8,
    "initialized": true
   },
   "KazTransOil": {
@@ -1142,7 +1151,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 78,
+   "fails": 79,
    "initialized": false
   },
   "KPO": {
@@ -1377,7 +1386,11 @@
     "https://www.nesfircroft.com/job/decommissioning-coordinator",
     "https://www.nesfircroft.com/job/hsse-specialist",
     "https://www.nesfircroft.com/job/sps-project-engineer",
-    "https://www.nesfircroft.com/job/senior-stress--pipe-support-engineer"
+    "https://www.nesfircroft.com/job/senior-stress--pipe-support-engineer",
+    "https://www.nesfircroft.com/job/planning-lead-33087",
+    "https://www.nesfircroft.com/job/sr-purchasing-specialist-----major-process-equipment",
+    "https://www.nesfircroft.com/job/head-of-engineering-brownfield",
+    "https://www.nesfircroft.com/job/land-project-lead-iv"
    ],
    "fails": 0,
    "initialized": true
@@ -2610,7 +2623,8 @@
     "102756358000",
     "102756358032",
     "102756357968",
-    "102771299616"
+    "102771299616",
+    "102774886864"
    ],
    "fails": 0,
    "initialized": true
