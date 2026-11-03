@@ -1122,7 +1122,45 @@
     "86420",
     "80891",
     "107647",
-    "107646"
+    "107646",
+    "107691",
+    "107690",
+    "107679",
+    "101668",
+    "107689",
+    "107688",
+    "99016",
+    "107685",
+    "107683",
+    "107682",
+    "107681",
+    "107680",
+    "107678",
+    "107259",
+    "107677",
+    "107675",
+    "107676",
+    "107264",
+    "107262",
+    "107263",
+    "107674",
+    "107672",
+    "105766",
+    "107671",
+    "107670",
+    "103277",
+    "96971",
+    "107669",
+    "107668",
+    "106094",
+    "100775",
+    "107667",
+    "107260",
+    "107261",
+    "107666",
+    "104859",
+    "107665",
+    "107661"
    ],
    "fails": 0,
    "initialized": true
@@ -1145,7 +1183,7 @@
     "1675",
     "1672"
    ],
-   "fails": 9,
+   "fails": 0,
    "initialized": true
   },
   "KazTransOil": {
@@ -1191,7 +1229,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 80,
+   "fails": 81,
    "initialized": false
   },
   "KPO": {
@@ -1433,7 +1471,9 @@
     "https://www.nesfircroft.com/job/head-of-engineering-brownfield",
     "https://www.nesfircroft.com/job/land-project-lead-iv",
     "https://www.nesfircroft.com/job/quantity-surveyor-33105",
-    "https://www.nesfircroft.com/job/ptw-coordinator-33106"
+    "https://www.nesfircroft.com/job/ptw-coordinator-33106",
+    "https://www.nesfircroft.com/job/piping-engineering---seniorprincipal-engineer-33123",
+    "https://www.nesfircroft.com/job/mechanical-commissioning-engineer-33110"
    ],
    "fails": 0,
    "initialized": true
@@ -2167,7 +2207,11 @@
     "/job/AO-LA-LUANDA-PORT-DE-LUANDA/ARMO-Engineer_R170022",
     "/job/US-DC-Washington-1401-I-Street-NW-Suite-1010-10th-Floor/Senior-Manager--Government-Affairs_R167179",
     "/job/ID-JW-JAKARTA-JI-RA-KARTINI-KAV-8-CILANDAK-BARAT/Applications-Engineering---Drill-Bits_R170980-1",
-    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272"
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Supplier-Quality---2027--M-F-D-_R171661",
+    "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Digital-Learning---Content-Designer_R171662",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027--M-F-D-_R171660-1",
+    "/job/NG-PORT-HARCOURT-125-TRANS-AMADI/Field-Operator---Coiled-Tubing_R166232"
    ],
    "fails": 0,
    "initialized": true
@@ -2358,7 +2402,16 @@
     "/job/Qatar---Ras-Laffan/Shell-Graduate-Programme-2027---Qatar_R205060",
     "/job/Kuala-Lumpur---Menara-Shell/Business-Operations-Intern_R213925",
     "/job/Bangalore-RMZ-ECO-WORLD/Software-Engineer---AI---Automation_R207898",
-    "/job/Dela-Rosa---Street-office/Deputy-Controller-US--Executive-Level-_R210417"
+    "/job/Dela-Rosa---Street-office/Deputy-Controller-US--Executive-Level-_R210417",
+    "/job/Sarnia---Refinery/Senior-Electrical-Engineer_R213958",
+    "/job/Dela-Rosa---Street-office/Business-Integrator-Analyst_R210570",
+    "/job/Pennsylvania---Monaca-Chemical-Plant/Instrument-Inspector_R210709-1",
+    "/job/Singapore---Metropolis/Senior-Fuel-Oil-Trader_R214009",
+    "/job/The-Hague/DLNG-Trader_R210590",
+    "/job/The-Hague/Sr-ERP-Risk---Control-Advisor_R214015",
+    "/job/Brisbane---George-Street/Completions-Coordinator_R214028",
+    "/job/Pernis/Laboratory-analyst_R213462-1",
+    "/job/Dela-Rosa---Street-office/Controller-Local-Reporting--Executive-Level-_R210416"
    ],
    "fails": 0,
    "initialized": true
@@ -2498,7 +2551,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/senior-data-analyst-in-technology-group",
     "https://kpmgcca.global.huntflow.io/vacancy/senior-esg-consultant-2",
     "https://kpmgcca.global.huntflow.io/vacancy/risk-management-specialist-1",
-    "https://kpmgcca.global.huntflow.io/vacancy/intern-executive-1-fixed-assets"
+    "https://kpmgcca.global.huntflow.io/vacancy/intern-executive-1-fixed-assets",
+    "https://kpmgcca.global.huntflow.io/vacancy/consultant-5"
    ],
    "fails": 0,
    "initialized": true
