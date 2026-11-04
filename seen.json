@@ -1240,7 +1240,12 @@
     "107750",
     "107749",
     "107748",
-    "107567"
+    "107567",
+    "107783",
+    "107782",
+    "107781",
+    "107780",
+    "107779"
    ],
    "fails": 0,
    "initialized": true
@@ -1309,7 +1314,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 85,
+   "fails": 86,
    "initialized": false
   },
   "KPO": {
@@ -1574,7 +1579,9 @@
     "https://www.nesfircroft.com/job/facilities-coordinator-33136",
     "https://www.nesfircroft.com/job/senior-contract-engineer-33133",
     "https://www.nesfircroft.com/job/operator-33137",
-    "https://www.nesfircroft.com/job/senior-installation--project-consultant"
+    "https://www.nesfircroft.com/job/senior-installation--project-consultant",
+    "https://www.nesfircroft.com/job/terminal-operator-33169",
+    "https://www.nesfircroft.com/job/quality-assurance-field-inspector"
    ],
    "fails": 0,
    "initialized": true
@@ -1730,7 +1737,8 @@
     "EF22515-en_US",
     "EF12498-en_US",
     "WDR00137278",
-    "EF22516-en_US"
+    "EF22516-en_US",
+    "87213"
    ],
    "fails": 0,
    "initialized": true
@@ -2329,7 +2337,20 @@
     "/job/IT-MS-MASSA--VIA-DORSALE-3/HSE-Specialist--d-f-m-_R171214",
     "/job/GB-AC-ABERDEEN-BADENTOY-INDUSTRIAL-ESTATE/Field-Operator-IV_R171188",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/UPG-PSE-System-Engineer-f-d-m_R171621",
-    "/job/US-CT-Cromwell-104SebetheDrive/Manufacturing-Engineer---Transducer_R166184-1"
+    "/job/US-CT-Cromwell-104SebetheDrive/Manufacturing-Engineer---Transducer_R166184-1",
+    "/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Project-Management-Advisor---Project-Leadership_R169556-1",
+    "/job/AZ-Baku-Baku-15th-Km-of-the-Baku-Salyan-Highway-1F-Garadag-District/LEAD-Field-Engineer---2027-Opportunities_R171705",
+    "/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/SENIOR-ENGINEER-SERVICES-ENGINEERING---AUTOMATION---CONTROLS_R162469",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Finance-Intern--Summer-2027-Opportunities_R171713",
+    "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Quality-Intern---Summer-2027-Opportunities_R168916",
+    "/job/US-AK-ANCHORAGE-795-EAST-94TH-AVENUE/Business-Intern--Summer-2027-Opportunities_R168907",
+    "/job/US-TX-HOUSTON---6760-Concord-Park/Business-Intern---Summer-2027-Opportunities_R168892",
+    "/job/US-TX-HOUSTON-11150-EQUITY-DRIVE/Field-Engineering-Intern--Summer-2027-Opportunities_R169856",
+    "/job/US-PA-CANONSBURG-400-TECHNOLOGY-DRIVE/Field-Engineering-Intern--Summer-2027-Opportunities_R169855",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Field-Engineering-Intern--Summer-2027-Opportunities_R169854",
+    "/job/US-TX-MIDLAND-2101-MARKET-STREET/Engineering---Technology-Intern--Summer-2027-Opportunities_R168911",
+    "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Field-Engineer-Intern---Summer-2027-Opportunities_R168905",
+    "/job/US-CA-SHAFTER-3901-FANUCCHI-WAY/Field-Engineer-Intern---Summer-2027-Opportunities_R168901"
    ],
    "fails": 0,
    "initialized": true
