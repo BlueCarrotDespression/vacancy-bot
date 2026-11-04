@@ -1162,7 +1162,45 @@
     "107665",
     "107661",
     "107695",
-    "107694"
+    "107694",
+    "107662",
+    "107728",
+    "107450",
+    "107730",
+    "106147",
+    "107729",
+    "104181",
+    "107727",
+    "105878",
+    "103781",
+    "98918",
+    "96508",
+    "107725",
+    "107724",
+    "105229",
+    "96054",
+    "105228",
+    "107723",
+    "107722",
+    "107721",
+    "107177",
+    "104030",
+    "107716",
+    "107719",
+    "107720",
+    "107718",
+    "107673",
+    "107717",
+    "107715",
+    "105797",
+    "104046",
+    "105424",
+    "107713",
+    "107714",
+    "107710",
+    "106236",
+    "107712",
+    "105144"
    ],
    "fails": 0,
    "initialized": true
@@ -1231,7 +1269,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 83,
+   "fails": 84,
    "initialized": false
   },
   "KPO": {
@@ -1280,7 +1318,16 @@
     "14486",
     "14485",
     "14488",
-    "14489"
+    "14489",
+    "14424",
+    "14091",
+    "14191",
+    "14147",
+    "14339",
+    "14386",
+    "14041",
+    "14272",
+    "14153"
    ],
    "fails": 0,
    "initialized": true
@@ -1630,7 +1677,11 @@
     "EF21149-en_US",
     "EF21010-en_US",
     "EF19965-en_US",
-    "WDR00136769"
+    "WDR00136769",
+    "EF22515-en_US",
+    "EF12498-en_US",
+    "WDR00137278",
+    "EF22516-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2427,7 +2478,10 @@
     "/job/Denmark---Trige/Chauffr-til-Shell-Aarhus-Biogas_R214047",
     "/job/Louisiana---Norco/Process-Safety-Engineer_R214046",
     "/job/Texas---Houston-Lubricants-Plant/Maintenance-Mechanic_R213251-1",
-    "/job/Indiana---Michigan-City-Catalyst-Plant/Maintenance---Engineering-Manager_R214033"
+    "/job/Indiana---Michigan-City-Catalyst-Plant/Maintenance---Engineering-Manager_R214033",
+    "/job/Shell-Centre-Kuala-Lumpur/FP-A-Lead_R210443",
+    "/job/Bangalore---Retail-Office/Brand---Communications-Specialist--Fuels_R213302",
+    "/job/Singapore---Metropolis/IT-Operations-Engineer_R214068"
    ],
    "fails": 0,
    "initialized": true
