@@ -1200,7 +1200,47 @@
     "107710",
     "106236",
     "107712",
-    "105144"
+    "105144",
+    "107778",
+    "107777",
+    "107776",
+    "107775",
+    "107774",
+    "107773",
+    "107772",
+    "107771",
+    "107770",
+    "107769",
+    "107768",
+    "102750",
+    "107765",
+    "107767",
+    "107766",
+    "107764",
+    "107747",
+    "107762",
+    "107761",
+    "91509",
+    "107760",
+    "104124",
+    "103932",
+    "98720",
+    "107759",
+    "107758",
+    "107757",
+    "107756",
+    "107755",
+    "103720",
+    "107684",
+    "106391",
+    "106812",
+    "107754",
+    "107752",
+    "107751",
+    "107750",
+    "107749",
+    "107748",
+    "107567"
    ],
    "fails": 0,
    "initialized": true
@@ -1269,7 +1309,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 84,
+   "fails": 85,
    "initialized": false
   },
   "KPO": {
@@ -1327,7 +1367,15 @@
     "14386",
     "14041",
     "14272",
-    "14153"
+    "14153",
+    "14501",
+    "14500",
+    "14498",
+    "14423",
+    "14487",
+    "14050",
+    "14336",
+    "14149"
    ],
    "fails": 0,
    "initialized": true
@@ -1525,7 +1573,8 @@
     "https://www.nesfircroft.com/job/mechanical-commissioning-engineer-33110",
     "https://www.nesfircroft.com/job/facilities-coordinator-33136",
     "https://www.nesfircroft.com/job/senior-contract-engineer-33133",
-    "https://www.nesfircroft.com/job/operator-33137"
+    "https://www.nesfircroft.com/job/operator-33137",
+    "https://www.nesfircroft.com/job/senior-installation--project-consultant"
    ],
    "fails": 0,
    "initialized": true
@@ -1703,7 +1752,9 @@
     "PWCECE729032WDEXTERNALENEA",
     "PWCECE720904WDEXTERNALENEA",
     "PWCECE771436WDEXTERNALENEA",
-    "PWCECE771823WDEXTERNALENEA"
+    "PWCECE771823WDEXTERNALENEA",
+    "PWCECE772279WDEXTERNALENEA",
+    "PWCECE772318WDEXTERNALENEA"
    ],
    "fails": 0,
    "initialized": true
@@ -2274,7 +2325,11 @@
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Senior-System-Services-Engineer--M-F-D-_R168520-1",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Gas-Turbine-Carbon-Capture-Program-Manager--d-f-m-_R170784-1",
     "/job/VE-ZUL-MARACAIBO-AVENIDA-66-62-609/Warehouse-and-Yard_R169666",
-    "/job/CA-AB-CALGARY-6820-36-STREET-SE/Intern---Engineering---Technology---12-Month-2027-Opportunities_R168915"
+    "/job/CA-AB-CALGARY-6820-36-STREET-SE/Intern---Engineering---Technology---12-Month-2027-Opportunities_R168915",
+    "/job/IT-MS-MASSA--VIA-DORSALE-3/HSE-Specialist--d-f-m-_R171214",
+    "/job/GB-AC-ABERDEEN-BADENTOY-INDUSTRIAL-ESTATE/Field-Operator-IV_R171188",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/UPG-PSE-System-Engineer-f-d-m_R171621",
+    "/job/US-CT-Cromwell-104SebetheDrive/Manufacturing-Engineer---Transducer_R166184-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2481,7 +2536,9 @@
     "/job/Indiana---Michigan-City-Catalyst-Plant/Maintenance---Engineering-Manager_R214033",
     "/job/Shell-Centre-Kuala-Lumpur/FP-A-Lead_R210443",
     "/job/Bangalore---Retail-Office/Brand---Communications-Specialist--Fuels_R213302",
-    "/job/Singapore---Metropolis/IT-Operations-Engineer_R214068"
+    "/job/Singapore---Metropolis/IT-Operations-Engineer_R214068",
+    "/job/Denmark-Odense/Biomass---Supplier-Relations-Manager_R214107",
+    "/job/Brisbane---George-Street/Economics-Advisor_R214086"
    ],
    "fails": 0,
    "initialized": true
@@ -2799,7 +2856,10 @@
     "102771299616",
     "102774886864",
     "101072660944",
-    "102825092592"
+    "102825092592",
+    "102850730848",
+    "102850730784",
+    "102850730768"
    ],
    "fails": 0,
    "initialized": true
