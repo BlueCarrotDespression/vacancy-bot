@@ -1231,7 +1231,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 82,
+   "fails": 83,
    "initialized": false
   },
   "KPO": {
@@ -2217,9 +2217,15 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Supplier-Quality---2027--M-F-D-_R171661",
     "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Digital-Learning---Content-Designer_R171662",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027--M-F-D-_R171660-1",
-    "/job/NG-PORT-HARCOURT-125-TRANS-AMADI/Field-Operator---Coiled-Tubing_R166232"
+    "/job/NG-PORT-HARCOURT-125-TRANS-AMADI/Field-Operator---Coiled-Tubing_R166232",
+    "/job/BR-RJ-NITEROI-PRACA-ALCIDES-PEREIRA/Gerente-Snior-de-Manuteno_R169500",
+    "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/LEAD-Field-Engineer---2027_R170380",
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Senior-System-Services-Engineer--M-F-D-_R168520-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Gas-Turbine-Carbon-Capture-Program-Manager--d-f-m-_R170784-1",
+    "/job/VE-ZUL-MARACAIBO-AVENIDA-66-62-609/Warehouse-and-Yard_R169666",
+    "/job/CA-AB-CALGARY-6820-36-STREET-SE/Intern---Engineering---Technology---12-Month-2027-Opportunities_R168915"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -2738,7 +2744,8 @@
     "102756357968",
     "102771299616",
     "102774886864",
-    "101072660944"
+    "101072660944",
+    "102825092592"
    ],
    "fails": 0,
    "initialized": true
