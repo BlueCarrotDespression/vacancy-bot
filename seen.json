@@ -1285,7 +1285,46 @@
     "107810",
     "106452",
     "101269",
-    "101270"
+    "101270",
+    "107885",
+    "107884",
+    "107883",
+    "107882",
+    "106712",
+    "103187",
+    "107881",
+    "107880",
+    "100240",
+    "107879",
+    "106456",
+    "106588",
+    "104288",
+    "96176",
+    "107876",
+    "107877",
+    "107875",
+    "104939",
+    "107874",
+    "107873",
+    "107872",
+    "107870",
+    "107869",
+    "107868",
+    "101888",
+    "106510",
+    "104005",
+    "105648",
+    "107863",
+    "107862",
+    "102790",
+    "103968",
+    "107861",
+    "95425",
+    "107860",
+    "107859",
+    "101049",
+    "104392",
+    "107858"
    ],
    "fails": 0,
    "initialized": true
@@ -1354,7 +1393,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 88,
+   "fails": 89,
    "initialized": false
   },
   "KPO": {
@@ -2400,7 +2439,12 @@
     "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Field-Engineer-Intern---Summer-2027-Opportunities_R168905",
     "/job/US-CA-SHAFTER-3901-FANUCCHI-WAY/Field-Engineer-Intern---Summer-2027-Opportunities_R168901",
     "/job/BR-SP-CAMPINAS-RUA-MANUEL-THOMAZ-245/Advance-Process-Optimization-and-Control-Services-Delivery-Manager_R165497",
-    "/job/IT-SO-TALAMONA-VIA-ROMA-32/Special-Processes-Technical-Leader_R155234"
+    "/job/IT-SO-TALAMONA-VIA-ROMA-32/Special-Processes-Technical-Leader_R155234",
+    "/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing---2027--M-F-D-_R171707",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027_R170509",
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Function-Development-Modelling-and-Simulation-2026-Opportunities--Celle-_R158057",
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Elektrotechnik-und-Elektronik-2026--Celle-_R158058",
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Firmware--Software-und-Informatik-2026--Celle-_R158066"
    ],
    "fails": 0,
    "initialized": true
@@ -2611,7 +2655,10 @@
     "/job/Denmark-Odense/Biomass---Supplier-Relations-Manager_R214107",
     "/job/Brisbane---George-Street/Economics-Advisor_R214086",
     "/job/Bangkok/Pack-Filling-Engineer_R213283-1",
-    "/job/Shanghai---The-Hub/Key-Account-Manager_R214091-1"
+    "/job/Shanghai---The-Hub/Key-Account-Manager_R214091-1",
+    "/job/Bintulu/Constable_R211063",
+    "/job/Louisiana---Norco/Rotating---Electrical-Assurance-Engr_R214170",
+    "/job/Istanbul---Esentepe/Helpdesk-Supervisor_R204856-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2752,7 +2799,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/senior-esg-consultant-2",
     "https://kpmgcca.global.huntflow.io/vacancy/risk-management-specialist-1",
     "https://kpmgcca.global.huntflow.io/vacancy/intern-executive-1-fixed-assets",
-    "https://kpmgcca.global.huntflow.io/vacancy/consultant-5"
+    "https://kpmgcca.global.huntflow.io/vacancy/consultant-5",
+    "https://kpmgcca.global.huntflow.io/vacancy/manager-3"
    ],
    "fails": 0,
    "initialized": true
@@ -2933,7 +2981,12 @@
     "102850730848",
     "102850730784",
     "102850730768",
-    "102869414944"
+    "102869414944",
+    "102888183616",
+    "102894603424",
+    "102888183696",
+    "102888183632",
+    "102888183648"
    ],
    "fails": 0,
    "initialized": true
