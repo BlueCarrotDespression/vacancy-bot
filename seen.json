@@ -1324,7 +1324,9 @@
     "107859",
     "101049",
     "104392",
-    "107858"
+    "107858",
+    "107887",
+    "107886"
    ],
    "fails": 0,
    "initialized": true
@@ -1393,7 +1395,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 89,
+   "fails": 90,
    "initialized": false
   },
   "KPO": {
@@ -1459,7 +1461,8 @@
     "14487",
     "14050",
     "14336",
-    "14149"
+    "14149",
+    "14384"
    ],
    "fails": 0,
    "initialized": true
@@ -1825,7 +1828,8 @@
     "EF22516-en_US",
     "87213",
     "EF22624-en_US",
-    "WDR00137329"
+    "WDR00137329",
+    "EF22315-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2444,7 +2448,15 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027_R170509",
     "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Function-Development-Modelling-and-Simulation-2026-Opportunities--Celle-_R158057",
     "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Elektrotechnik-und-Elektronik-2026--Celle-_R158058",
-    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Firmware--Software-und-Informatik-2026--Celle-_R158066"
+    "/job/DO-NOT-USE-DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Firmware--Software-und-Informatik-2026--Celle-_R158066",
+    "/job/NO-ROGALAND-STAVANGER-MOSEIDVEIEN-35/Mechanical-Design-Engineer_R171538",
+    "/job/US-TX-Valero-Refinery-1147-Cantwell-Ln-Corpus-Christi/Chemical-Field-Technician--Downstream-Chemicals----Houston--TX_R167417",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Mechanical-Field-Service-Engineer--Steam-Turbines--M-F-D-_R168560",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Senior-Infrastructure-Configuration-Engineer--m-f-d-_R167784-1",
+    "/job/AO-OTHER-ANGOLA/LEAD-Field-Engineer---2027-Opportunities_R171706",
+    "/job/CI-OTHER-COTE-DIVOIRE/LEAD-Field-Engineer---2027-Opportunities_R171709",
+    "/job/US-TX-MIDLAND-2065-MARKET-STREET/Warehouse---Yard-Operator_R165580-1",
+    "/job/US-TX-10575-Red-Bluff-Road/WAREHOUSE-II_R171696"
    ],
    "fails": 0,
    "initialized": true
@@ -2658,7 +2670,8 @@
     "/job/Shanghai---The-Hub/Key-Account-Manager_R214091-1",
     "/job/Bintulu/Constable_R211063",
     "/job/Louisiana---Norco/Rotating---Electrical-Assurance-Engr_R214170",
-    "/job/Istanbul---Esentepe/Helpdesk-Supervisor_R204856-1"
+    "/job/Istanbul---Esentepe/Helpdesk-Supervisor_R204856-1",
+    "/job/Calgary--Shell-Bow-Building/B2B-Key-Account-Manager_R214192"
    ],
    "fails": 0,
    "initialized": true
