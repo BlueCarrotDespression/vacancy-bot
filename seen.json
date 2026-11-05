@@ -1245,7 +1245,47 @@
     "107782",
     "107781",
     "107780",
-    "107779"
+    "107779",
+    "72967",
+    "106076",
+    "107830",
+    "107828",
+    "107827",
+    "107826",
+    "107825",
+    "107824",
+    "103602",
+    "105825",
+    "101916",
+    "107444",
+    "107823",
+    "106492",
+    "107821",
+    "107448",
+    "107820",
+    "106449",
+    "106245",
+    "106806",
+    "105821",
+    "107819",
+    "107818",
+    "107817",
+    "107809",
+    "97015",
+    "107816",
+    "107815",
+    "107814",
+    "105546",
+    "107813",
+    "107812",
+    "107811",
+    "93975",
+    "101266",
+    "105545",
+    "107810",
+    "106452",
+    "101269",
+    "101270"
    ],
    "fails": 0,
    "initialized": true
@@ -1314,7 +1354,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 87,
+   "fails": 88,
    "initialized": false
   },
   "KPO": {
@@ -1583,7 +1623,11 @@
     "https://www.nesfircroft.com/job/terminal-operator-33169",
     "https://www.nesfircroft.com/job/quality-assurance-field-inspector",
     "https://www.nesfircroft.com/job/warehouse-storeperson-33171",
-    "https://www.nesfircroft.com/job/senior-buyer-33083"
+    "https://www.nesfircroft.com/job/senior-buyer-33083",
+    "https://www.nesfircroft.com/job/electrical-commissioning-lead-33174",
+    "https://www.nesfircroft.com/job/business-development-manager-33175",
+    "https://www.nesfircroft.com/job/hmss-koordinator---inspektr",
+    "https://www.nesfircroft.com/job/technical-assistant-33173"
    ],
    "fails": 0,
    "initialized": true
@@ -1740,7 +1784,9 @@
     "EF12498-en_US",
     "WDR00137278",
     "EF22516-en_US",
-    "87213"
+    "87213",
+    "EF22624-en_US",
+    "WDR00137329"
    ],
    "fails": 0,
    "initialized": true
@@ -2353,7 +2399,8 @@
     "/job/US-TX-MIDLAND-2101-MARKET-STREET/Engineering---Technology-Intern--Summer-2027-Opportunities_R168911",
     "/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Field-Engineer-Intern---Summer-2027-Opportunities_R168905",
     "/job/US-CA-SHAFTER-3901-FANUCCHI-WAY/Field-Engineer-Intern---Summer-2027-Opportunities_R168901",
-    "/job/BR-SP-CAMPINAS-RUA-MANUEL-THOMAZ-245/Advance-Process-Optimization-and-Control-Services-Delivery-Manager_R165497"
+    "/job/BR-SP-CAMPINAS-RUA-MANUEL-THOMAZ-245/Advance-Process-Optimization-and-Control-Services-Delivery-Manager_R165497",
+    "/job/IT-SO-TALAMONA-VIA-ROMA-32/Special-Processes-Technical-Leader_R155234"
    ],
    "fails": 0,
    "initialized": true
@@ -2562,7 +2609,9 @@
     "/job/Bangalore---Retail-Office/Brand---Communications-Specialist--Fuels_R213302",
     "/job/Singapore---Metropolis/IT-Operations-Engineer_R214068",
     "/job/Denmark-Odense/Biomass---Supplier-Relations-Manager_R214107",
-    "/job/Brisbane---George-Street/Economics-Advisor_R214086"
+    "/job/Brisbane---George-Street/Economics-Advisor_R214086",
+    "/job/Bangkok/Pack-Filling-Engineer_R213283-1",
+    "/job/Shanghai---The-Hub/Key-Account-Manager_R214091-1"
    ],
    "fails": 0,
    "initialized": true
