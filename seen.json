@@ -1395,7 +1395,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 90,
+   "fails": 91,
    "initialized": false
   },
   "KPO": {
@@ -1669,7 +1669,8 @@
     "https://www.nesfircroft.com/job/electrical-commissioning-lead-33174",
     "https://www.nesfircroft.com/job/business-development-manager-33175",
     "https://www.nesfircroft.com/job/hmss-koordinator---inspektr",
-    "https://www.nesfircroft.com/job/technical-assistant-33173"
+    "https://www.nesfircroft.com/job/technical-assistant-33173",
+    "https://www.nesfircroft.com/job/equipment-operator-30803"
    ],
    "fails": 0,
    "initialized": true
@@ -2456,7 +2457,8 @@
     "/job/AO-OTHER-ANGOLA/LEAD-Field-Engineer---2027-Opportunities_R171706",
     "/job/CI-OTHER-COTE-DIVOIRE/LEAD-Field-Engineer---2027-Opportunities_R171709",
     "/job/US-TX-MIDLAND-2065-MARKET-STREET/Warehouse---Yard-Operator_R165580-1",
-    "/job/US-TX-10575-Red-Bluff-Road/WAREHOUSE-II_R171696"
+    "/job/US-TX-10575-Red-Bluff-Road/WAREHOUSE-II_R171696",
+    "/job/VE-OTHER-VENEZUELA/Field-Operator-III-PP-PE_R171804"
    ],
    "fails": 0,
    "initialized": true
@@ -2671,7 +2673,8 @@
     "/job/Bintulu/Constable_R211063",
     "/job/Louisiana---Norco/Rotating---Electrical-Assurance-Engr_R214170",
     "/job/Istanbul---Esentepe/Helpdesk-Supervisor_R204856-1",
-    "/job/Calgary--Shell-Bow-Building/B2B-Key-Account-Manager_R214192"
+    "/job/Calgary--Shell-Bow-Building/B2B-Key-Account-Manager_R214192",
+    "/job/Great-Yarmouth---N-Quay/Projects-and-Turnaround-Engineer_R214167"
    ],
    "fails": 0,
    "initialized": true
