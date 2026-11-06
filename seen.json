@@ -1366,7 +1366,46 @@
     "107914",
     "107737",
     "107915",
-    "107898"
+    "107898",
+    "107966",
+    "107965",
+    "107964",
+    "107963",
+    "107962",
+    "107878",
+    "105083",
+    "107920",
+    "107961",
+    "106191",
+    "107960",
+    "107822",
+    "107959",
+    "107958",
+    "103532",
+    "107957",
+    "103046",
+    "103522",
+    "107956",
+    "107955",
+    "107954",
+    "107952",
+    "107951",
+    "71085",
+    "107950",
+    "107949",
+    "107948",
+    "107945",
+    "107947",
+    "107944",
+    "98508",
+    "103517",
+    "101231",
+    "99925",
+    "107943",
+    "102496",
+    "104541",
+    "104292",
+    "107942"
    ],
    "fails": 0,
    "initialized": true
@@ -1428,14 +1467,16 @@
     "2144",
     "3184",
     "5708",
-    "5761"
+    "5761",
+    "5877",
+    "5873"
    ],
    "fails": 0,
    "initialized": true
   },
   "Worley": {
    "seen": [],
-   "fails": 92,
+   "fails": 93,
    "initialized": false
   },
   "KPO": {
@@ -1504,7 +1545,8 @@
     "14149",
     "14384",
     "14504",
-    "14502"
+    "14502",
+    "14506"
    ],
    "fails": 0,
    "initialized": true
@@ -1714,7 +1756,9 @@
     "https://www.nesfircroft.com/job/technical-assistant-33173",
     "https://www.nesfircroft.com/job/equipment-operator-30803",
     "https://www.nesfircroft.com/job/senior-electrical-intermediate-engineer",
-    "https://www.nesfircroft.com/job/electrical-intermediate-engineer"
+    "https://www.nesfircroft.com/job/electrical-intermediate-engineer",
+    "https://www.nesfircroft.com/job/contracts-lead---projects",
+    "https://www.nesfircroft.com/job/senior-technical-safety-asset-discipline-engineer"
    ],
    "fails": 0,
    "initialized": true
@@ -2505,7 +2549,18 @@
     "/job/US-TX-10575-Red-Bluff-Road/WAREHOUSE-II_R171696",
     "/job/VE-OTHER-VENEZUELA/Field-Operator-III-PP-PE_R171804",
     "/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Specialist-II---PRP_R165965-1",
-    "/job/VN-Ho-Chi-Minh-Ho-Chi-Minh-5th-floor-of-Cantavil-An-Phu-Complex-at-No-01/Proposal-Analyst_R171643"
+    "/job/VN-Ho-Chi-Minh-Ho-Chi-Minh-5th-floor-of-Cantavil-An-Phu-Complex-at-No-01/Proposal-Analyst_R171643",
+    "/job/NG-PORT-HARCOURT-125-TRANS-AMADI/Assembly-Repair-Maintenance-Overhaul-Engineer---Wireline-Services_R171723",
+    "/job/NG-PORT-HARCOURT-125-TRANS-AMADI/Assembly-Repair-Maintenance-Overhaul-Technician---Wireline-Services_R171721",
+    "/job/GB-AN-MONTROSE-CHARLETON-ROAD/Schematic-Fitter---Technician-Mechanic_R171636",
+    "/job/GB-OX-ABINGDON-16-NORTH-CENTRAL/Electronics-Engineer_R171170",
+    "/job/BR-RJ-MACAE-BELA-VISTA-AREA-19-1600/TRS-ARMO-Mechanic_R171762",
+    "/job/VE-OTHER-VENEZUELA/Field-Operator-IV-PP-CEMENTACIN_R171813",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/CAD-Applications-Specialist-M-F-D_R168834-1",
+    "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Associate-Fellow--Subsea-Wellheads---Well-Systems_R164014",
+    "/job/AZ-Baku-Baku-15th-Km-of-the-Baku-Salyan-Highway-1F-Garadag-District/Graduate-Pipeline-Engineer_R169533-1",
+    "/job/IN-BARMER-MPT-ROAD-KAVAS/LEAD---Field-Engineer-2027-Opportunities_R171807",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R171787-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2722,7 +2777,10 @@
     "/job/Istanbul---Esentepe/Helpdesk-Supervisor_R204856-1",
     "/job/Calgary--Shell-Bow-Building/B2B-Key-Account-Manager_R214192",
     "/job/Great-Yarmouth---N-Quay/Projects-and-Turnaround-Engineer_R214167",
-    "/job/Trading-Settlements-Analyst_R211501"
+    "/job/Trading-Settlements-Analyst_R211501",
+    "/job/London---Shell-Centre/EPCM-Manager_R212028-2",
+    "/job/New-Jersey---Sewaren-Terminal/Automation-Engineer---East-Coast_R214218",
+    "/job/SHELL-CENTRE--CHENNAI/Product-Implementation-Manager_R214006"
    ],
    "fails": 0,
    "initialized": true
@@ -3051,7 +3109,14 @@
     "102894603424",
     "102888183696",
     "102888183632",
-    "102888183648"
+    "102888183648",
+    "102932576432",
+    "102932576512",
+    "102932576480",
+    "102932576464",
+    "98359551920",
+    "102945550320",
+    "102938857072"
    ],
    "fails": 0,
    "initialized": true
