@@ -1326,7 +1326,47 @@
     "104392",
     "107858",
     "107887",
-    "107886"
+    "107886",
+    "107941",
+    "107940",
+    "107935",
+    "77054",
+    "107939",
+    "107938",
+    "107937",
+    "107933",
+    "107541",
+    "107936",
+    "105383",
+    "107934",
+    "105939",
+    "104256",
+    "107932",
+    "107931",
+    "103664",
+    "107930",
+    "107929",
+    "107928",
+    "107926",
+    "107925",
+    "107924",
+    "107923",
+    "107922",
+    "104044",
+    "107258",
+    "107921",
+    "106654",
+    "105923",
+    "107918",
+    "107919",
+    "94009",
+    "107917",
+    "107916",
+    "107736",
+    "107914",
+    "107737",
+    "107915",
+    "107898"
    ],
    "fails": 0,
    "initialized": true
@@ -1395,7 +1435,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 91,
+   "fails": 92,
    "initialized": false
   },
   "KPO": {
@@ -1462,7 +1502,9 @@
     "14050",
     "14336",
     "14149",
-    "14384"
+    "14384",
+    "14504",
+    "14502"
    ],
    "fails": 0,
    "initialized": true
@@ -1670,7 +1712,9 @@
     "https://www.nesfircroft.com/job/business-development-manager-33175",
     "https://www.nesfircroft.com/job/hmss-koordinator---inspektr",
     "https://www.nesfircroft.com/job/technical-assistant-33173",
-    "https://www.nesfircroft.com/job/equipment-operator-30803"
+    "https://www.nesfircroft.com/job/equipment-operator-30803",
+    "https://www.nesfircroft.com/job/senior-electrical-intermediate-engineer",
+    "https://www.nesfircroft.com/job/electrical-intermediate-engineer"
    ],
    "fails": 0,
    "initialized": true
@@ -1830,7 +1874,8 @@
     "87213",
     "EF22624-en_US",
     "WDR00137329",
-    "EF22315-en_US"
+    "EF22315-en_US",
+    "EF22144-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2458,7 +2503,9 @@
     "/job/CI-OTHER-COTE-DIVOIRE/LEAD-Field-Engineer---2027-Opportunities_R171709",
     "/job/US-TX-MIDLAND-2065-MARKET-STREET/Warehouse---Yard-Operator_R165580-1",
     "/job/US-TX-10575-Red-Bluff-Road/WAREHOUSE-II_R171696",
-    "/job/VE-OTHER-VENEZUELA/Field-Operator-III-PP-PE_R171804"
+    "/job/VE-OTHER-VENEZUELA/Field-Operator-III-PP-PE_R171804",
+    "/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Specialist-II---PRP_R165965-1",
+    "/job/VN-Ho-Chi-Minh-Ho-Chi-Minh-5th-floor-of-Cantavil-An-Phu-Complex-at-No-01/Proposal-Analyst_R171643"
    ],
    "fails": 0,
    "initialized": true
@@ -2674,7 +2721,8 @@
     "/job/Louisiana---Norco/Rotating---Electrical-Assurance-Engr_R214170",
     "/job/Istanbul---Esentepe/Helpdesk-Supervisor_R204856-1",
     "/job/Calgary--Shell-Bow-Building/B2B-Key-Account-Manager_R214192",
-    "/job/Great-Yarmouth---N-Quay/Projects-and-Turnaround-Engineer_R214167"
+    "/job/Great-Yarmouth---N-Quay/Projects-and-Turnaround-Engineer_R214167",
+    "/job/Trading-Settlements-Analyst_R211501"
    ],
    "fails": 0,
    "initialized": true
@@ -2816,7 +2864,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/risk-management-specialist-1",
     "https://kpmgcca.global.huntflow.io/vacancy/intern-executive-1-fixed-assets",
     "https://kpmgcca.global.huntflow.io/vacancy/consultant-5",
-    "https://kpmgcca.global.huntflow.io/vacancy/manager-3"
+    "https://kpmgcca.global.huntflow.io/vacancy/manager-3",
+    "https://kpmgcca.global.huntflow.io/vacancy/hr-business-partner-2"
    ],
    "fails": 0,
    "initialized": true
