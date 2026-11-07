@@ -1476,7 +1476,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 95,
+   "fails": 96,
    "initialized": false
   },
   "KPO": {
@@ -2563,7 +2563,7 @@
     "/job/IN-BARMER-MPT-ROAD-KAVAS/LEAD---Field-Engineer-2027-Opportunities_R171807",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R171787-1"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -2783,7 +2783,7 @@
     "/job/New-Jersey---Sewaren-Terminal/Automation-Engineer---East-Coast_R214218",
     "/job/SHELL-CENTRE--CHENNAI/Product-Implementation-Manager_R214006"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "AtyrauTechInvest": {
