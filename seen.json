@@ -1405,7 +1405,12 @@
     "102496",
     "104541",
     "104292",
-    "107942"
+    "107942",
+    "90706",
+    "107732",
+    "107733",
+    "107731",
+    "107743"
    ],
    "fails": 0,
    "initialized": true
@@ -1476,7 +1481,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 96,
+   "fails": 97,
    "initialized": false
   },
   "KPO": {
@@ -1758,7 +1763,8 @@
     "https://www.nesfircroft.com/job/senior-electrical-intermediate-engineer",
     "https://www.nesfircroft.com/job/electrical-intermediate-engineer",
     "https://www.nesfircroft.com/job/contracts-lead---projects",
-    "https://www.nesfircroft.com/job/senior-technical-safety-asset-discipline-engineer"
+    "https://www.nesfircroft.com/job/senior-technical-safety-asset-discipline-engineer",
+    "https://www.nesfircroft.com/job/engineering-lead-piping---field-33233"
    ],
    "fails": 0,
    "initialized": true
@@ -1920,7 +1926,8 @@
     "WDR00137329",
     "EF22315-en_US",
     "EF22144-en_US",
-    "EF20942-en_US"
+    "EF20942-en_US",
+    "WDR00137125"
    ],
    "fails": 0,
    "initialized": true
@@ -2561,9 +2568,10 @@
     "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Associate-Fellow--Subsea-Wellheads---Well-Systems_R164014",
     "/job/AZ-Baku-Baku-15th-Km-of-the-Baku-Salyan-Highway-1F-Garadag-District/Graduate-Pipeline-Engineer_R169533-1",
     "/job/IN-BARMER-MPT-ROAD-KAVAS/LEAD---Field-Engineer-2027-Opportunities_R171807",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R171787-1"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R171787-1",
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/General-Operations-Support_R170366-1"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -2783,7 +2791,7 @@
     "/job/New-Jersey---Sewaren-Terminal/Automation-Engineer---East-Coast_R214218",
     "/job/SHELL-CENTRE--CHENNAI/Product-Implementation-Manager_R214006"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3117,7 +3125,8 @@
     "102932576464",
     "98359551920",
     "102945550320",
-    "102938857072"
+    "102938857072",
+    "95326596672"
    ],
    "fails": 0,
    "initialized": true
