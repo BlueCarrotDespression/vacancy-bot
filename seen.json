@@ -1476,7 +1476,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 94,
+   "fails": 95,
    "initialized": false
   },
   "KPO": {
@@ -1919,7 +1919,8 @@
     "EF22624-en_US",
     "WDR00137329",
     "EF22315-en_US",
-    "EF22144-en_US"
+    "EF22144-en_US",
+    "EF20942-en_US"
    ],
    "fails": 0,
    "initialized": true
