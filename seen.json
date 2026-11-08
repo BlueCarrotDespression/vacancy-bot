@@ -1417,7 +1417,8 @@
     "107970",
     "95444",
     "107972",
-    "107971"
+    "107971",
+    "107973"
    ],
    "fails": 0,
    "initialized": true
@@ -1488,7 +1489,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 102,
+   "fails": 103,
    "initialized": false
   },
   "KPO": {
@@ -1934,7 +1935,18 @@
     "EF22315-en_US",
     "EF22144-en_US",
     "EF20942-en_US",
-    "WDR00137125"
+    "WDR00137125",
+    "EF21894-en_US",
+    "EF5557-en_US",
+    "WDR00137310",
+    "WDR00136719",
+    "EF20376-en_US",
+    "EF20393-en_US",
+    "EF21043-en_US",
+    "EF20728-en_US",
+    "EF20388-en_US",
+    "EF21213-en_US",
+    "EF21617-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2577,7 +2589,9 @@
     "/job/IN-BARMER-MPT-ROAD-KAVAS/LEAD---Field-Engineer-2027-Opportunities_R171807",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R171787-1",
     "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/General-Operations-Support_R170366-1",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-AI-Engineer--M-F-D-_R168977"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-AI-Engineer--M-F-D-_R168977",
+    "/job/AO-LA-LUANDA-BOAVISTA-SONILS-OILFIELD-SERVICE-CENTER/Field-Services-Specialist---Controls-IWOCS---Software_R171778",
+    "/job/SA-Eastern-Province-Dhahran-No-4041-Dammam---Abqaiq-Highway/Petrophysicist-Advisor_R170936"
    ],
    "fails": 0,
    "initialized": true
