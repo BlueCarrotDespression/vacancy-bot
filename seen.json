@@ -1414,7 +1414,10 @@
     "107969",
     "107968",
     "107967",
-    "107970"
+    "107970",
+    "95444",
+    "107972",
+    "107971"
    ],
    "fails": 0,
    "initialized": true
@@ -1485,7 +1488,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 101,
+   "fails": 102,
    "initialized": false
   },
   "KPO": {
@@ -2573,7 +2576,8 @@
     "/job/AZ-Baku-Baku-15th-Km-of-the-Baku-Salyan-Highway-1F-Garadag-District/Graduate-Pipeline-Engineer_R169533-1",
     "/job/IN-BARMER-MPT-ROAD-KAVAS/LEAD---Field-Engineer-2027-Opportunities_R171807",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Buyer-for-Direct-Material--d-f-m-_R171787-1",
-    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/General-Operations-Support_R170366-1"
+    "/job/MX-CMP-CIUDAD-DEL-CARMEN-CARRETERA-FEDERAL-189/General-Operations-Support_R170366-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-AI-Engineer--M-F-D-_R168977"
    ],
    "fails": 0,
    "initialized": true
@@ -3130,7 +3134,8 @@
     "98359551920",
     "102945550320",
     "102938857072",
-    "95326596672"
+    "95326596672",
+    "101419743104"
    ],
    "fails": 0,
    "initialized": true
