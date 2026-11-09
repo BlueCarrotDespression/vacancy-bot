@@ -1457,7 +1457,39 @@
     "108037",
     "108036",
     "107452",
-    "107200"
+    "107200",
+    "107791",
+    "107792",
+    "107838",
+    "107794",
+    "108077",
+    "104002",
+    "103934",
+    "107517",
+    "108076",
+    "108074",
+    "108075",
+    "103474",
+    "107846",
+    "108073",
+    "105746",
+    "107526",
+    "108071",
+    "108070",
+    "107501",
+    "102989",
+    "108069",
+    "108068",
+    "106464",
+    "103871",
+    "108067",
+    "108066",
+    "108065",
+    "105386",
+    "108064",
+    "106692",
+    "108063",
+    "108062"
    ],
    "fails": 0,
    "initialized": true
@@ -1528,7 +1560,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 106,
+   "fails": 107,
    "initialized": false
   },
   "KPO": {
@@ -1599,7 +1631,8 @@
     "14504",
     "14502",
     "14506",
-    "14507"
+    "14507",
+    "14508"
    ],
    "fails": 0,
    "initialized": true
@@ -1815,7 +1848,10 @@
     "https://www.nesfircroft.com/job/engineering-lead-piping---field-33233",
     "https://www.nesfircroft.com/job/wellington-aiport-manager---fuel-operations",
     "https://www.nesfircroft.com/job/warehouse-operator-33146",
-    "https://www.nesfircroft.com/job/senior-service-delivery-specialist"
+    "https://www.nesfircroft.com/job/senior-service-delivery-specialist",
+    "https://www.nesfircroft.com/job/senior-security-professional---emergency-preparedness",
+    "https://www.nesfircroft.com/job/share-plan-coordinator",
+    "https://www.nesfircroft.com/job/master-data-maintainer-33254"
    ],
    "fails": 0,
    "initialized": true
@@ -2641,7 +2677,20 @@
     "/job/KE-OTHER-KENYA/LEAD-Field-Engineer---2027-Opportunities_R171708",
     "/job/MZ-Maputo-Maputo-Rua-Dos-Desportistas-Maputo-Business-Tower-12th-Floor-nr-480/LEAD-Field-Engineer---2027-Opportunities_R171710",
     "/job/NA-Other-Namibia/LEAD-Field-Engineer---2027-Opportunities_R171681",
-    "/job/MY-KUL-KUALA-LUMPUR-19th-FLOOR-MENARA-TAN--TAN/Customer-Application-Engineer_R171606-1"
+    "/job/MY-KUL-KUALA-LUMPUR-19th-FLOOR-MENARA-TAN--TAN/Customer-Application-Engineer_R171606-1",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Operator-1---Swing-Shift_R171620",
+    "/job/OM-QARN-AL-ALAM-PDO-PLOT--27/Assembly--Maintenance-and-Overhaul-Technician---Drilling-Services_R168165",
+    "/job/US-LA-BROUSSARD-1064-BAKER-HUGHES-DR/Senior-Services-Specialist_R171742",
+    "/job/US-LA-BROUSSARD-1064-BAKER-HUGHES-DR/Senior-Services-Specialist_R171758",
+    "/job/QA-DOHA-RAS-LAFFAN-INDUSTRIAL-CITY/Quality-Inspector_R167594",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Operator-1_R171619-1",
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Senior-Tendering-Team-Leader---Production-Control-Systems--PCS-_R169750-1",
+    "/job/FR-Sainte-Tulle-Sainte-Tulle-Za-Les-Bastides-Blanches/Sismologue---Ingnieur-e--de-terrain--F-H-_R171613",
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Function-Development-Modelling-and-Simulation-2026-Opportunities--Celle-_R158057",
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Elektrotechnik-und-Elektronik-2026--Celle-_R158058",
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Geology--Geosciences-or-Geophysics-2026-Opportunities--Celle-_R158056",
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Firmware--Software-und-Informatik-2026--Celle-_R158066",
+    "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Senior-Mechanical-Application-Engineer_R165970"
    ],
    "fails": 0,
    "initialized": true
@@ -3200,7 +3249,9 @@
     "102945550320",
     "102938857072",
     "95326596672",
-    "101419743104"
+    "101419743104",
+    "103082250512",
+    "103065876112"
    ],
    "fails": 0,
    "initialized": true
