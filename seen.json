@@ -1418,7 +1418,46 @@
     "95444",
     "107972",
     "107971",
-    "107973"
+    "107973",
+    "108058",
+    "108057",
+    "108056",
+    "99001",
+    "108055",
+    "108054",
+    "108053",
+    "108052",
+    "108051",
+    "108050",
+    "107855",
+    "38621",
+    "108048",
+    "107530",
+    "108047",
+    "108046",
+    "87252",
+    "105706",
+    "108045",
+    "105618",
+    "105615",
+    "106019",
+    "107982",
+    "104356",
+    "107910",
+    "99217",
+    "108044",
+    "108043",
+    "106441",
+    "108042",
+    "108041",
+    "108040",
+    "107270",
+    "108039",
+    "108038",
+    "108037",
+    "108036",
+    "107452",
+    "107200"
    ],
    "fails": 0,
    "initialized": true
@@ -1489,7 +1528,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 105,
+   "fails": 106,
    "initialized": false
   },
   "KPO": {
@@ -1559,7 +1598,8 @@
     "14384",
     "14504",
     "14502",
-    "14506"
+    "14506",
+    "14507"
    ],
    "fails": 0,
    "initialized": true
@@ -1774,7 +1814,8 @@
     "https://www.nesfircroft.com/job/senior-technical-safety-asset-discipline-engineer",
     "https://www.nesfircroft.com/job/engineering-lead-piping---field-33233",
     "https://www.nesfircroft.com/job/wellington-aiport-manager---fuel-operations",
-    "https://www.nesfircroft.com/job/warehouse-operator-33146"
+    "https://www.nesfircroft.com/job/warehouse-operator-33146",
+    "https://www.nesfircroft.com/job/senior-service-delivery-specialist"
    ],
    "fails": 0,
    "initialized": true
@@ -1948,7 +1989,9 @@
     "EF20728-en_US",
     "EF20388-en_US",
     "EF21213-en_US",
-    "EF21617-en_US"
+    "EF21617-en_US",
+    "WDR00136388",
+    "EF20377-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2594,7 +2637,11 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-AI-Engineer--M-F-D-_R168977",
     "/job/AO-LA-LUANDA-BOAVISTA-SONILS-OILFIELD-SERVICE-CENTER/Field-Services-Specialist---Controls-IWOCS---Software_R171778",
     "/job/SA-Eastern-Province-Dhahran-No-4041-Dammam---Abqaiq-Highway/Petrophysicist-Advisor_R170936",
-    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Services-Staff-Director---Digital-Implementation---Enablement_R171081-1"
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Services-Staff-Director---Digital-Implementation---Enablement_R171081-1",
+    "/job/KE-OTHER-KENYA/LEAD-Field-Engineer---2027-Opportunities_R171708",
+    "/job/MZ-Maputo-Maputo-Rua-Dos-Desportistas-Maputo-Business-Tower-12th-Floor-nr-480/LEAD-Field-Engineer---2027-Opportunities_R171710",
+    "/job/NA-Other-Namibia/LEAD-Field-Engineer---2027-Opportunities_R171681",
+    "/job/MY-KUL-KUALA-LUMPUR-19th-FLOOR-MENARA-TAN--TAN/Customer-Application-Engineer_R171606-1"
    ],
    "fails": 0,
    "initialized": true
@@ -2814,7 +2861,8 @@
     "/job/Trading-Settlements-Analyst_R211501",
     "/job/London---Shell-Centre/EPCM-Manager_R212028-2",
     "/job/New-Jersey---Sewaren-Terminal/Automation-Engineer---East-Coast_R214218",
-    "/job/SHELL-CENTRE--CHENNAI/Product-Implementation-Manager_R214006"
+    "/job/SHELL-CENTRE--CHENNAI/Product-Implementation-Manager_R214006",
+    "/job/Pennsylvania---Monaca-Chemical-Plant/Laboratory-Technician_R214235"
    ],
    "fails": 0,
    "initialized": true
