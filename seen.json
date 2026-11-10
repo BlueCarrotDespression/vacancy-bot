@@ -1527,7 +1527,47 @@
     "108035",
     "107233",
     "107234",
-    "108099"
+    "108099",
+    "108136",
+    "103067",
+    "108134",
+    "108104",
+    "107892",
+    "98585",
+    "108132",
+    "108131",
+    "108130",
+    "95954",
+    "108129",
+    "107849",
+    "108028",
+    "108128",
+    "108127",
+    "91872",
+    "108126",
+    "108125",
+    "108124",
+    "108123",
+    "108122",
+    "108121",
+    "108120",
+    "108072",
+    "108119",
+    "108118",
+    "108117",
+    "73677",
+    "107890",
+    "73679",
+    "85240",
+    "108116",
+    "108115",
+    "107763",
+    "108113",
+    "98511",
+    "108114",
+    "108101",
+    "108112",
+    "108110"
    ],
    "fails": 0,
    "initialized": true
@@ -1599,7 +1639,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 109,
+   "fails": 110,
    "initialized": false
   },
   "KPO": {
@@ -1673,7 +1713,10 @@
     "14507",
     "14508",
     "14512",
-    "14511"
+    "14511",
+    "14519",
+    "14517",
+    "14518"
    ],
    "fails": 0,
    "initialized": true
@@ -1899,7 +1942,8 @@
     "https://www.nesfircroft.com/job/project-manager-33020",
     "https://www.nesfircroft.com/job/execution-advisor",
     "https://www.nesfircroft.com/job/gas-dispatcher",
-    "https://www.nesfircroft.com/job/technical-safety-engineer-33265"
+    "https://www.nesfircroft.com/job/technical-safety-engineer-33265",
+    "https://www.nesfircroft.com/job/surf-umbilical-specialist-33271"
    ],
    "fails": 0,
    "initialized": true
@@ -2744,7 +2788,14 @@
     "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Geology--Geosciences-or-Geophysics-2026-Opportunities--Celle-_R158056",
     "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Firmware--Software-und-Informatik-2026--Celle-_R158066",
     "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Senior-Mechanical-Application-Engineer_R165970",
-    "/job/KW-AL-AHMADI-BLDG-NO-13-14-15--16-EAST-AHMADI/Service-Delivery-Coordinator_R168762"
+    "/job/KW-AL-AHMADI-BLDG-NO-13-14-15--16-EAST-AHMADI/Service-Delivery-Coordinator_R168762",
+    "/job/VE-OTHER-VENEZUELA/Program-Manager-Venezuela_R171610",
+    "/job/NO-ROGALAND-STAVANGER-MOSEIDVEIEN-35/Lead-Mechanical-Engineer---Downhole-Tools_R168125",
+    "/job/US-LA-BROUSSARD-1046-ALLIER-ROAD/Maintenance-Technician---Downhole-Tools_R171714",
+    "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Specialist---ARMO-Maintenance-Engineer_R166920",
+    "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Specialist---ARMO-Maintenance-Engineer_R166919",
+    "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Experienced-Professional---ARMO-Production-Control_R166921-1",
+    "/job/AR-NEUQUEN-BENU-MUSA-1154/Field-Specialist-III---LWD-DD-FLD-H_R168010"
    ],
    "fails": 0,
    "initialized": true
@@ -2967,7 +3018,9 @@
     "/job/SHELL-CENTRE--CHENNAI/Product-Implementation-Manager_R214006",
     "/job/Pennsylvania---Monaca-Chemical-Plant/Laboratory-Technician_R214235",
     "/job/SHELL-CENTRE--CHENNAI/Engineer---Environment-Reporting_R214210",
-    "/job/Denmark-Odense/Automation-Engineer---PLC---SCADA-Programming-for-Green-Energy-Solutions_R214902"
+    "/job/Denmark-Odense/Automation-Engineer---PLC---SCADA-Programming-for-Green-Energy-Solutions_R214902",
+    "/job/Curtis-Island/Production-Team-Leader_R213222-1",
+    "/job/Klundert/Onderhoudstechnicus-Analyzer_R214933"
    ],
    "fails": 0,
    "initialized": true
