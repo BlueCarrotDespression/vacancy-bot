@@ -1639,7 +1639,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 110,
+   "fails": 111,
    "initialized": false
   },
   "KPO": {
@@ -1943,7 +1943,8 @@
     "https://www.nesfircroft.com/job/execution-advisor",
     "https://www.nesfircroft.com/job/gas-dispatcher",
     "https://www.nesfircroft.com/job/technical-safety-engineer-33265",
-    "https://www.nesfircroft.com/job/surf-umbilical-specialist-33271"
+    "https://www.nesfircroft.com/job/surf-umbilical-specialist-33271",
+    "https://www.nesfircroft.com/job/construction-specialist-33277"
    ],
    "fails": 0,
    "initialized": true
@@ -2795,7 +2796,8 @@
     "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Specialist---ARMO-Maintenance-Engineer_R166920",
     "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Specialist---ARMO-Maintenance-Engineer_R166919",
     "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Experienced-Professional---ARMO-Production-Control_R166921-1",
-    "/job/AR-NEUQUEN-BENU-MUSA-1154/Field-Specialist-III---LWD-DD-FLD-H_R168010"
+    "/job/AR-NEUQUEN-BENU-MUSA-1154/Field-Specialist-III---LWD-DD-FLD-H_R168010",
+    "/job/EC-OTHER-ECUADOR-PICHINCHA-QUITO/Project-Manager-Ecuador_R171609"
    ],
    "fails": 0,
    "initialized": true
@@ -3020,7 +3022,8 @@
     "/job/SHELL-CENTRE--CHENNAI/Engineer---Environment-Reporting_R214210",
     "/job/Denmark-Odense/Automation-Engineer---PLC---SCADA-Programming-for-Green-Energy-Solutions_R214902",
     "/job/Curtis-Island/Production-Team-Leader_R213222-1",
-    "/job/Klundert/Onderhoudstechnicus-Analyzer_R214933"
+    "/job/Klundert/Onderhoudstechnicus-Analyzer_R214933",
+    "/job/Shell-Business-Operations-DOT/Regional-Manager-EU---Outsourced-Payroll_R214875"
    ],
    "fails": 0,
    "initialized": true
