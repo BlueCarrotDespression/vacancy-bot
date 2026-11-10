@@ -1560,7 +1560,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 107,
+   "fails": 108,
    "initialized": false
   },
   "KPO": {
@@ -1851,7 +1851,11 @@
     "https://www.nesfircroft.com/job/senior-service-delivery-specialist",
     "https://www.nesfircroft.com/job/senior-security-professional---emergency-preparedness",
     "https://www.nesfircroft.com/job/share-plan-coordinator",
-    "https://www.nesfircroft.com/job/master-data-maintainer-33254"
+    "https://www.nesfircroft.com/job/master-data-maintainer-33254",
+    "https://www.nesfircroft.com/job/sr-estimator-pipelines",
+    "https://www.nesfircroft.com/job/eit-commissioning-engineer-33109",
+    "https://www.nesfircroft.com/job/technical-safety---senior--principal-engineer",
+    "https://www.nesfircroft.com/job/project-manager-33020"
    ],
    "fails": 0,
    "initialized": true
@@ -2027,7 +2031,8 @@
     "EF21213-en_US",
     "EF21617-en_US",
     "WDR00136388",
-    "EF20377-en_US"
+    "EF20377-en_US",
+    "EF22767-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -3251,7 +3256,8 @@
     "95326596672",
     "101419743104",
     "103082250512",
-    "103065876112"
+    "103065876112",
+    "103089706960"
    ],
    "fails": 0,
    "initialized": true
