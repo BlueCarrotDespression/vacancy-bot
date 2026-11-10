@@ -1489,7 +1489,45 @@
     "108064",
     "106692",
     "108063",
-    "108062"
+    "108062",
+    "108111",
+    "106154",
+    "103976",
+    "100626",
+    "100476",
+    "107532",
+    "107527",
+    "107654",
+    "86569",
+    "106633",
+    "105447",
+    "80297",
+    "88684",
+    "108109",
+    "108108",
+    "107502",
+    "108107",
+    "108106",
+    "108105",
+    "108089",
+    "107787",
+    "106376",
+    "107907",
+    "108103",
+    "97753",
+    "93361",
+    "93360",
+    "104804",
+    "106610",
+    "102924",
+    "77122",
+    "108102",
+    "107344",
+    "107343",
+    "108035",
+    "107233",
+    "107234",
+    "108099"
    ],
    "fails": 0,
    "initialized": true
@@ -1553,14 +1591,15 @@
     "5708",
     "5761",
     "5877",
-    "5873"
+    "5873",
+    "2623"
    ],
    "fails": 0,
    "initialized": true
   },
   "Worley": {
    "seen": [],
-   "fails": 108,
+   "fails": 109,
    "initialized": false
   },
   "KPO": {
@@ -1632,7 +1671,9 @@
     "14502",
     "14506",
     "14507",
-    "14508"
+    "14508",
+    "14512",
+    "14511"
    ],
    "fails": 0,
    "initialized": true
@@ -1855,7 +1896,10 @@
     "https://www.nesfircroft.com/job/sr-estimator-pipelines",
     "https://www.nesfircroft.com/job/eit-commissioning-engineer-33109",
     "https://www.nesfircroft.com/job/technical-safety---senior--principal-engineer",
-    "https://www.nesfircroft.com/job/project-manager-33020"
+    "https://www.nesfircroft.com/job/project-manager-33020",
+    "https://www.nesfircroft.com/job/execution-advisor",
+    "https://www.nesfircroft.com/job/gas-dispatcher",
+    "https://www.nesfircroft.com/job/technical-safety-engineer-33265"
    ],
    "fails": 0,
    "initialized": true
@@ -2032,7 +2076,11 @@
     "EF21617-en_US",
     "WDR00136388",
     "EF20377-en_US",
-    "EF22767-en_US"
+    "EF22767-en_US",
+    "EF10127-en_US",
+    "EF13022-en_US",
+    "EF20777-en_US",
+    "EF20778-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -2695,7 +2743,8 @@
     "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Elektrotechnik-und-Elektronik-2026--Celle-_R158058",
     "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/University-Internship---Geology--Geosciences-or-Geophysics-2026-Opportunities--Celle-_R158056",
     "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Firmware--Software-und-Informatik-2026--Celle-_R158066",
-    "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Senior-Mechanical-Application-Engineer_R165970"
+    "/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Senior-Mechanical-Application-Engineer_R165970",
+    "/job/KW-AL-AHMADI-BLDG-NO-13-14-15--16-EAST-AHMADI/Service-Delivery-Coordinator_R168762"
    ],
    "fails": 0,
    "initialized": true
@@ -2916,7 +2965,9 @@
     "/job/London---Shell-Centre/EPCM-Manager_R212028-2",
     "/job/New-Jersey---Sewaren-Terminal/Automation-Engineer---East-Coast_R214218",
     "/job/SHELL-CENTRE--CHENNAI/Product-Implementation-Manager_R214006",
-    "/job/Pennsylvania---Monaca-Chemical-Plant/Laboratory-Technician_R214235"
+    "/job/Pennsylvania---Monaca-Chemical-Plant/Laboratory-Technician_R214235",
+    "/job/SHELL-CENTRE--CHENNAI/Engineer---Environment-Reporting_R214210",
+    "/job/Denmark-Odense/Automation-Engineer---PLC---SCADA-Programming-for-Green-Energy-Solutions_R214902"
    ],
    "fails": 0,
    "initialized": true
@@ -3257,7 +3308,9 @@
     "101419743104",
     "103082250512",
     "103065876112",
-    "103089706960"
+    "103089706960",
+    "95125330880",
+    "103108297696"
    ],
    "fails": 0,
    "initialized": true
