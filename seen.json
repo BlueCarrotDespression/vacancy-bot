@@ -1567,7 +1567,47 @@
     "108114",
     "108101",
     "108112",
-    "108110"
+    "108110",
+    "108180",
+    "107795",
+    "108179",
+    "107987",
+    "108178",
+    "106016",
+    "108177",
+    "108176",
+    "108175",
+    "94094",
+    "108174",
+    "108173",
+    "108172",
+    "108171",
+    "106784",
+    "103963",
+    "108169",
+    "108170",
+    "108168",
+    "107854",
+    "107202",
+    "108167",
+    "108165",
+    "102698",
+    "108166",
+    "105181",
+    "105178",
+    "108164",
+    "108163",
+    "105716",
+    "108161",
+    "108160",
+    "103367",
+    "102475",
+    "100624",
+    "96741",
+    "108159",
+    "108158",
+    "108157",
+    "107709"
    ],
    "fails": 0,
    "initialized": true
@@ -1576,7 +1616,8 @@
    "seen": [
     "https://bolashak.gov.kz/ru/vakansii/menedzher-upravleniya-dogovornoj-i-pretenzionno-iskovoj-raboty-na-period-zameshcheniya-vremenno-otsutstvuyushchego-rabotnika-do-11012027-g",
     "https://bolashak.gov.kz/ru/vakansii/2025-04-18-vnutrennij-auditor",
-    "https://bolashak.gov.kz/ru/vakansii/operator-videozapisi-upravlenia-po-svyazyam-s-obshchestvennostyu"
+    "https://bolashak.gov.kz/ru/vakansii/operator-videozapisi-upravlenia-po-svyazyam-s-obshchestvennostyu",
+    "https://bolashak.gov.kz/ru/vakansii/menedzher-upravleniya-strategii-i-mezhdunarodnogo-sotrudnichestva-28-02-2024"
    ],
    "fails": 0,
    "initialized": true
@@ -1632,14 +1673,15 @@
     "5761",
     "5877",
     "5873",
-    "2623"
+    "2623",
+    "3280"
    ],
    "fails": 0,
    "initialized": true
   },
   "Worley": {
    "seen": [],
-   "fails": 112,
+   "fails": 113,
    "initialized": false
   },
   "KPO": {
@@ -1716,7 +1758,16 @@
     "14511",
     "14519",
     "14517",
-    "14518"
+    "14518",
+    "14482",
+    "14543",
+    "14483",
+    "14480",
+    "14222",
+    "14505",
+    "14509",
+    "14541",
+    "14544"
    ],
    "fails": 0,
    "initialized": true
@@ -1945,7 +1996,9 @@
     "https://www.nesfircroft.com/job/technical-safety-engineer-33265",
     "https://www.nesfircroft.com/job/surf-umbilical-specialist-33271",
     "https://www.nesfircroft.com/job/construction-specialist-33277",
-    "https://www.nesfircroft.com/job/senior-cost-engineer-32974"
+    "https://www.nesfircroft.com/job/senior-cost-engineer-32974",
+    "https://www.nesfircroft.com/job/material-handling-engineer-33294",
+    "https://www.nesfircroft.com/job/electrical-engineer-iii-33291"
    ],
    "fails": 0,
    "initialized": true
@@ -2131,7 +2184,7 @@
     "EF22820-en_US",
     "WDR00136679"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "PwC Kazakhstan": {
@@ -2803,7 +2856,7 @@
     "/job/AR-NEUQUEN-BENU-MUSA-1154/Field-Specialist-III---LWD-DD-FLD-H_R168010",
     "/job/EC-OTHER-ECUADOR-PICHINCHA-QUITO/Project-Manager-Ecuador_R171609"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3027,7 +3080,19 @@
     "/job/Denmark-Odense/Automation-Engineer---PLC---SCADA-Programming-for-Green-Energy-Solutions_R214902",
     "/job/Curtis-Island/Production-Team-Leader_R213222-1",
     "/job/Klundert/Onderhoudstechnicus-Analyzer_R214933",
-    "/job/Shell-Business-Operations-DOT/Regional-Manager-EU---Outsourced-Payroll_R214875"
+    "/job/Shell-Business-Operations-DOT/Regional-Manager-EU---Outsourced-Payroll_R214875",
+    "/job/Derince/MultiTruck-Operator-2_R214978-1",
+    "/job/Bangkok/Territory-Manager---Central_R213637-1",
+    "/job/Derince/Production---Filling-Operator-7_R214982",
+    "/job/Derince/Production---Filling-Operator-6_R214983-1",
+    "/job/Derince/Production---Filling-Operator-4_R214981-1",
+    "/job/Bangkok/Pack-Filling-Operator_R213288-1",
+    "/job/Brockville---Lube-Plant/Maintenance-Millwright_R214965",
+    "/job/Qatar---Ras-Laffan/Senior-Electrical-Technician_R212235-1",
+    "/job/Bangalore-RMZ-ECO-WORLD/IT-Operations-Lead---M365_R213163-1",
+    "/job/China-World-Trade-Centre/AI-Engineering-Lead_R209832-1",
+    "/job/Shell-Centre-Kuala-Lumpur/Tax-Associate-Intern_R214968",
+    "/job/London-York-Road/Exploration-Geoscientist_R214873"
    ],
    "fails": 0,
    "initialized": true
@@ -3170,7 +3235,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/intern-executive-1-fixed-assets",
     "https://kpmgcca.global.huntflow.io/vacancy/consultant-5",
     "https://kpmgcca.global.huntflow.io/vacancy/manager-3",
-    "https://kpmgcca.global.huntflow.io/vacancy/hr-business-partner-2"
+    "https://kpmgcca.global.huntflow.io/vacancy/hr-business-partner-2",
+    "https://kpmgcca.global.huntflow.io/vacancy/senior-consultant-accounting-advisory-services"
    ],
    "fails": 0,
    "initialized": true
