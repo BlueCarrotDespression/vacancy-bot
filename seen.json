@@ -1607,7 +1607,46 @@
     "108159",
     "108158",
     "108157",
-    "107709"
+    "107709",
+    "105349",
+    "101911",
+    "104020",
+    "108209",
+    "108208",
+    "108207",
+    "108206",
+    "108205",
+    "106627",
+    "108204",
+    "101125",
+    "108203",
+    "108202",
+    "108201",
+    "108200",
+    "108199",
+    "108198",
+    "108197",
+    "108196",
+    "108195",
+    "108137",
+    "108194",
+    "108193",
+    "107449",
+    "108192",
+    "106558",
+    "108191",
+    "108133",
+    "108190",
+    "107840",
+    "108189",
+    "108188",
+    "107845",
+    "105926",
+    "108183",
+    "108187",
+    "105975",
+    "93193",
+    "108186"
    ],
    "fails": 0,
    "initialized": true
@@ -1681,7 +1720,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 113,
+   "fails": 114,
    "initialized": false
   },
   "KPO": {
@@ -2182,9 +2221,10 @@
     "EF20778-en_US",
     "EF22235-en_US",
     "EF22820-en_US",
-    "WDR00136679"
+    "WDR00136679",
+    "EF21582-en_US"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "PwC Kazakhstan": {
@@ -2854,9 +2894,18 @@
     "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Specialist---ARMO-Maintenance-Engineer_R166919",
     "/job/US-OK-OKLAHOMA-CITY-12701-N-SANTA-FE-AVE/Services-Experienced-Professional---ARMO-Production-Control_R166921-1",
     "/job/AR-NEUQUEN-BENU-MUSA-1154/Field-Specialist-III---LWD-DD-FLD-H_R168010",
-    "/job/EC-OTHER-ECUADOR-PICHINCHA-QUITO/Project-Manager-Ecuador_R171609"
+    "/job/EC-OTHER-ECUADOR-PICHINCHA-QUITO/Project-Manager-Ecuador_R171609",
+    "/job/IN-Tamil-Nadu-Coimbatore-SF-No-608-Chettipalayam-Road-Eachanari-Post-Consolidation/Manufacturing-Senior-Manager---Operations-Management_R164910",
+    "/job/AE-DUBAI-TECHNO-PARK/Principal--Disciplinary-Engineering-and-Science---Geoscience---Petroleum_R171040",
+    "/job/CA-AB-LEDUC-7020-45-STREET/Blend-Operator_R167884",
+    "/job/US-LA-RAYNE-135-INDUSTRIAL-DRIVE/Warehouseman_R171743",
+    "/job/HU-PE-FOT-EAST-GATE-BUSINESS-PARK/Lead-Engineer--Automation---Control--Product-Design-and-Engineering-Configuration--m--f-_R171913",
+    "/job/AE-DUBAI-TECHNO-PARK/Kantori--RFM-Applications-Engineer_R169129",
+    "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/I-S-Geozone-Sales-Leader_R167211",
+    "/job/GB-AN-MONTROSE-SOUTH-QUAY-FERRYDEN-BP/Warehouse-Operator_R171727-1",
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Junior-Digitalisation---Software-Engineer_R171918"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3092,7 +3141,9 @@
     "/job/Bangalore-RMZ-ECO-WORLD/IT-Operations-Lead---M365_R213163-1",
     "/job/China-World-Trade-Centre/AI-Engineering-Lead_R209832-1",
     "/job/Shell-Centre-Kuala-Lumpur/Tax-Associate-Intern_R214968",
-    "/job/London-York-Road/Exploration-Geoscientist_R214873"
+    "/job/London-York-Road/Exploration-Geoscientist_R214873",
+    "/job/Louisiana---Geismar-Chemical-Plant/Operations-Support-Engineer_R211150-1",
+    "/job/London-York-Road/Market-Data-Integration-Lead_R207772-1"
    ],
    "fails": 0,
    "initialized": true
@@ -3436,7 +3487,14 @@
     "103065876112",
     "103089706960",
     "95125330880",
-    "103108297696"
+    "103108297696",
+    "103167484928",
+    "100630147088",
+    "103152970096",
+    "103152969936",
+    "103168781904",
+    "103152969984",
+    "96561840496"
    ],
    "fails": 0,
    "initialized": true
