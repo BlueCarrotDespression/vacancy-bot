@@ -1639,7 +1639,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 111,
+   "fails": 112,
    "initialized": false
   },
   "KPO": {
@@ -1944,7 +1944,8 @@
     "https://www.nesfircroft.com/job/gas-dispatcher",
     "https://www.nesfircroft.com/job/technical-safety-engineer-33265",
     "https://www.nesfircroft.com/job/surf-umbilical-specialist-33271",
-    "https://www.nesfircroft.com/job/construction-specialist-33277"
+    "https://www.nesfircroft.com/job/construction-specialist-33277",
+    "https://www.nesfircroft.com/job/senior-cost-engineer-32974"
    ],
    "fails": 0,
    "initialized": true
@@ -2125,7 +2126,10 @@
     "EF10127-en_US",
     "EF13022-en_US",
     "EF20777-en_US",
-    "EF20778-en_US"
+    "EF20778-en_US",
+    "EF22235-en_US",
+    "EF22820-en_US",
+    "WDR00136679"
    ],
    "fails": 0,
    "initialized": true
