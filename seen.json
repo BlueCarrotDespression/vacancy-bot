@@ -1646,7 +1646,8 @@
     "108187",
     "105975",
     "93193",
-    "108186"
+    "108186",
+    "108211"
    ],
    "fails": 0,
    "initialized": true
@@ -1720,7 +1721,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 114,
+   "fails": 115,
    "initialized": false
   },
   "KPO": {
@@ -2037,7 +2038,11 @@
     "https://www.nesfircroft.com/job/construction-specialist-33277",
     "https://www.nesfircroft.com/job/senior-cost-engineer-32974",
     "https://www.nesfircroft.com/job/material-handling-engineer-33294",
-    "https://www.nesfircroft.com/job/electrical-engineer-iii-33291"
+    "https://www.nesfircroft.com/job/electrical-engineer-iii-33291",
+    "https://www.nesfircroft.com/job/engineering-manager-32966",
+    "https://www.nesfircroft.com/job/senior-quality-professional-33272",
+    "https://www.nesfircroft.com/job/senior-maintenance-engineer-32961",
+    "https://www.nesfircroft.com/job/construction-coordinator-iii-33081"
    ],
    "fails": 0,
    "initialized": true
@@ -2903,7 +2908,8 @@
     "/job/AE-DUBAI-TECHNO-PARK/Kantori--RFM-Applications-Engineer_R169129",
     "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/I-S-Geozone-Sales-Leader_R167211",
     "/job/GB-AN-MONTROSE-SOUTH-QUAY-FERRYDEN-BP/Warehouse-Operator_R171727-1",
-    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Junior-Digitalisation---Software-Engineer_R171918"
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Junior-Digitalisation---Software-Engineer_R171918",
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Maschinenbediener-Schleifen---Schweien--d-w-m----12-Monate-befristet_R169171"
    ],
    "fails": 0,
    "initialized": true
