@@ -1792,7 +1792,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 117,
+   "fails": 118,
    "initialized": false
   },
   "KPO": {
@@ -2125,7 +2125,8 @@
     "https://www.nesfircroft.com/job/technical-sales-manager-33309",
     "https://www.nesfircroft.com/job/project-assistant-33317",
     "https://www.nesfircroft.com/job/kierownik-projektu-km---gdansk",
-    "https://www.nesfircroft.com/job/staff-project-controls-specialist"
+    "https://www.nesfircroft.com/job/staff-project-controls-specialist",
+    "https://www.nesfircroft.com/job/turnaround-scheduler-33335"
    ],
    "fails": 0,
    "initialized": true
@@ -2996,7 +2997,9 @@
     "/job/ID-JW-JAKARTA-JI-RA-KARTINI-KAV-8-CILANDAK-BARAT/Service-Delivery-Coordinator---Wellbore-Intervention_R164922-1",
     "/job/US-TX-HEMPSTEAD-35372-BETKA-ROAD/Technician-Ballistics-I_R171920",
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Intern---Pro-Log-Initiatives---2027-Opportunities--M-F-D-_R171955",
-    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Accounting-Operations_R171733-1"
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Accounting-Operations_R171733-1",
+    "/job/EC-Pichincha-Quito-Av-Eloy-Alfaro-N34-194-y-Catalina-Aldaz/Technical-Support-Engineering_R162910",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/MDC-Connections-Lead-Design-Engineer--M-F-D-_R166935"
    ],
    "fails": 0,
    "initialized": true
@@ -3237,7 +3240,8 @@
     "/job/London-York-Road/Exploration-Geoscientist_R214873",
     "/job/Louisiana---Geismar-Chemical-Plant/Operations-Support-Engineer_R211150-1",
     "/job/London-York-Road/Market-Data-Integration-Lead_R207772-1",
-    "/job/Kingsbury/Terminal-Manager----Kingsbury_R205086-1"
+    "/job/Kingsbury/Terminal-Manager----Kingsbury_R205086-1",
+    "/job/Rio-De-Janeiro---Ventura-Office/SC-Commercial-Specialist_R211187-1"
    ],
    "fails": 0,
    "initialized": true
@@ -3593,7 +3597,9 @@
     "96561840496",
     "103199895072",
     "102758370256",
-    "103206111440"
+    "103206111440",
+    "103217075520",
+    "100816505424"
    ],
    "fails": 0,
    "initialized": true
