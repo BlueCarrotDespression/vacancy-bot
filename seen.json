@@ -1679,7 +1679,44 @@
     "84566",
     "92698",
     "108221",
-    "73676"
+    "73676",
+    "106418",
+    "108276",
+    "108274",
+    "108275",
+    "108273",
+    "108272",
+    "105299",
+    "105817",
+    "108271",
+    "108270",
+    "108269",
+    "107975",
+    "108268",
+    "107786",
+    "108266",
+    "96644",
+    "108265",
+    "108262",
+    "108261",
+    "108260",
+    "108259",
+    "108258",
+    "108255",
+    "108257",
+    "108256",
+    "108254",
+    "108253",
+    "108252",
+    "108251",
+    "108011",
+    "108250",
+    "96575",
+    "107537",
+    "108249",
+    "107294",
+    "106077",
+    "108248"
    ],
    "fails": 0,
    "initialized": true
@@ -1689,7 +1726,9 @@
     "https://bolashak.gov.kz/ru/vakansii/menedzher-upravleniya-dogovornoj-i-pretenzionno-iskovoj-raboty-na-period-zameshcheniya-vremenno-otsutstvuyushchego-rabotnika-do-11012027-g",
     "https://bolashak.gov.kz/ru/vakansii/2025-04-18-vnutrennij-auditor",
     "https://bolashak.gov.kz/ru/vakansii/operator-videozapisi-upravlenia-po-svyazyam-s-obshchestvennostyu",
-    "https://bolashak.gov.kz/ru/vakansii/menedzher-upravleniya-strategii-i-mezhdunarodnogo-sotrudnichestva-28-02-2024"
+    "https://bolashak.gov.kz/ru/vakansii/menedzher-upravleniya-strategii-i-mezhdunarodnogo-sotrudnichestva-28-02-2024",
+    "https://bolashak.gov.kz/ru/vakansii/2026-11-12-menedzher-upravleniya-ameriki-sng-i-okeanii",
+    "https://bolashak.gov.kz/ru/vakansii/menedzher-upravleniya-strategii-i-mezhdunarodnogo-sotrudnichestva-11-11-2026"
    ],
    "fails": 0,
    "initialized": true
@@ -1753,7 +1792,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 116,
+   "fails": 117,
    "initialized": false
   },
   "KPO": {
@@ -1839,7 +1878,14 @@
     "14505",
     "14509",
     "14541",
-    "14544"
+    "14544",
+    "14560",
+    "14548",
+    "14550",
+    "14551",
+    "14555",
+    "14557",
+    "14552"
    ],
    "fails": 0,
    "initialized": true
@@ -2076,7 +2122,10 @@
     "https://www.nesfircroft.com/job/senior-maintenance-engineer-32961",
     "https://www.nesfircroft.com/job/construction-coordinator-iii-33081",
     "https://www.nesfircroft.com/job/graduate-petroleum--reservoir-engineer",
-    "https://www.nesfircroft.com/job/technical-sales-manager-33309"
+    "https://www.nesfircroft.com/job/technical-sales-manager-33309",
+    "https://www.nesfircroft.com/job/project-assistant-33317",
+    "https://www.nesfircroft.com/job/kierownik-projektu-km---gdansk",
+    "https://www.nesfircroft.com/job/staff-project-controls-specialist"
    ],
    "fails": 0,
    "initialized": true
@@ -2945,7 +2994,9 @@
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Junior-Digitalisation---Software-Engineer_R171918",
     "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Maschinenbediener-Schleifen---Schweien--d-w-m----12-Monate-befristet_R169171",
     "/job/ID-JW-JAKARTA-JI-RA-KARTINI-KAV-8-CILANDAK-BARAT/Service-Delivery-Coordinator---Wellbore-Intervention_R164922-1",
-    "/job/US-TX-HEMPSTEAD-35372-BETKA-ROAD/Technician-Ballistics-I_R171920"
+    "/job/US-TX-HEMPSTEAD-35372-BETKA-ROAD/Technician-Ballistics-I_R171920",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Intern---Pro-Log-Initiatives---2027-Opportunities--M-F-D-_R171955",
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Accounting-Operations_R171733-1"
    ],
    "fails": 0,
    "initialized": true
@@ -3185,7 +3236,8 @@
     "/job/Shell-Centre-Kuala-Lumpur/Tax-Associate-Intern_R214968",
     "/job/London-York-Road/Exploration-Geoscientist_R214873",
     "/job/Louisiana---Geismar-Chemical-Plant/Operations-Support-Engineer_R211150-1",
-    "/job/London-York-Road/Market-Data-Integration-Lead_R207772-1"
+    "/job/London-York-Road/Market-Data-Integration-Lead_R207772-1",
+    "/job/Kingsbury/Terminal-Manager----Kingsbury_R205086-1"
    ],
    "fails": 0,
    "initialized": true
@@ -3329,7 +3381,9 @@
     "https://kpmgcca.global.huntflow.io/vacancy/consultant-5",
     "https://kpmgcca.global.huntflow.io/vacancy/manager-3",
     "https://kpmgcca.global.huntflow.io/vacancy/hr-business-partner-2",
-    "https://kpmgcca.global.huntflow.io/vacancy/senior-consultant-accounting-advisory-services"
+    "https://kpmgcca.global.huntflow.io/vacancy/senior-consultant-accounting-advisory-services",
+    "https://kpmgcca.global.huntflow.io/vacancy/executive-fixed-assets-2",
+    "https://kpmgcca.global.huntflow.io/vacancy/executive-transaction-services"
    ],
    "fails": 0,
    "initialized": true
@@ -3536,7 +3590,10 @@
     "103152969936",
     "103168781904",
     "103152969984",
-    "96561840496"
+    "96561840496",
+    "103199895072",
+    "102758370256",
+    "103206111440"
    ],
    "fails": 0,
    "initialized": true
