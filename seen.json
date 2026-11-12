@@ -1647,7 +1647,39 @@
     "105975",
     "93193",
     "108186",
-    "108211"
+    "108211",
+    "108242",
+    "108241",
+    "108240",
+    "108239",
+    "108238",
+    "100625",
+    "99559",
+    "91541",
+    "85929",
+    "106221",
+    "107706",
+    "108237",
+    "108236",
+    "108235",
+    "108234",
+    "108232",
+    "102958",
+    "106736",
+    "108231",
+    "108230",
+    "108030",
+    "108229",
+    "108228",
+    "106743",
+    "105489",
+    "104228",
+    "108005",
+    "108227",
+    "84566",
+    "92698",
+    "108221",
+    "73676"
    ],
    "fails": 0,
    "initialized": true
@@ -1721,7 +1753,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 115,
+   "fails": 116,
    "initialized": false
   },
   "KPO": {
@@ -2042,7 +2074,9 @@
     "https://www.nesfircroft.com/job/engineering-manager-32966",
     "https://www.nesfircroft.com/job/senior-quality-professional-33272",
     "https://www.nesfircroft.com/job/senior-maintenance-engineer-32961",
-    "https://www.nesfircroft.com/job/construction-coordinator-iii-33081"
+    "https://www.nesfircroft.com/job/construction-coordinator-iii-33081",
+    "https://www.nesfircroft.com/job/graduate-petroleum--reservoir-engineer",
+    "https://www.nesfircroft.com/job/technical-sales-manager-33309"
    ],
    "fails": 0,
    "initialized": true
@@ -2909,7 +2943,9 @@
     "/job/LY-TRIPOLI-LIBYA-BRANCH-SWANI-ROAD/I-S-Geozone-Sales-Leader_R167211",
     "/job/GB-AN-MONTROSE-SOUTH-QUAY-FERRYDEN-BP/Warehouse-Operator_R171727-1",
     "/job/GB-SO-NAILSEA-2-HIGH-STREET/Junior-Digitalisation---Software-Engineer_R171918",
-    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Maschinenbediener-Schleifen---Schweien--d-w-m----12-Monate-befristet_R169171"
+    "/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Maschinenbediener-Schleifen---Schweien--d-w-m----12-Monate-befristet_R169171",
+    "/job/ID-JW-JAKARTA-JI-RA-KARTINI-KAV-8-CILANDAK-BARAT/Service-Delivery-Coordinator---Wellbore-Intervention_R164922-1",
+    "/job/US-TX-HEMPSTEAD-35372-BETKA-ROAD/Technician-Ballistics-I_R171920"
    ],
    "fails": 0,
    "initialized": true
