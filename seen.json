@@ -1716,7 +1716,35 @@
     "108249",
     "107294",
     "106077",
-    "108248"
+    "108248",
+    "103508",
+    "108308",
+    "108306",
+    "108000",
+    "108301",
+    "108233",
+    "108305",
+    "108304",
+    "108303",
+    "108302",
+    "105879",
+    "107908",
+    "107906",
+    "108300",
+    "108299",
+    "107995",
+    "103987",
+    "108298",
+    "107994",
+    "107992",
+    "108297",
+    "108296",
+    "108294",
+    "108293",
+    "105561",
+    "99540",
+    "107083",
+    "108292"
    ],
    "fails": 0,
    "initialized": true
@@ -1792,7 +1820,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 119,
+   "fails": 120,
    "initialized": false
   },
   "KPO": {
@@ -1885,7 +1913,16 @@
     "14551",
     "14555",
     "14557",
-    "14552"
+    "14552",
+    "14566",
+    "14567",
+    "14568",
+    "14562",
+    "14553",
+    "14549",
+    "14546",
+    "14151",
+    "14554"
    ],
    "fails": 0,
    "initialized": true
@@ -3002,7 +3039,9 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/MDC-Connections-Lead-Design-Engineer--M-F-D-_R166935",
     "/job/CO-Villavicencio-Vereda-San-Luis-de-Ocoa-Kilometro-57-via-Acacias-margen-izquierda/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170742",
     "/job/EC-Puerto-Francisco-de-Orellana-Coca-KM-12-via-Lago-Agrio/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170743",
-    "/job/EC-Pichincha-Quito-Av-Eloy-Alfaro-N34-194-y-Catalina-Aldaz/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170744"
+    "/job/EC-Pichincha-Quito-Av-Eloy-Alfaro-N34-194-y-Catalina-Aldaz/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170744",
+    "/job/US-TX-THE-WOODLANDS-9110-GROGANS-MILL-ROAD/Quality-Specialist--Production-Regulation-09_R170582",
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Statutory_R170969"
    ],
    "fails": 0,
    "initialized": true
@@ -3244,7 +3283,9 @@
     "/job/Louisiana---Geismar-Chemical-Plant/Operations-Support-Engineer_R211150-1",
     "/job/London-York-Road/Market-Data-Integration-Lead_R207772-1",
     "/job/Kingsbury/Terminal-Manager----Kingsbury_R205086-1",
-    "/job/Rio-De-Janeiro---Ventura-Office/SC-Commercial-Specialist_R211187-1"
+    "/job/Rio-De-Janeiro---Ventura-Office/SC-Commercial-Specialist_R211187-1",
+    "/job/SHELL-CENTRE--CHENNAI/Sr-Tech-Specialist---Cost-Estimation_R210189",
+    "/job/SHELL-CENTRE--CHENNAI/FP-A-Senior-Manager_R209129-1"
    ],
    "fails": 0,
    "initialized": true
