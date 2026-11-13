@@ -1744,7 +1744,43 @@
     "105561",
     "99540",
     "107083",
-    "108292"
+    "108292",
+    "108329",
+    "108332",
+    "96969",
+    "108328",
+    "108321",
+    "108330",
+    "108327",
+    "108326",
+    "108325",
+    "108324",
+    "108267",
+    "108323",
+    "107985",
+    "108322",
+    "107986",
+    "94652",
+    "108022",
+    "106118",
+    "108320",
+    "108319",
+    "102749",
+    "108317",
+    "108316",
+    "81799",
+    "108315",
+    "108263",
+    "87178",
+    "107904",
+    "108314",
+    "108313",
+    "100484",
+    "108312",
+    "100159",
+    "108311",
+    "108310",
+    "108309"
    ],
    "fails": 0,
    "initialized": true
@@ -1820,7 +1856,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 120,
+   "fails": 121,
    "initialized": false
   },
   "KPO": {
@@ -1922,7 +1958,11 @@
     "14549",
     "14546",
     "14151",
-    "14554"
+    "14554",
+    "14565",
+    "14559",
+    "14561",
+    "14563"
    ],
    "fails": 0,
    "initialized": true
@@ -2163,7 +2203,8 @@
     "https://www.nesfircroft.com/job/project-assistant-33317",
     "https://www.nesfircroft.com/job/kierownik-projektu-km---gdansk",
     "https://www.nesfircroft.com/job/staff-project-controls-specialist",
-    "https://www.nesfircroft.com/job/turnaround-scheduler-33335"
+    "https://www.nesfircroft.com/job/turnaround-scheduler-33335",
+    "https://www.nesfircroft.com/job/cost-engineer-33341"
    ],
    "fails": 0,
    "initialized": true
@@ -3041,7 +3082,12 @@
     "/job/EC-Puerto-Francisco-de-Orellana-Coca-KM-12-via-Lago-Agrio/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170743",
     "/job/EC-Pichincha-Quito-Av-Eloy-Alfaro-N34-194-y-Catalina-Aldaz/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170744",
     "/job/US-TX-THE-WOODLANDS-9110-GROGANS-MILL-ROAD/Quality-Specialist--Production-Regulation-09_R170582",
-    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Statutory_R170969"
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Statutory_R170969",
+    "/job/BR-RJ-NITEROI-PRACA-ALCIDES-PEREIRA/Tcnico-de-Segurana-do-Trabalho_R169092",
+    "/job/BR-RJ-MACAE-ESTRADA-DE-FAZENDA-SAO-JOSE-DO-MUTUM-200/S-OP-and-Capacity-Planning-Leader_R170756",
+    "/job/IT-SO-TALAMONA-VIA-ROMA-32/Material-Planner--M-F-D-_R168683-1",
+    "/job/IT-SO-TALAMONA-VIA-ROMA-32/Shop-Operator--d-f-m-_R148566-1",
+    "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808"
    ],
    "fails": 0,
    "initialized": true
@@ -3285,7 +3331,11 @@
     "/job/Kingsbury/Terminal-Manager----Kingsbury_R205086-1",
     "/job/Rio-De-Janeiro---Ventura-Office/SC-Commercial-Specialist_R211187-1",
     "/job/SHELL-CENTRE--CHENNAI/Sr-Tech-Specialist---Cost-Estimation_R210189",
-    "/job/SHELL-CENTRE--CHENNAI/FP-A-Senior-Manager_R209129-1"
+    "/job/SHELL-CENTRE--CHENNAI/FP-A-Senior-Manager_R209129-1",
+    "/job/Louisiana---Geismar-Chemical-Plant/Operations-Support-Engineer_R215232",
+    "/job/Bangalore---Retail-Office/Territory-Manager_R214979",
+    "/job/Lagos/Marine-Officer_R213215-1",
+    "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1"
    ],
    "fails": 0,
    "initialized": true
@@ -3643,7 +3693,9 @@
     "102758370256",
     "103206111440",
     "103217075520",
-    "100816505424"
+    "100816505424",
+    "103252213792",
+    "103244806224"
    ],
    "fails": 0,
    "initialized": true
