@@ -1792,7 +1792,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 118,
+   "fails": 119,
    "initialized": false
   },
   "KPO": {
@@ -2999,7 +2999,10 @@
     "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Sourcing-Intern---Pro-Log-Initiatives---2027-Opportunities--M-F-D-_R171955",
     "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Professional---Accounting-Operations_R171733-1",
     "/job/EC-Pichincha-Quito-Av-Eloy-Alfaro-N34-194-y-Catalina-Aldaz/Technical-Support-Engineering_R162910",
-    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/MDC-Connections-Lead-Design-Engineer--M-F-D-_R166935"
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/MDC-Connections-Lead-Design-Engineer--M-F-D-_R166935",
+    "/job/CO-Villavicencio-Vereda-San-Luis-de-Ocoa-Kilometro-57-via-Acacias-margen-izquierda/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170742",
+    "/job/EC-Puerto-Francisco-de-Orellana-Coca-KM-12-via-Lago-Agrio/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170743",
+    "/job/EC-Pichincha-Quito-Av-Eloy-Alfaro-N34-194-y-Catalina-Aldaz/Programa-de-Prcticas---Administracin-y-Soporte--2026_R170744"
    ],
    "fails": 0,
    "initialized": true
