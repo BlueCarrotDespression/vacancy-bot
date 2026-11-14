@@ -1856,7 +1856,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 122,
+   "fails": 123,
    "initialized": false
   },
   "KPO": {
@@ -3089,7 +3089,7 @@
     "/job/IT-SO-TALAMONA-VIA-ROMA-32/Shop-Operator--d-f-m-_R148566-1",
     "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808"
    ],
-   "fails": 1,
+   "fails": 2,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
