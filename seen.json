@@ -1782,7 +1782,9 @@
     "108310",
     "108309",
     "108338",
-    "107842"
+    "107842",
+    "108340",
+    "108339"
    ],
    "fails": 0,
    "initialized": true
@@ -1858,7 +1860,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 124,
+   "fails": 125,
    "initialized": false
   },
   "KPO": {
@@ -2393,7 +2395,9 @@
     "EF22235-en_US",
     "EF22820-en_US",
     "WDR00136679",
-    "EF21582-en_US"
+    "EF21582-en_US",
+    "EF19836-en_US",
+    "EF22773-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -3093,7 +3097,7 @@
     "/job/IT-SO-TALAMONA-VIA-ROMA-32/Shop-Operator--d-f-m-_R148566-1",
     "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808"
    ],
-   "fails": 3,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3699,7 +3703,8 @@
     "103217075520",
     "100816505424",
     "103252213792",
-    "103244806224"
+    "103244806224",
+    "103121773232"
    ],
    "fails": 0,
    "initialized": true
