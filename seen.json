@@ -1780,7 +1780,9 @@
     "100159",
     "108311",
     "108310",
-    "108309"
+    "108309",
+    "108338",
+    "107842"
    ],
    "fails": 0,
    "initialized": true
@@ -1856,7 +1858,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 123,
+   "fails": 124,
    "initialized": false
   },
   "KPO": {
@@ -2204,7 +2206,9 @@
     "https://www.nesfircroft.com/job/kierownik-projektu-km---gdansk",
     "https://www.nesfircroft.com/job/staff-project-controls-specialist",
     "https://www.nesfircroft.com/job/turnaround-scheduler-33335",
-    "https://www.nesfircroft.com/job/cost-engineer-33341"
+    "https://www.nesfircroft.com/job/cost-engineer-33341",
+    "https://www.nesfircroft.com/job/lifting-lead-nfps--mp-offshore",
+    "https://www.nesfircroft.com/job/business-support-lead"
    ],
    "fails": 0,
    "initialized": true
@@ -3089,7 +3093,7 @@
     "/job/IT-SO-TALAMONA-VIA-ROMA-32/Shop-Operator--d-f-m-_R148566-1",
     "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808"
    ],
-   "fails": 2,
+   "fails": 3,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
