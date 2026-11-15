@@ -1860,7 +1860,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 128,
+   "fails": 129,
    "initialized": false
   },
   "KPO": {
@@ -3095,7 +3095,9 @@
     "/job/BR-RJ-MACAE-ESTRADA-DE-FAZENDA-SAO-JOSE-DO-MUTUM-200/S-OP-and-Capacity-Planning-Leader_R170756",
     "/job/IT-SO-TALAMONA-VIA-ROMA-32/Material-Planner--M-F-D-_R168683-1",
     "/job/IT-SO-TALAMONA-VIA-ROMA-32/Shop-Operator--d-f-m-_R148566-1",
-    "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808"
+    "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808",
+    "/job/KW-AL-AHMADI-BLDG-NO-13-14-15--16-EAST-AHMADI/Wireline-Field-Specialist_R169776",
+    "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203"
    ],
    "fails": 0,
    "initialized": true
@@ -3343,7 +3345,8 @@
     "/job/Louisiana---Geismar-Chemical-Plant/Operations-Support-Engineer_R215232",
     "/job/Bangalore---Retail-Office/Territory-Manager_R214979",
     "/job/Lagos/Marine-Officer_R213215-1",
-    "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1"
+    "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
+    "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
    "fails": 0,
    "initialized": true
