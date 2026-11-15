@@ -1784,7 +1784,10 @@
     "108338",
     "107842",
     "108340",
-    "108339"
+    "108339",
+    "93265",
+    "108342",
+    "108341"
    ],
    "fails": 0,
    "initialized": true
@@ -1860,7 +1863,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 129,
+   "fails": 130,
    "initialized": false
   },
   "KPO": {
@@ -2210,7 +2213,8 @@
     "https://www.nesfircroft.com/job/turnaround-scheduler-33335",
     "https://www.nesfircroft.com/job/cost-engineer-33341",
     "https://www.nesfircroft.com/job/lifting-lead-nfps--mp-offshore",
-    "https://www.nesfircroft.com/job/business-support-lead"
+    "https://www.nesfircroft.com/job/business-support-lead",
+    "https://www.nesfircroft.com/job/applications-engineer---digital-solutions"
    ],
    "fails": 0,
    "initialized": true
@@ -2397,7 +2401,8 @@
     "WDR00136679",
     "EF21582-en_US",
     "EF19836-en_US",
-    "EF22773-en_US"
+    "EF22773-en_US",
+    "EF19213-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -3097,7 +3102,8 @@
     "/job/IT-SO-TALAMONA-VIA-ROMA-32/Shop-Operator--d-f-m-_R148566-1",
     "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808",
     "/job/KW-AL-AHMADI-BLDG-NO-13-14-15--16-EAST-AHMADI/Wireline-Field-Specialist_R169776",
-    "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203"
+    "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
+    "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
    "fails": 0,
    "initialized": true
