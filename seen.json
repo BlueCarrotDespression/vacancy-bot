@@ -1792,7 +1792,35 @@
     "108346",
     "108345",
     "108344",
-    "108343"
+    "108343",
+    "106756",
+    "108426",
+    "108428",
+    "108427",
+    "108425",
+    "108424",
+    "108423",
+    "108422",
+    "108421",
+    "108420",
+    "108418",
+    "106407",
+    "108419",
+    "101443",
+    "83117",
+    "102266",
+    "74801",
+    "105373",
+    "108417",
+    "108416",
+    "108415",
+    "106487",
+    "107856",
+    "108414",
+    "106623",
+    "108413",
+    "108410",
+    "108409"
    ],
    "fails": 0,
    "initialized": true
@@ -1868,7 +1896,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 132,
+   "fails": 133,
    "initialized": false
   },
   "KPO": {
@@ -1974,7 +2002,8 @@
     "14565",
     "14559",
     "14561",
-    "14563"
+    "14563",
+    "14497"
    ],
    "fails": 0,
    "initialized": true
@@ -2219,7 +2248,9 @@
     "https://www.nesfircroft.com/job/cost-engineer-33341",
     "https://www.nesfircroft.com/job/lifting-lead-nfps--mp-offshore",
     "https://www.nesfircroft.com/job/business-support-lead",
-    "https://www.nesfircroft.com/job/applications-engineer---digital-solutions"
+    "https://www.nesfircroft.com/job/applications-engineer---digital-solutions",
+    "https://www.nesfircroft.com/job/project-safety-officer",
+    "https://www.nesfircroft.com/job/sr-project-engineer-33364"
    ],
    "fails": 0,
    "initialized": true
@@ -2407,7 +2438,8 @@
     "EF21582-en_US",
     "EF19836-en_US",
     "EF22773-en_US",
-    "EF19213-en_US"
+    "EF19213-en_US",
+    "EF16055-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -3110,7 +3142,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3359,7 +3391,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3503,7 +3535,9 @@
     "https://kpmgcca.global.huntflow.io/vacancy/hr-business-partner-2",
     "https://kpmgcca.global.huntflow.io/vacancy/senior-consultant-accounting-advisory-services",
     "https://kpmgcca.global.huntflow.io/vacancy/executive-fixed-assets-2",
-    "https://kpmgcca.global.huntflow.io/vacancy/executive-transaction-services"
+    "https://kpmgcca.global.huntflow.io/vacancy/executive-transaction-services",
+    "https://kpmgcca.global.huntflow.io/vacancy/supervisor-audit-department",
+    "https://kpmgcca.global.huntflow.io/vacancy/audit-supervisor-almaty"
    ],
    "fails": 0,
    "initialized": true
