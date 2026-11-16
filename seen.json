@@ -1820,7 +1820,47 @@
     "106623",
     "108413",
     "108410",
-    "108409"
+    "108409",
+    "108453",
+    "108452",
+    "108451",
+    "108450",
+    "108449",
+    "108224",
+    "108219",
+    "108138",
+    "108448",
+    "108447",
+    "108446",
+    "108021",
+    "108445",
+    "108444",
+    "108443",
+    "108214",
+    "108442",
+    "108441",
+    "108093",
+    "99475",
+    "108096",
+    "108440",
+    "108439",
+    "108438",
+    "108437",
+    "108436",
+    "108435",
+    "108434",
+    "102375",
+    "104586",
+    "108433",
+    "89258",
+    "107894",
+    "108432",
+    "108431",
+    "108430",
+    "108429",
+    "97414",
+    "108216",
+    "108213"
    ],
    "fails": 0,
    "initialized": true
@@ -1896,7 +1936,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 133,
+   "fails": 134,
    "initialized": false
   },
   "KPO": {
@@ -2003,7 +2043,8 @@
     "14559",
     "14561",
     "14563",
-    "14497"
+    "14497",
+    "14571"
    ],
    "fails": 0,
    "initialized": true
@@ -2250,7 +2291,11 @@
     "https://www.nesfircroft.com/job/business-support-lead",
     "https://www.nesfircroft.com/job/applications-engineer---digital-solutions",
     "https://www.nesfircroft.com/job/project-safety-officer",
-    "https://www.nesfircroft.com/job/sr-project-engineer-33364"
+    "https://www.nesfircroft.com/job/sr-project-engineer-33364",
+    "https://www.nesfircroft.com/job/commissioning-lead-offshore",
+    "https://www.nesfircroft.com/job/fpso-hull-mooring-delivery-services",
+    "https://www.nesfircroft.com/job/project-completion-manager-33374",
+    "https://www.nesfircroft.com/job/associate-engineer-smp-with-saudi-aramco-33377"
    ],
    "fails": 0,
    "initialized": true
@@ -2439,7 +2484,9 @@
     "EF19836-en_US",
     "EF22773-en_US",
     "EF19213-en_US",
-    "EF16055-en_US"
+    "EF16055-en_US",
+    "87652",
+    "87692"
    ],
    "fails": 0,
    "initialized": true
@@ -3142,7 +3189,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 1,
+   "fails": 2,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3391,7 +3438,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 1,
+   "fails": 2,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3752,7 +3799,8 @@
     "100816505424",
     "103252213792",
     "103244806224",
-    "103121773232"
+    "103121773232",
+    "103373509312"
    ],
    "fails": 0,
    "initialized": true
