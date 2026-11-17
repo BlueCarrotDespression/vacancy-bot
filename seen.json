@@ -1889,7 +1889,32 @@
     "108488",
     "108486",
     "108485",
-    "108459"
+    "108459",
+    "107703",
+    "107844",
+    "108518",
+    "98887",
+    "108517",
+    "108516",
+    "108515",
+    "108514",
+    "108080",
+    "108513",
+    "108512",
+    "108511",
+    "108510",
+    "108509",
+    "108508",
+    "108507",
+    "108506",
+    "108505",
+    "98387",
+    "81663",
+    "108504",
+    "74487",
+    "108503",
+    "108502",
+    "95144"
    ],
    "fails": 0,
    "initialized": true
@@ -1965,7 +1990,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 136,
+   "fails": 137,
    "initialized": false
   },
   "KPO": {
@@ -2073,7 +2098,8 @@
     "14561",
     "14563",
     "14497",
-    "14571"
+    "14571",
+    "14306"
    ],
    "fails": 0,
    "initialized": true
@@ -3223,7 +3249,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 4,
+   "fails": 5,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3472,7 +3498,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 4,
+   "fails": 5,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3836,7 +3862,9 @@
     "103121773232",
     "103373509312",
     "103379714592",
-    "103414381824"
+    "103414381824",
+    "99837520192",
+    "102957042272"
    ],
    "fails": 0,
    "initialized": true
