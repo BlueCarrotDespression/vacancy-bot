@@ -1914,7 +1914,47 @@
     "74487",
     "108503",
     "108502",
-    "95144"
+    "95144",
+    "108595",
+    "108527",
+    "108594",
+    "108593",
+    "108592",
+    "108591",
+    "108590",
+    "108589",
+    "103754",
+    "108587",
+    "108245",
+    "108588",
+    "108586",
+    "108585",
+    "101364",
+    "108583",
+    "108584",
+    "108582",
+    "108581",
+    "108580",
+    "108579",
+    "108578",
+    "74489",
+    "108576",
+    "107836",
+    "108575",
+    "108574",
+    "108573",
+    "108572",
+    "108375",
+    "108571",
+    "108570",
+    "108569",
+    "108568",
+    "108567",
+    "108565",
+    "108564",
+    "108563",
+    "108562",
+    "108561"
    ],
    "fails": 0,
    "initialized": true
@@ -1990,7 +2030,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 138,
+   "fails": 139,
    "initialized": false
   },
   "KPO": {
@@ -2355,7 +2395,8 @@
     "https://www.nesfircroft.com/job/night-field-operator",
     "https://www.nesfircroft.com/job/senior-communications-technician---woodside-energy",
     "https://www.nesfircroft.com/job/marine-lead-assurance--compliance",
-    "https://www.nesfircroft.com/job/competence-management-specialist"
+    "https://www.nesfircroft.com/job/competence-management-specialist",
+    "https://www.nesfircroft.com/job/field-specialist-iii---lwddd"
    ],
    "fails": 0,
    "initialized": true
@@ -3250,7 +3291,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 6,
+   "fails": 7,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3499,7 +3540,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 6,
+   "fails": 7,
    "initialized": true
   },
   "AtyrauTechInvest": {
