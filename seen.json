@@ -1954,7 +1954,44 @@
     "108564",
     "108563",
     "108562",
-    "108561"
+    "108561",
+    "108622",
+    "108619",
+    "108621",
+    "108620",
+    "108538",
+    "108618",
+    "108617",
+    "108616",
+    "108615",
+    "108614",
+    "108553",
+    "108613",
+    "108612",
+    "108359",
+    "108611",
+    "107990",
+    "108607",
+    "108610",
+    "108390",
+    "108280",
+    "108609",
+    "108608",
+    "108606",
+    "108603",
+    "108605",
+    "108604",
+    "108543",
+    "108602",
+    "104815",
+    "106549",
+    "108412",
+    "107265",
+    "108601",
+    "108596",
+    "108600",
+    "108598",
+    "108597"
    ],
    "fails": 0,
    "initialized": true
@@ -2030,7 +2067,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 139,
+   "fails": 140,
    "initialized": false
   },
   "KPO": {
@@ -2039,7 +2076,7 @@
     "https://hr.kpo.kz/vacancy/932",
     "https://hr.kpo.kz/vacancy/933"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "FIR Caspian": {
@@ -2139,7 +2176,8 @@
     "14563",
     "14497",
     "14571",
-    "14306"
+    "14306",
+    "14513"
    ],
    "fails": 0,
    "initialized": true
@@ -2396,7 +2434,12 @@
     "https://www.nesfircroft.com/job/senior-communications-technician---woodside-energy",
     "https://www.nesfircroft.com/job/marine-lead-assurance--compliance",
     "https://www.nesfircroft.com/job/competence-management-specialist",
-    "https://www.nesfircroft.com/job/field-specialist-iii---lwddd"
+    "https://www.nesfircroft.com/job/field-specialist-iii---lwddd",
+    "https://www.nesfircroft.com/job/technical-safety-engineer-oil--gas",
+    "https://www.nesfircroft.com/job/senior-data-engineer-33446",
+    "https://www.nesfircroft.com/job/senior-devops-engineer-33447",
+    "https://www.nesfircroft.com/job/software-qa-specialist",
+    "https://www.nesfircroft.com/job/acheteur-senior---grand-arret-hf"
    ],
    "fails": 0,
    "initialized": true
@@ -2588,7 +2631,8 @@
     "EF16055-en_US",
     "87652",
     "87692",
-    "EF22369-en_US"
+    "EF22369-en_US",
+    "EF20345-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -3291,7 +3335,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 7,
+   "fails": 8,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3540,7 +3584,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 7,
+   "fails": 8,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3906,7 +3950,9 @@
     "103379714592",
     "103414381824",
     "99837520192",
-    "102957042272"
+    "102957042272",
+    "103460078128",
+    "103460078384"
    ],
    "fails": 0,
    "initialized": true
