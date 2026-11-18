@@ -1990,7 +1990,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 137,
+   "fails": 138,
    "initialized": false
   },
   "KPO": {
@@ -2546,7 +2546,8 @@
     "EF19213-en_US",
     "EF16055-en_US",
     "87652",
-    "87692"
+    "87692",
+    "EF22369-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -3249,7 +3250,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 5,
+   "fails": 6,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3498,7 +3499,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 5,
+   "fails": 6,
    "initialized": true
   },
   "AtyrauTechInvest": {
