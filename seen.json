@@ -2067,7 +2067,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 140,
+   "fails": 141,
    "initialized": false
   },
   "KPO": {
@@ -2076,7 +2076,7 @@
     "https://hr.kpo.kz/vacancy/932",
     "https://hr.kpo.kz/vacancy/933"
    ],
-   "fails": 1,
+   "fails": 0,
    "initialized": true
   },
   "FIR Caspian": {
@@ -3335,7 +3335,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 8,
+   "fails": 9,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3584,7 +3584,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 8,
+   "fails": 9,
    "initialized": true
   },
   "AtyrauTechInvest": {
