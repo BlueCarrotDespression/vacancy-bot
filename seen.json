@@ -1991,7 +1991,41 @@
     "108596",
     "108600",
     "108598",
-    "108597"
+    "108597",
+    "108660",
+    "108658",
+    "108659",
+    "108657",
+    "108656",
+    "108655",
+    "108652",
+    "108142",
+    "107423",
+    "108651",
+    "108650",
+    "108649",
+    "108648",
+    "108097",
+    "108352",
+    "108646",
+    "108647",
+    "105587",
+    "108397",
+    "108353",
+    "108643",
+    "108640",
+    "108641",
+    "108642",
+    "97703",
+    "108639",
+    "108638",
+    "99814",
+    "108350",
+    "106461",
+    "108637",
+    "108365",
+    "108636",
+    "108281"
    ],
    "fails": 0,
    "initialized": true
@@ -2067,7 +2101,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 141,
+   "fails": 142,
    "initialized": false
   },
   "KPO": {
@@ -2439,7 +2473,14 @@
     "https://www.nesfircroft.com/job/senior-data-engineer-33446",
     "https://www.nesfircroft.com/job/senior-devops-engineer-33447",
     "https://www.nesfircroft.com/job/software-qa-specialist",
-    "https://www.nesfircroft.com/job/acheteur-senior---grand-arret-hf"
+    "https://www.nesfircroft.com/job/acheteur-senior---grand-arret-hf",
+    "https://www.nesfircroft.com/job/electrical-commissioning-assistance-heat-trace",
+    "https://www.nesfircroft.com/job/commissioning-lead-electro",
+    "https://www.nesfircroft.com/job/rotating-equipment-engineer-33467",
+    "https://www.nesfircroft.com/job/head-of-construction-execution",
+    "https://www.nesfircroft.com/job/ojt-instructor-33468",
+    "https://www.nesfircroft.com/job/maintenance-support-instrument--control-engineers",
+    "https://www.nesfircroft.com/job/qaqc-engineer-33465"
    ],
    "fails": 0,
    "initialized": true
@@ -2632,7 +2673,10 @@
     "87652",
     "87692",
     "EF22369-en_US",
-    "EF20345-en_US"
+    "EF20345-en_US",
+    "87736",
+    "87733",
+    "87732"
    ],
    "fails": 0,
    "initialized": true
@@ -3335,7 +3379,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 9,
+   "fails": 10,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3584,7 +3628,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 9,
+   "fails": 10,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3952,7 +3996,8 @@
     "99837520192",
     "102957042272",
     "103460078128",
-    "103460078384"
+    "103460078384",
+    "103500911776"
    ],
    "fails": 0,
    "initialized": true
