@@ -2063,7 +2063,20 @@
     "108673",
     "101826",
     "108672",
-    "108702"
+    "108702",
+    "108711",
+    "108710",
+    "108709",
+    "108708",
+    "91347",
+    "104460",
+    "108707",
+    "108706",
+    "108705",
+    "108704",
+    "108703",
+    "108356",
+    "90671"
    ],
    "fails": 0,
    "initialized": true
@@ -2139,7 +2152,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 144,
+   "fails": 145,
    "initialized": false
   },
   "KPO": {
@@ -2522,7 +2535,9 @@
     "https://www.nesfircroft.com/job/automation---senior-engineer-33473",
     "https://www.nesfircroft.com/job/quality-lead-nde-33482",
     "https://www.nesfircroft.com/job/upstream-hse-manager",
-    "https://www.nesfircroft.com/job/lease-operator-33500"
+    "https://www.nesfircroft.com/job/lease-operator-33500",
+    "https://www.nesfircroft.com/job/process-engineer-33505",
+    "https://www.nesfircroft.com/job/purchasing-specialist--services-procurement"
    ],
    "fails": 0,
    "initialized": true
@@ -3426,7 +3441,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 12,
+   "fails": 13,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3675,7 +3690,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 12,
+   "fails": 13,
    "initialized": true
   },
   "AtyrauTechInvest": {
