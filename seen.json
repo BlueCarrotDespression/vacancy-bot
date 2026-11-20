@@ -2076,7 +2076,47 @@
     "108704",
     "108703",
     "108356",
-    "90671"
+    "90671",
+    "103831",
+    "107981",
+    "104037",
+    "91919",
+    "108318",
+    "108758",
+    "108765",
+    "101845",
+    "108411",
+    "108764",
+    "108763",
+    "108762",
+    "108761",
+    "108759",
+    "108674",
+    "108757",
+    "108396",
+    "108756",
+    "105731",
+    "108755",
+    "108716",
+    "108675",
+    "107633",
+    "94602",
+    "108754",
+    "108753",
+    "108752",
+    "108148",
+    "108750",
+    "108747",
+    "108749",
+    "108748",
+    "103197",
+    "108746",
+    "108745",
+    "108744",
+    "108743",
+    "108742",
+    "108741",
+    "108740"
    ],
    "fails": 0,
    "initialized": true
@@ -2145,14 +2185,15 @@
     "5877",
     "5873",
     "2623",
-    "3280"
+    "3280",
+    "6077"
    ],
    "fails": 0,
    "initialized": true
   },
   "Worley": {
    "seen": [],
-   "fails": 145,
+   "fails": 146,
    "initialized": false
   },
   "KPO": {
@@ -2262,7 +2303,8 @@
     "14497",
     "14571",
     "14306",
-    "14513"
+    "14513",
+    "14597"
    ],
    "fails": 0,
    "initialized": true
@@ -2537,7 +2579,8 @@
     "https://www.nesfircroft.com/job/upstream-hse-manager",
     "https://www.nesfircroft.com/job/lease-operator-33500",
     "https://www.nesfircroft.com/job/process-engineer-33505",
-    "https://www.nesfircroft.com/job/purchasing-specialist--services-procurement"
+    "https://www.nesfircroft.com/job/purchasing-specialist--services-procurement",
+    "https://www.nesfircroft.com/job/functions-cost-team-lead"
    ],
    "fails": 0,
    "initialized": true
@@ -2737,7 +2780,8 @@
     "EF22043-en_US",
     "87734",
     "87735",
-    "87753"
+    "87753",
+    "WDR00137441"
    ],
    "fails": 0,
    "initialized": true
@@ -3441,7 +3485,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 13,
+   "fails": 14,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3690,7 +3734,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 13,
+   "fails": 14,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4063,7 +4107,9 @@
     "103500911776",
     "103507506608",
     "99837520176",
-    "103507506640"
+    "103507506640",
+    "103551529984",
+    "100382062752"
    ],
    "fails": 0,
    "initialized": true
