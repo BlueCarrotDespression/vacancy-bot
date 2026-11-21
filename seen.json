@@ -2197,7 +2197,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 149,
+   "fails": 150,
    "initialized": false
   },
   "KPO": {
@@ -2587,7 +2587,8 @@
     "https://www.nesfircroft.com/job/functions-cost-team-lead",
     "https://www.nesfircroft.com/job/electrical-inspector-33520",
     "https://www.nesfircroft.com/job/angular-software-engineer",
-    "https://www.nesfircroft.com/job/offshore-client-site-representative"
+    "https://www.nesfircroft.com/job/offshore-client-site-representative",
+    "https://www.nesfircroft.com/job/head-of-project-engineering-pipeline"
    ],
    "fails": 0,
    "initialized": true
@@ -2788,7 +2789,9 @@
     "87734",
     "87735",
     "87753",
-    "WDR00137441"
+    "WDR00137441",
+    "86194",
+    "87772"
    ],
    "fails": 0,
    "initialized": true
@@ -3492,7 +3495,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 17,
+   "fails": 18,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3741,7 +3744,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 17,
+   "fails": 18,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4120,7 +4123,8 @@
     "103564662944",
     "103564663024",
     "103564663008",
-    "103564662992"
+    "103564662992",
+    "103594258960"
    ],
    "fails": 0,
    "initialized": true
