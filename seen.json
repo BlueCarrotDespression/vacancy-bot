@@ -2130,7 +2130,31 @@
     "107459",
     "108771",
     "108739",
-    "108738"
+    "108738",
+    "108852",
+    "108851",
+    "108850",
+    "100094",
+    "108849",
+    "108848",
+    "104439",
+    "108842",
+    "108477",
+    "107977",
+    "108847",
+    "108718",
+    "108719",
+    "102660",
+    "108560",
+    "108846",
+    "108843",
+    "108845",
+    "102830",
+    "107458",
+    "108734",
+    "108844",
+    "108733",
+    "104805"
    ],
    "fails": 0,
    "initialized": true
@@ -2200,21 +2224,23 @@
     "5873",
     "2623",
     "3280",
-    "6077"
+    "6077",
+    "4910"
    ],
    "fails": 0,
    "initialized": true
   },
   "Worley": {
    "seen": [],
-   "fails": 156,
+   "fails": 157,
    "initialized": false
   },
   "KPO": {
    "seen": [
     "https://hr.kpo.kz/vacancy/931",
     "https://hr.kpo.kz/vacancy/932",
-    "https://hr.kpo.kz/vacancy/933"
+    "https://hr.kpo.kz/vacancy/933",
+    "https://hr.kpo.kz/vacancy/934"
    ],
    "fails": 0,
    "initialized": true
@@ -2318,7 +2344,14 @@
     "14571",
     "14306",
     "14513",
-    "14597"
+    "14597",
+    "14600",
+    "14594",
+    "14588",
+    "14595",
+    "14587",
+    "14589",
+    "14599"
    ],
    "fails": 0,
    "initialized": true
@@ -2598,7 +2631,11 @@
     "https://www.nesfircroft.com/job/electrical-inspector-33520",
     "https://www.nesfircroft.com/job/angular-software-engineer",
     "https://www.nesfircroft.com/job/offshore-client-site-representative",
-    "https://www.nesfircroft.com/job/head-of-project-engineering-pipeline"
+    "https://www.nesfircroft.com/job/head-of-project-engineering-pipeline",
+    "https://www.nesfircroft.com/job/electronic-security-systems-technical-lead",
+    "https://www.nesfircroft.com/job/electric-commissioning-engineer",
+    "https://www.nesfircroft.com/job/business-development-manager-33533",
+    "https://www.nesfircroft.com/job/mechanical-and-process-commissioning-engineer"
    ],
    "fails": 0,
    "initialized": true
@@ -3506,7 +3543,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 24,
+   "fails": 25,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3755,7 +3792,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 24,
+   "fails": 25,
    "initialized": true
   },
   "AtyrauTechInvest": {
