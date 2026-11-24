@@ -2154,7 +2154,12 @@
     "108734",
     "108844",
     "108733",
-    "104805"
+    "104805",
+    "108856",
+    "108855",
+    "108854",
+    "108853",
+    "104241"
    ],
    "fails": 0,
    "initialized": true
@@ -2232,7 +2237,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 157,
+   "fails": 158,
    "initialized": false
   },
   "KPO": {
@@ -2635,7 +2640,15 @@
     "https://www.nesfircroft.com/job/electronic-security-systems-technical-lead",
     "https://www.nesfircroft.com/job/electric-commissioning-engineer",
     "https://www.nesfircroft.com/job/business-development-manager-33533",
-    "https://www.nesfircroft.com/job/mechanical-and-process-commissioning-engineer"
+    "https://www.nesfircroft.com/job/mechanical-and-process-commissioning-engineer",
+    "https://www.nesfircroft.com/job/field-communications-technician-iii-33546",
+    "https://www.nesfircroft.com/job/electrical-cabinet-assembler",
+    "https://www.nesfircroft.com/job/mechanical-assembler-33548",
+    "https://www.nesfircroft.com/job/recruitment-coordinator-33552",
+    "https://www.nesfircroft.com/job/account-manager-33545",
+    "https://www.nesfircroft.com/job/quality-systems-specialist",
+    "https://www.nesfircroft.com/job/project-engineer---sas",
+    "https://www.nesfircroft.com/job/contract-lab-sampling-technician"
    ],
    "fails": 0,
    "initialized": true
@@ -3543,7 +3556,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 25,
+   "fails": 26,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3792,7 +3805,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 25,
+   "fails": 26,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4173,7 +4186,10 @@
     "103564663008",
     "103564662992",
     "103594258960",
-    "96726957360"
+    "96726957360",
+    "103685817456",
+    "103696356992",
+    "103692661600"
    ],
    "fails": 0,
    "initialized": true
