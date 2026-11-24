@@ -2197,7 +2197,42 @@
     "108887",
     "108721",
     "108886",
-    "108469"
+    "108469",
+    "108932",
+    "108715",
+    "108931",
+    "108929",
+    "108930",
+    "99338",
+    "108928",
+    "108927",
+    "108926",
+    "108864",
+    "108924",
+    "99134",
+    "103611",
+    "108923",
+    "108921",
+    "105189",
+    "108920",
+    "108922",
+    "107829",
+    "108919",
+    "108918",
+    "108914",
+    "108913",
+    "108717",
+    "108735",
+    "108912",
+    "108630",
+    "108911",
+    "108910",
+    "100667",
+    "104881",
+    "106848",
+    "108909",
+    "108908",
+    "108907"
    ],
    "fails": 0,
    "initialized": true
@@ -2275,7 +2310,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 159,
+   "fails": 160,
    "initialized": false
   },
   "KPO": {
@@ -2688,7 +2723,10 @@
     "https://www.nesfircroft.com/job/quality-systems-specialist",
     "https://www.nesfircroft.com/job/project-engineer---sas",
     "https://www.nesfircroft.com/job/contract-lab-sampling-technician",
-    "https://www.nesfircroft.com/job/data-and-analytics-team-leader"
+    "https://www.nesfircroft.com/job/data-and-analytics-team-leader",
+    "https://www.nesfircroft.com/job/amo-technician---coiled-tubing",
+    "https://www.nesfircroft.com/job/maintenance-assistant-33571",
+    "https://www.nesfircroft.com/job/hmss-inspektr--leder"
    ],
    "fails": 0,
    "initialized": true
@@ -3596,7 +3634,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 27,
+   "fails": 28,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3845,7 +3883,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 27,
+   "fails": 28,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4231,7 +4269,10 @@
     "103685817456",
     "103696356992",
     "103692661600",
-    "103716720000"
+    "103716720000",
+    "103736085248",
+    "103736085232",
+    "103722514368"
    ],
    "fails": 0,
    "initialized": true
