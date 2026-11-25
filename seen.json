@@ -2274,7 +2274,8 @@
     "108968",
     "108967",
     "108966",
-    "106021"
+    "106021",
+    "108994"
    ],
    "fails": 0,
    "initialized": true
@@ -2352,7 +2353,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 162,
+   "fails": 163,
    "initialized": false
   },
   "KPO": {
@@ -2777,7 +2778,11 @@
     "https://www.nesfircroft.com/job/structural-engineer-33590",
     "https://www.nesfircroft.com/job/senior-construction-engineer-offshore-pipeline",
     "https://www.nesfircroft.com/job/senior-construction-engineer-subsea-ti--spfo",
-    "https://www.nesfircroft.com/job/warehouse-helper--warehouse-general-labor"
+    "https://www.nesfircroft.com/job/warehouse-helper--warehouse-general-labor",
+    "https://www.nesfircroft.com/job/community-liaison-officer",
+    "https://www.nesfircroft.com/job/training-coordinator-33618",
+    "https://www.nesfircroft.com/job/icss-project-engineer-33611",
+    "https://www.nesfircroft.com/job/corporate-affairs-advisor"
    ],
    "fails": 0,
    "initialized": true
@@ -2981,7 +2986,8 @@
     "WDR00137441",
     "86194",
     "87772",
-    "EF13244-en_US"
+    "EF13244-en_US",
+    "EF23333-en_US"
    ],
    "fails": 0,
    "initialized": true
@@ -3685,7 +3691,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 30,
+   "fails": 31,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3934,7 +3940,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 30,
+   "fails": 31,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4327,7 +4333,11 @@
     "103736085232",
     "103722514368",
     "103753056736",
-    "103766550624"
+    "103766550624",
+    "103772893632",
+    "103790606160",
+    "103772893664",
+    "103772893680"
    ],
    "fails": 0,
    "initialized": true
