@@ -2237,7 +2237,44 @@
     "108629",
     "108935",
     "108779",
-    "108934"
+    "108934",
+    "108993",
+    "108992",
+    "108991",
+    "88206",
+    "108990",
+    "108989",
+    "108983",
+    "108988",
+    "106668",
+    "108987",
+    "108986",
+    "108949",
+    "103945",
+    "108985",
+    "97727",
+    "108984",
+    "108813",
+    "108982",
+    "108981",
+    "108980",
+    "108978",
+    "108977",
+    "108976",
+    "108975",
+    "108974",
+    "108972",
+    "108973",
+    "108795",
+    "108354",
+    "108971",
+    "108970",
+    "108969",
+    "107524",
+    "108968",
+    "108967",
+    "108966",
+    "106021"
    ],
    "fails": 0,
    "initialized": true
@@ -2315,7 +2352,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 161,
+   "fails": 162,
    "initialized": false
   },
   "KPO": {
@@ -2435,7 +2472,10 @@
     "14587",
     "14589",
     "14599",
-    "14603"
+    "14603",
+    "14598",
+    "14593",
+    "14613"
    ],
    "fails": 0,
    "initialized": true
@@ -2732,7 +2772,12 @@
     "https://www.nesfircroft.com/job/amo-technician---coiled-tubing",
     "https://www.nesfircroft.com/job/maintenance-assistant-33571",
     "https://www.nesfircroft.com/job/hmss-inspektr--leder",
-    "https://www.nesfircroft.com/job/plant--process-operator-ii"
+    "https://www.nesfircroft.com/job/plant--process-operator-ii",
+    "https://www.nesfircroft.com/job/senior-mechanical-engineer-materials--corrosion",
+    "https://www.nesfircroft.com/job/structural-engineer-33590",
+    "https://www.nesfircroft.com/job/senior-construction-engineer-offshore-pipeline",
+    "https://www.nesfircroft.com/job/senior-construction-engineer-subsea-ti--spfo",
+    "https://www.nesfircroft.com/job/warehouse-helper--warehouse-general-labor"
    ],
    "fails": 0,
    "initialized": true
@@ -3640,7 +3685,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 29,
+   "fails": 30,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3889,7 +3934,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 29,
+   "fails": 30,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3897,7 +3942,8 @@
     "138538403",
     "138213726",
     "138995136",
-    "139655841"
+    "139655841",
+    "139824072"
    ],
    "fails": 0,
    "initialized": true
@@ -4037,7 +4083,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/executive-transaction-services",
     "https://kpmgcca.global.huntflow.io/vacancy/supervisor-audit-department",
     "https://kpmgcca.global.huntflow.io/vacancy/audit-supervisor-almaty",
-    "https://kpmgcca.global.huntflow.io/vacancy/junior-red-team-specialist-penetration-tester"
+    "https://kpmgcca.global.huntflow.io/vacancy/junior-red-team-specialist-penetration-tester",
+    "https://kpmgcca.global.huntflow.io/vacancy/consultant-6"
    ],
    "fails": 0,
    "initialized": true
@@ -4279,7 +4326,8 @@
     "103736085248",
     "103736085232",
     "103722514368",
-    "103753056736"
+    "103753056736",
+    "103766550624"
    ],
    "fails": 0,
    "initialized": true
