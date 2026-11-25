@@ -2232,7 +2232,12 @@
     "106848",
     "108909",
     "108908",
-    "108907"
+    "108907",
+    "104229",
+    "108629",
+    "108935",
+    "108779",
+    "108934"
    ],
    "fails": 0,
    "initialized": true
@@ -2310,7 +2315,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 160,
+   "fails": 161,
    "initialized": false
   },
   "KPO": {
@@ -2726,7 +2731,8 @@
     "https://www.nesfircroft.com/job/data-and-analytics-team-leader",
     "https://www.nesfircroft.com/job/amo-technician---coiled-tubing",
     "https://www.nesfircroft.com/job/maintenance-assistant-33571",
-    "https://www.nesfircroft.com/job/hmss-inspektr--leder"
+    "https://www.nesfircroft.com/job/hmss-inspektr--leder",
+    "https://www.nesfircroft.com/job/plant--process-operator-ii"
    ],
    "fails": 0,
    "initialized": true
@@ -3634,7 +3640,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 28,
+   "fails": 29,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3883,7 +3889,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 28,
+   "fails": 29,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4272,7 +4278,8 @@
     "103716720000",
     "103736085248",
     "103736085232",
-    "103722514368"
+    "103722514368",
+    "103753056736"
    ],
    "fails": 0,
    "initialized": true
