@@ -2287,7 +2287,47 @@
     "108996",
     "108775",
     "108995",
-    "108880"
+    "108880",
+    "108869",
+    "108870",
+    "109046",
+    "109045",
+    "109044",
+    "109043",
+    "109041",
+    "109038",
+    "109040",
+    "109042",
+    "109039",
+    "109037",
+    "108544",
+    "109036",
+    "109035",
+    "109034",
+    "109033",
+    "109032",
+    "109031",
+    "109030",
+    "108400",
+    "99665",
+    "109029",
+    "109028",
+    "108531",
+    "109027",
+    "109026",
+    "109025",
+    "108539",
+    "108541",
+    "108555",
+    "108979",
+    "108552",
+    "108546",
+    "108556",
+    "109024",
+    "109023",
+    "109022",
+    "109021",
+    "109020"
    ],
    "fails": 0,
    "initialized": true
@@ -2365,7 +2405,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 164,
+   "fails": 165,
    "initialized": false
   },
   "KPO": {
@@ -2488,7 +2528,10 @@
     "14603",
     "14598",
     "14593",
-    "14613"
+    "14613",
+    "14615",
+    "14618",
+    "14586"
    ],
    "fails": 0,
    "initialized": true
@@ -2798,7 +2841,12 @@
     "https://www.nesfircroft.com/job/senior-production-engineer-33620",
     "https://www.nesfircroft.com/job/head-of-customer-satisfaction--quality",
     "https://www.nesfircroft.com/job/commissioning-lead-cp6s-eict-hu",
-    "https://www.nesfircroft.com/job/process-safety-advisor"
+    "https://www.nesfircroft.com/job/process-safety-advisor",
+    "https://www.nesfircroft.com/job/sr-dw-supervisor",
+    "https://www.nesfircroft.com/job/flow-assurance-engineer-33630",
+    "https://www.nesfircroft.com/job/associate-data-scientist-smp-with-saudi-aramco-33635",
+    "https://www.nesfircroft.com/job/flow-assurance-engineer--specialist",
+    "https://www.nesfircroft.com/job/lead-digital-solutions-analyst---graphic-designer-smp-with-saudi-aramco"
    ],
    "fails": 0,
    "initialized": true
@@ -3028,7 +3076,8 @@
     "PWCECE771823WDEXTERNALENEA",
     "PWCECE772279WDEXTERNALENEA",
     "PWCECE772318WDEXTERNALENEA",
-    "PWCECE775068WDEXTERNALENEA"
+    "PWCECE775068WDEXTERNALENEA",
+    "PWCECE776602WDEXTERNALENEA"
    ],
    "fails": 0,
    "initialized": true
@@ -3707,7 +3756,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 32,
+   "fails": 33,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3956,7 +4005,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 32,
+   "fails": 33,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -3965,7 +4014,9 @@
     "138213726",
     "138995136",
     "139655841",
-    "139824072"
+    "139824072",
+    "139892106",
+    "139892107"
    ],
    "fails": 0,
    "initialized": true
@@ -4106,7 +4157,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/supervisor-audit-department",
     "https://kpmgcca.global.huntflow.io/vacancy/audit-supervisor-almaty",
     "https://kpmgcca.global.huntflow.io/vacancy/junior-red-team-specialist-penetration-tester",
-    "https://kpmgcca.global.huntflow.io/vacancy/consultant-6"
+    "https://kpmgcca.global.huntflow.io/vacancy/consultant-6",
+    "https://kpmgcca.global.huntflow.io/vacancy/manager-tax-compliance-1"
    ],
    "fails": 0,
    "initialized": true
@@ -4358,7 +4410,8 @@
     "102276301552",
     "103795964176",
     "103795964208",
-    "103795964224"
+    "103795964224",
+    "103803593488"
    ],
    "fails": 0,
    "initialized": true
