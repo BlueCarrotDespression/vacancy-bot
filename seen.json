@@ -2275,7 +2275,19 @@
     "108967",
     "108966",
     "106021",
-    "108994"
+    "108994",
+    "109002",
+    "108915",
+    "109000",
+    "108634",
+    "108999",
+    "108998",
+    "85160",
+    "108997",
+    "108996",
+    "108775",
+    "108995",
+    "108880"
    ],
    "fails": 0,
    "initialized": true
@@ -2353,7 +2365,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 163,
+   "fails": 164,
    "initialized": false
   },
   "KPO": {
@@ -2782,7 +2794,11 @@
     "https://www.nesfircroft.com/job/community-liaison-officer",
     "https://www.nesfircroft.com/job/training-coordinator-33618",
     "https://www.nesfircroft.com/job/icss-project-engineer-33611",
-    "https://www.nesfircroft.com/job/corporate-affairs-advisor"
+    "https://www.nesfircroft.com/job/corporate-affairs-advisor",
+    "https://www.nesfircroft.com/job/senior-production-engineer-33620",
+    "https://www.nesfircroft.com/job/head-of-customer-satisfaction--quality",
+    "https://www.nesfircroft.com/job/commissioning-lead-cp6s-eict-hu",
+    "https://www.nesfircroft.com/job/process-safety-advisor"
    ],
    "fails": 0,
    "initialized": true
@@ -3691,7 +3707,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 31,
+   "fails": 32,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -3940,7 +3956,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 31,
+   "fails": 32,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4337,7 +4353,12 @@
     "103772893632",
     "103790606160",
     "103772893664",
-    "103772893680"
+    "103772893680",
+    "103795964160",
+    "102276301552",
+    "103795964176",
+    "103795964208",
+    "103795964224"
    ],
    "fails": 0,
    "initialized": true
