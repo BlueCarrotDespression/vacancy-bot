@@ -2327,7 +2327,9 @@
     "109023",
     "109022",
     "109021",
-    "109020"
+    "109020",
+    "109019",
+    "109007"
    ],
    "fails": 0,
    "initialized": true
@@ -2405,7 +2407,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 165,
+   "fails": 166,
    "initialized": false
   },
   "KPO": {
@@ -2846,7 +2848,10 @@
     "https://www.nesfircroft.com/job/flow-assurance-engineer-33630",
     "https://www.nesfircroft.com/job/associate-data-scientist-smp-with-saudi-aramco-33635",
     "https://www.nesfircroft.com/job/flow-assurance-engineer--specialist",
-    "https://www.nesfircroft.com/job/lead-digital-solutions-analyst---graphic-designer-smp-with-saudi-aramco"
+    "https://www.nesfircroft.com/job/lead-digital-solutions-analyst---graphic-designer-smp-with-saudi-aramco",
+    "https://www.nesfircroft.com/job/mpd-field-technician",
+    "https://www.nesfircroft.com/job/project-controls-analyst-33643",
+    "https://www.nesfircroft.com/job/mpd-supervisor-33645"
    ],
    "fails": 0,
    "initialized": true
@@ -3756,7 +3761,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 33,
+   "fails": 34,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -4005,7 +4010,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 33,
+   "fails": 34,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4411,7 +4416,9 @@
     "103795964176",
     "103795964208",
     "103795964224",
-    "103803593488"
+    "103803593488",
+    "103836789632",
+    "103836789680"
    ],
    "fails": 0,
    "initialized": true
