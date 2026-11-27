@@ -2329,7 +2329,29 @@
     "109021",
     "109020",
     "109019",
-    "109007"
+    "109007",
+    "109054",
+    "102713",
+    "105500",
+    "108403",
+    "106065",
+    "106235",
+    "106587",
+    "109053",
+    "109052",
+    "109051",
+    "106921",
+    "106922",
+    "109050",
+    "99126",
+    "102247",
+    "102873",
+    "109049",
+    "108722",
+    "108936",
+    "108016",
+    "108943",
+    "101105"
    ],
    "fails": 0,
    "initialized": true
@@ -2407,7 +2429,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 166,
+   "fails": 167,
    "initialized": false
   },
   "KPO": {
@@ -2533,7 +2555,8 @@
     "14613",
     "14615",
     "14618",
-    "14586"
+    "14586",
+    "14619"
    ],
    "fails": 0,
    "initialized": true
@@ -2851,7 +2874,9 @@
     "https://www.nesfircroft.com/job/lead-digital-solutions-analyst---graphic-designer-smp-with-saudi-aramco",
     "https://www.nesfircroft.com/job/mpd-field-technician",
     "https://www.nesfircroft.com/job/project-controls-analyst-33643",
-    "https://www.nesfircroft.com/job/mpd-supervisor-33645"
+    "https://www.nesfircroft.com/job/mpd-supervisor-33645",
+    "https://www.nesfircroft.com/job/people-movement-coordinator-33648",
+    "https://www.nesfircroft.com/job/controls-engineer-33649"
    ],
    "fails": 0,
    "initialized": true
@@ -3761,7 +3786,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 34,
+   "fails": 35,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -4010,7 +4035,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 34,
+   "fails": 35,
    "initialized": true
   },
   "AtyrauTechInvest": {
