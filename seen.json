@@ -2351,7 +2351,40 @@
     "108936",
     "108016",
     "108943",
-    "101105"
+    "101105",
+    "109105",
+    "109108",
+    "109107",
+    "109106",
+    "108814",
+    "109104",
+    "109103",
+    "109102",
+    "109099",
+    "108803",
+    "109098",
+    "104741",
+    "108279",
+    "109097",
+    "109096",
+    "109095",
+    "109094",
+    "108460",
+    "109093",
+    "109085",
+    "109091",
+    "109092",
+    "108151",
+    "95739",
+    "109088",
+    "109089",
+    "109087",
+    "109086",
+    "109084",
+    "109083",
+    "107304",
+    "109082",
+    "109080"
    ],
    "fails": 0,
    "initialized": true
@@ -2375,7 +2408,13 @@
     "1687",
     "1685",
     "1675",
-    "1672"
+    "1672",
+    "https://tenoil.kz/%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80-%d0%bf%d0%be-%d0%b7%d0%b0%d0%ba%d1%83%d0%bf%d0%ba%d0%b0%d0%bc",
+    "https://tenoil.kz/%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80-hse",
+    "https://tenoil.kz/%d0%b8%d0%bd%d1%81%d0%bf%d0%b5%d0%ba%d1%82%d0%be%d1%80-qa-qc",
+    "https://tenoil.kz/%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%bc%d0%be%d0%bd%d1%82%d0%b0%d0%b6%d0%bd%d0%b8%d0%ba",
+    "https://tenoil.kz/%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80-%d0%bf%d1%82%d0%be-project-technical-office-engineer",
+    "https://tenoil.kz/%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80-%d0%ba%d0%b8%d0%bf%d0%b8%d0%b0-instrumentation-engineer"
    ],
    "fails": 0,
    "initialized": true
@@ -2429,7 +2468,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 167,
+   "fails": 168,
    "initialized": false
   },
   "KPO": {
@@ -2556,7 +2595,14 @@
     "14615",
     "14618",
     "14586",
-    "14619"
+    "14619",
+    "14547",
+    "14596",
+    "14617",
+    "14479",
+    "14591",
+    "14235",
+    "14590"
    ],
    "fails": 0,
    "initialized": true
@@ -2876,7 +2922,9 @@
     "https://www.nesfircroft.com/job/project-controls-analyst-33643",
     "https://www.nesfircroft.com/job/mpd-supervisor-33645",
     "https://www.nesfircroft.com/job/people-movement-coordinator-33648",
-    "https://www.nesfircroft.com/job/controls-engineer-33649"
+    "https://www.nesfircroft.com/job/controls-engineer-33649",
+    "https://www.nesfircroft.com/job/product-lead-engineer",
+    "https://www.nesfircroft.com/job/principal-accounting-consultant-33666"
    ],
    "fails": 0,
    "initialized": true
@@ -3081,7 +3129,8 @@
     "86194",
     "87772",
     "EF13244-en_US",
-    "EF23333-en_US"
+    "EF23333-en_US",
+    "WDR00137455"
    ],
    "fails": 0,
    "initialized": true
@@ -3786,7 +3835,7 @@
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
     "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
    ],
-   "fails": 35,
+   "fails": 36,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -4035,7 +4084,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 35,
+   "fails": 36,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4188,7 +4237,8 @@
     "https://kpmgcca.global.huntflow.io/vacancy/audit-supervisor-almaty",
     "https://kpmgcca.global.huntflow.io/vacancy/junior-red-team-specialist-penetration-tester",
     "https://kpmgcca.global.huntflow.io/vacancy/consultant-6",
-    "https://kpmgcca.global.huntflow.io/vacancy/manager-tax-compliance-1"
+    "https://kpmgcca.global.huntflow.io/vacancy/manager-tax-compliance-1",
+    "https://kpmgcca.global.huntflow.io/vacancy/senior-event-specialist"
    ],
    "fails": 0,
    "initialized": true
@@ -4443,7 +4493,9 @@
     "103795964224",
     "103803593488",
     "103836789632",
-    "103836789680"
+    "103836789680",
+    "103849527632",
+    "103855687008"
    ],
    "fails": 0,
    "initialized": true
