@@ -2387,7 +2387,16 @@
     "109080",
     "109110",
     "109109",
-    "108528"
+    "108528",
+    "109119",
+    "109118",
+    "109117",
+    "109116",
+    "109115",
+    "109114",
+    "109113",
+    "109112",
+    "109111"
    ],
    "fails": 0,
    "initialized": true
@@ -2471,7 +2480,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 170,
+   "fails": 171,
    "initialized": false
   },
   "KPO": {
@@ -3880,7 +3889,7 @@
     "/job/PG-OTHER-PAPUA-NEW-GUINEA/Services-Advisor---Contract-Performance-Mgmt_R171046-1",
     "/job/CA-BC-FORT-ST-JOHN-10415-89-AVENUE/Driver-III_R169813"
    ],
-   "fails": 0,
+   "fails": 1,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -4129,7 +4138,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 38,
+   "fails": 39,
    "initialized": true
   },
   "AtyrauTechInvest": {
@@ -4541,7 +4550,8 @@
     "103836789680",
     "103849527632",
     "103855687008",
-    "103872003664"
+    "103872003664",
+    "103795964192"
    ],
    "fails": 0,
    "initialized": true
