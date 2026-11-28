@@ -2386,7 +2386,8 @@
     "109082",
     "109080",
     "109110",
-    "109109"
+    "109109",
+    "108528"
    ],
    "fails": 0,
    "initialized": true
@@ -2470,7 +2471,7 @@
   },
   "Worley": {
    "seen": [],
-   "fails": 169,
+   "fails": 170,
    "initialized": false
   },
   "KPO": {
@@ -3837,9 +3838,49 @@
     "/job/NO-Rogaland-Stavanger-Lagerveien-30/Product-Champion---Tractor---PMA_R169808",
     "/job/KW-AL-AHMADI-BLDG-NO-13-14-15--16-EAST-AHMADI/Wireline-Field-Specialist_R169776",
     "/job/AE-DUBAI-TECHNO-PARK/Early-Talent-Trainee---Sales---Commercial-2027-Opportunity_R171203",
-    "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1"
+    "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Rotor-Shop-Machinist_R167176-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/HSE-Specialist--d-f-m-_R172241",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Deputy-Plant-HSE-Lead--d-f-m-_R171684",
+    "/job/ID-SM-BATAM-JALAN-KERAPU-NO-1415/Quality-Control-Inspector_R171181",
+    "/job/CN-SHANGHAI-1-HUA-TUO-RD/Non-Destructive-Examination-and-Welding-Engineer_R172391",
+    "/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Service-Manager-VG-Dedicated_R168509",
+    "/job/BN-KUALA-BELAIT-LOT-49-50-63-64/Mechanical-Engineer---Field-Service_R172450-1",
+    "/job/SA-EASTERN-PROVINCE-DHAHRAN-KING-ABDULLAH-BIN-ABDUL-AZIZ-SCIENCE-PARK-KASP/Field-Specialist---Coiled-Tubing_R167900",
+    "/job/BN-KUALA-BELAIT-LOT-49-50-63-64/Control-Engineer---Field-Service_R172454-1",
+    "/job/SA-DAMMAM-2nd-Industrial-City-Modon-facility-Plot-No-005TS00036-PO-Box-31952/Shop-Operator---Rotating-Equipment_R165508-1",
+    "/job/OM-MUSCAT-OMAN-AIRPORTS-MANAGEMENT-COMPANY/Junior-Field-Engineer---Centrifugal-Compressor--Omani-National-_R171831",
+    "/job/SG-SINGAPORE-29-AYER-MERBAU-ROAD/Warehouse-Operator_R171745",
+    "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Senior-Fluid-Separation-Specialist_R172036",
+    "/job/CZ-DOUDLEVCE-PILSEN-EDVARDA-BENESE-56439/Technick-koordintor-stavebnch-projekt_R172032-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Procurement-Contract-Management---2027-Opportunities--M-F-D-_R172646",
+    "/job/SG-SINGAPORE-273-JALAN-AHMAD-IBRAHIM/Technician-Machinist-I_R170019",
+    "/job/DZ-BOUFARIK-WILAYA-DE-BLIDA-ZONE-DACTIVITE-DE-GUEROUAOU/Repair-Technician_R172992",
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Sustainability-Professional---Technical-Advisor-Emissions_R172027-1",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-Acoustic-Engineer--d-f-m-_R172535",
+    "/job/US-TX-SUGAR-LAND-12645-WEST-AIRPORT-BLVD/Services-Senior-Specialist---Applications-Engineering_R169374",
+    "/job/CA-NL-MOUNT-PEARL-20-KYLE-AVENUE/Field-Operator---Coiled-Tubing_R172887",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Electrical-Engineer-d-f-m_R172073",
+    "/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Process---System-and-Instrumentation-Design-Engineer--Engineer---Lead-Engineer---d-f-m--_R172499",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Operational-Technology-Security-Leader--d-f-m-_R172091",
+    "/job/MY-KUL-KUALA-LUMPUR-21ST-FLOOR-MENARA-TAN--TAN/Finance-Specialist---Transfer-Pricing_R171702-1",
+    "/job/SG-SINGAPORE-2-BENOI-ROAD/Lead-Customer-Order-Mechanical-Engineer_R171521",
+    "/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Operator-1---Swing-Shift_R171909",
+    "/job/US-MO-Liberty-3160-W-Heartland-Drive/Assembler-Partsmaker_R172039",
+    "/job/PL-PDK-WARSAW-ALEJA-KRAKOWSKA-110114-BLD-3014613/Mechanical-Engineer--d-f-m-_R171957",
+    "/job/IT-MS-MASSA--VIA-DORSALE-3/F2F-Custom-Quality-Control-Inspector--d-f-m-_R172643",
+    "/job/AU-WA-PERTH-LEVEL-14-216-ST-GEORGES-TERRACE/Services-Staff-Director---Digital-Implementation---Enablement_R171081-1",
+    "/job/GB-NEWCASTLE-UPON-TYNE-WINCOMBLEE-ROAD-WELLSTREAM-HOUSE/Production-Process-Manufacturing-Engineer_R171873",
+    "/job/GB-NEWCASTLE-UPON-TYNE-WINCOMBLEE-ROAD-WELLSTREAM-HOUSE/Production-Process-Manufacturing-Engineer_R171874-1",
+    "/job/US-TX-HOUSTON-6500-BRITTMOORE-RD/Lead-Procurement-Specialist_R165400",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Finance-Senior-Team-Leader-Accounting-Operations_R172026",
+    "/job/AU-QLD-BRISBANE-69-ANN-STREET/Field-Specialist-III---LWD-DD_R172624-1",
+    "/job/US-IL-OLNEY-930-SOUTH-WEST-STREET/Crew-Lead_R171822",
+    "/job/GB-SO-NAILSEA-2-HIGH-STREET/Planner---Subsea-Projects_R171868",
+    "/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Sales-Senior-Advisor---Turkey---North-Africa--d-f-m-_R172165-1",
+    "/job/PG-OTHER-PAPUA-NEW-GUINEA/Services-Advisor---Contract-Performance-Mgmt_R171046-1",
+    "/job/CA-BC-FORT-ST-JOHN-10415-89-AVENUE/Driver-III_R169813"
    ],
-   "fails": 37,
+   "fails": 0,
    "initialized": true
   },
   "Halliburton Kazakhstan": {
@@ -4088,7 +4129,7 @@
     "/job/The-Hague/Payroll-Manager-Netherlands_R214260-1",
     "/job/Kuwait---Oil-Company/Technical-Team-Assistant_R215153-1"
    ],
-   "fails": 37,
+   "fails": 38,
    "initialized": true
   },
   "AtyrauTechInvest": {
